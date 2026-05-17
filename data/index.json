@@ -66,7 +66,11 @@
   },
   "tree": {
     "__root__": {
+<<<<<<< HEAD
       "title": "",
+=======
+      "title": "Root",
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
       "hubpage": null,
       "children": [
         "campaigns",

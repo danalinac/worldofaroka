@@ -66,10 +66,14 @@ function renderIndex(index) {
     const indexPane = document.getElementById("index-pane");
     if (!indexPane) return;
 
+<<<<<<< HEAD
     // ⭐ FIX: Exclude __root__ so it does NOT render as an empty folder
     const topLevelKeys = Object.keys(tree)
         .filter(k => k !== "__root__" && !k.includes("/"));
 
+=======
+    const topLevelKeys = Object.keys(tree).filter(k => !k.includes("/"));
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
     const sortedTop = topLevelKeys.sort((a, b) => {
         const ta = (tree[a].title || a).toLowerCase();
         const tb = (tree[b].title || b).toLowerCase();
@@ -107,11 +111,23 @@ function wireIndexBehavior(indexPane, pages) {
 
         if (isFolder) {
             if (clickedArrow) {
+<<<<<<< HEAD
                 node.classList.toggle("open");
             } else if (clickedTitle) {
                 window.location.href = `/pages/${slug}/index.html`;
             }
         } else {
+=======
+                // Arrow click → expand/collapse
+                node.classList.toggle("open");
+            } else if (clickedTitle) {
+                // Title click → navigate to hubpage
+                window.location.href = `/pages/${slug}/index.html`;
+            }
+            // Ignore clicks on the rest of the header
+        } else {
+            // Leaf → navigate
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
             window.location.href = `/pages/${slug}/index.html`;
         }
     });
@@ -129,12 +145,20 @@ function wireIndexBehavior(indexPane, pages) {
         emitHover({ slug: null });
     }, true);
 
+<<<<<<< HEAD
+=======
+    // collapse all
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
     collapseBtn.addEventListener("click", () => {
         treeRoot.querySelectorAll(".sidebar-node.folder.open").forEach(node => {
             node.classList.remove("open");
         });
     });
 
+<<<<<<< HEAD
+=======
+    // search behavior with state restore
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
     let preSearchState = null;
     let preSearchScroll = null;
 
@@ -159,6 +183,10 @@ function wireIndexBehavior(indexPane, pages) {
         preSearchScroll = null;
     }
 
+<<<<<<< HEAD
+=======
+    // ⭐ SECURITY + PERFORMANCE HARDENED SEARCH
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
     let searchTimer = null;
 
     searchInput.addEventListener("input", () => {
@@ -172,12 +200,23 @@ function wireIndexBehavior(indexPane, pages) {
                 searchInput.value = q;
             }
 
+<<<<<<< HEAD
             q = q.replace(/[<>"'`{}();]/g, "");
 
+=======
+            // 2. Strip dangerous characters
+            q = q.replace(/[<>"'`{}();]/g, "");
+
+            // 3. Reject obvious code injection attempts
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
             if (/script|onerror|onload|function|=>|<|>|{|}/i.test(q)) {
                 return;
             }
 
+<<<<<<< HEAD
+=======
+            // 4. Normalize
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
             q = q.trim().toLowerCase();
 
             const allNodes = treeRoot.querySelectorAll(".sidebar-node");
@@ -211,9 +250,16 @@ function wireIndexBehavior(indexPane, pages) {
                     }
                 }
             });
+<<<<<<< HEAD
         }, 120);
     });
 
+=======
+        }, 120); // debounce
+    });
+
+    // highlight current page + auto-expand parents
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
     const meta = getPageMeta();
     const currentSlug = meta?.slug;
     if (currentSlug) {
@@ -228,6 +274,10 @@ function wireIndexBehavior(indexPane, pages) {
         }
     }
 
+<<<<<<< HEAD
+=======
+    // listen for hover from other panes
+>>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
     onHover(({ slug }) => {
         const headers = treeRoot.querySelectorAll(".sidebar-header");
         headers.forEach(h => {
