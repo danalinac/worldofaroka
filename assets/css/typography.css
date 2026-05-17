@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Cinzel+Decorative:wght@400;700&family=Atkinson+Hyperlegible:wght@400;700&family=Spectral:wght@400;700&display=swap');
+
+#site-title {
+    font-family: 'Cinzel Decorative', serif;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    color: #000;
+    text-shadow: 0 0 4px rgba(0,0,0,0.4);
+}
