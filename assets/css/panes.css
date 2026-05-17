@@ -1,0 +1,357 @@
+#reference-header {
+    font-family: "Cinzel Decorative", serif;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    margin: 0 0 6px 0;
+    color: #f0e8d8;
+}
+
+#reference-pane .reference-item {
+    font-family: "Spectral", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    color: #e8e0c8;
+    margin-bottom: 0;
+}
+
+#reference-pane .reference-item a {
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#reference-pane .reference-item a:hover {
+    text-decoration: underline;
+}
+
+#left-sidebar,
+#right-sidebar {
+    background: transparent;
+    padding: 1rem;
+}
+
+@media (max-width: 1200px) {
+    #left-sidebar,
+    #right-sidebar {
+        background-color: #d1bea7;
+        background-image: url('/assets/textures/hex-metal.jpg');
+        background-size: cover;
+        background-blend-mode: multiply;
+        box-shadow: inset 0 0 12px rgba(61, 203, 250, 0.868);
+        color: var(--text-main);
+        filter: contrast(1.15) brightness(1.05);
+    }
+}
+
+#left-sidebar a,
+#right-sidebar a,
+#reference-pane a {
+    cursor: pointer;
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
+}
+
+#left-sidebar a:hover,
+#right-sidebar a:hover,
+#reference-pane a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.6);
+}
+
+#left-sidebar a,
+#right-sidebar a,
+#reference-pane a {
+    cursor: pointer;
+}
+
+.hover-highlight {
+    color: rgb(0, 255, 255) !important;
+    text-shadow:
+        0 0 12px rgba(0, 255, 255, 0.9),
+        0 0 24px rgba(0, 255, 255, 0.7),
+        0 0 48px rgba(0, 255, 255, 0.5),
+        0 0 96px rgba(0, 255, 255, 0.4) !important;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
+}
+
+.hover-ancestor .title {
+    color: rgb(0, 200, 255);
+    text-shadow:
+        0 0 6px rgba(0, 200, 255, 0.6),
+        0 0 12px rgba(0, 200, 255, 0.4);
+}
+
+.reference-item {
+    cursor: pointer;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
+}
+
+.reference-item:hover {
+    color: rgb(0, 255, 255);
+    text-shadow:
+        0 0 12px rgba(0, 255, 255, 0.9),
+        0 0 24px rgba(0, 255, 255, 0.7),
+        0 0 48px rgba(0, 255, 255, 0.5),
+        0 0 96px rgba(0, 255, 255, 0.4);
+}
+
+#right-sidebar .reference-item {
+    position: relative;
+    padding-left: 1.4rem; 
+}
+
+#right-sidebar .reference-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.35em;
+
+    width: 10px;
+    height: 10px;
+
+    background: linear-gradient(135deg, #b08a55, #7a5a32);
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    border: 1px solid #d4b26a;
+    box-shadow:
+        inset 0 0 2px rgba(255, 230, 150, 0.25),
+        0 0 2px rgba(80, 50, 20, 0.4);
+
+    opacity: 0.9;
+}
+
+.sidebar-children {
+    display: none;
+    margin-left: 1rem;
+}
+
+.sidebar-header.clickable {
+    cursor: pointer;
+}
+
+.sidebar-header.clickable {
+    cursor: pointer;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
+}
+
+.sidebar-header.clickable:hover .title {
+    text-shadow:
+        0 0 18px rgba(0, 255, 255, 0.9),
+        0 0 36px rgba(0, 255, 255, 0.7),
+        0 0 72px rgba(0, 255, 255, 0.5),
+        0 0 120px rgba(0, 255, 255, 0.4);
+    filter: hue-rotate(120deg) brightness(1.4);
+}
+
+.sidebar-header.hover-highlight .title,
+.sidebar-header .title.hover-highlight {
+    color: rgb(0, 255, 255) !important;
+    text-shadow:
+        0 0 12px rgb(0, 255, 255),
+        0 0 24px rgb(0, 255, 255),
+        0 0 48px rgb(0, 255, 255),
+        0 0 96px rgb(0, 255, 255) !important;
+}
+
+.sidebar-header .title {
+    padding-left: 0;
+    margin-left: 0;
+    flex: 1; 
+    position: relative;
+    z-index: 5; 
+}
+
+.sidebar-node.open > .sidebar-children {
+    display: block;
+}
+
+.sidebar-children .sidebar-children {
+    margin-left: 1.25rem;
+}
+
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.sidebar-header .bullet {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 6px;
+    background: linear-gradient(135deg, #b08a55, #7a5a32);
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    border: 1px solid #d4b26a;
+    box-shadow:
+        inset 0 0 2px rgba(255, 230, 150, 0.25),
+        0 0 2px rgba(80, 50, 20, 0.4);
+}
+
+.sidebar-header .arrow {
+    flex-shrink: 0;
+    cursor: pointer;
+    pointer-events: auto;
+    position: relative;
+    display: inline-block;
+    width: 1.2rem;
+    height: 1rem;
+    margin-right: 0;
+    background: linear-gradient(135deg, #d4b26a, #8b6b3f);
+    clip-path: polygon(
+        0% 0%,
+        100% 50%,
+        0% 100%,
+        20% 70%,
+        20% 30%
+    );
+    border: 1px solid #e8d6b0;
+    box-shadow:
+        0 0 4px rgba(255, 230, 150, 0.6),
+        inset 0 0 4px rgba(255, 230, 150, 0.4);
+    transition: transform 0.25s ease, filter 0.25s ease;
+    z-index: 10;
+}
+
+.sidebar-header .arrow::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 6px;
+    height: 6px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    background: radial-gradient(circle,
+        #ffe9a8 0%,
+        #ffcf5a 40%,
+        #c48a2c 80%
+    );
+    box-shadow:
+        0 0 6px rgba(255, 220, 120, 0.9),
+        0 0 10px rgba(255, 200, 80, 0.6);
+    animation: sidebarGemPulse 2.4s ease-in-out infinite;
+}
+
+@keyframes sidebarGemPulse {
+    0%, 100% {
+        transform: translate(-50%, -50%) scale(1);
+        box-shadow:
+            0 0 6px rgba(255, 220, 120, 0.9),
+            0 0 10px rgba(255, 200, 80, 0.6);
+    }
+    50% {
+        transform: translate(-50%, -50%) scale(1.25);
+        box-shadow:
+            0 0 10px rgba(255, 240, 160, 1),
+            0 0 16px rgba(255, 220, 120, 0.9);
+    }
+}
+
+.sidebar-node.open > .sidebar-header .arrow {
+    transform: rotate(90deg);
+    filter: brightness(1.25);
+}
+
+.sidebar-node.open > .sidebar-header .arrow::after {
+    animation-duration: 1.4s;
+}
+
+.sidebar-header .title {
+    font-family: "Spectral", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    color: #e8e0c8;
+}
+
+#sidebar-search {
+    width: 100%;
+    padding: 6px 10px;
+    font-family: "Cinzel Decorative", serif;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    color: #e8faff;
+    background: rgba(255, 255, 255, 0.04);
+    border: 2px solid #c8a86a;
+    border-radius: 10px;
+    box-shadow:
+        inset 0 0 3px rgba(255, 255, 255, 0.08),
+        0 0 2px rgba(0, 0, 0, 0.4);
+    outline: none;
+    transition: filter 0.25s ease, box-shadow 0.25s ease;
+}
+
+#sidebar-search::placeholder {
+    color: rgba(230, 230, 230, 0.45);
+    font-family: "Cinzel Decorative", serif;
+    letter-spacing: 1px;
+    animation: placeholderGlimmer 6s ease-in-out infinite;
+}
+
+@keyframes placeholderGlimmer {
+    0%, 92%, 100% {
+        color: rgba(230, 230, 230, 0.45);
+        text-shadow: none;
+    }
+    95% {
+        color: rgba(255, 230, 150, 0.85);
+        text-shadow:
+            0 0 4px rgba(255, 220, 120, 0.6),
+            0 0 6px rgba(255, 200, 80, 0.4);
+    }
+}
+
+#sidebar-search:focus {
+    filter: brightness(1.12);
+    box-shadow:
+        inset 0 0 6px rgba(255, 255, 255, 0.15),
+        0 0 4px rgba(120, 220, 255, 0.25);
+}
+
+#collapse-all-btn {
+    width: 100%;
+    padding: 0;
+    font-family: "Cinzel Decorative", serif;
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    color: #e8faff;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    background: url("/assets/textures/gem.jpg") center/cover;
+    border: 2px solid #c8a86a;
+    box-shadow:
+        inset 0 0 4px rgb(0, 204, 255),
+        0 0 4px rgb(0, 217, 255);
+    animation: gemSoftPulse 5s ease-in-out infinite;
+    transition: transform 0.15s ease, filter 0.2s ease;
+}
+
+@keyframes gemSoftPulse {
+    0%, 100% { filter: brightness(1); }
+    50%      { filter: brightness(1.05); }
+}
+
+#collapse-all-btn:hover {
+    filter: brightness(1.10);
+}
+
+#collapse-all-btn:active {
+    transform: translateY(1px);
+    filter: brightness(0.95);
+}
+
+#left-sidebar::-webkit-scrollbar-thumb,
+#right-sidebar::-webkit-scrollbar-thumb {
+    background: linear-gradient(
+        to bottom,
+        var(--glow-purple),
+        var(--glow-blue)
+    );
+    border: 2px solid var(--spectral-blue-deep);
+    border-radius: 8px;
+    margin: 10px;
+}

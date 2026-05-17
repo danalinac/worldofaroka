@@ -1,0 +1,88 @@
+.header-icon,
+.pane-toggle {
+    --hex-size: 35px;
+    --hex-bg: #1a1a1a;
+    --hex-border: #3a3a3a;
+    --hex-glow: rgba(74, 179, 249, 0.632);
+    width: var(--hex-size);
+    height: var(--hex-size);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    color: #d0d0d0;
+    cursor: pointer;
+    background: url("/assets/textures/red-stone.jpg");
+    background-size: cover;
+    background-position: center;
+    box-shadow:
+        0 4px 10px rgba(97, 244, 232, 0.228),
+        0 0 12px var(--hex-glow),
+        inset 0 0 10px rgba(116, 225, 250, 0.356);
+    clip-path: polygon(
+        25% 0%, 75% 0%,
+        100% 50%,
+        75% 100%, 25% 100%,
+        0% 50%
+    );
+    transition:
+        transform 0.18s ease,
+        box-shadow 0.25s ease,
+        color 0.25s ease,
+        filter 0.25s ease;
+}
+.header-icon:hover,
+.pane-toggle:hover {
+    transform: translateY(-2px);
+    box-shadow:
+        0 4px 10px rgba(97, 244, 232, 0.6),
+        0 0 12px var(--hex-glow),
+        inset 0 0 10px rgba(116, 225, 250, 0.852);
+    color: #ffffff;
+    filter: brightness(1.2);
+}
+.header-icon:active,
+.pane-toggle:active {
+    transform: translateY(1px) scale(0.96);
+    box-shadow:
+        0 1px 3px rgba(0,0,0,0.7),
+        inset 0 0 12px rgba(0,0,0,0.8);
+    filter: brightness(0.9);
+}
+.hex-pulse {
+    animation: hexPulse 0.4s ease-out;
+}
+#site-header button {
+    pointer-events: auto;
+}
+#scroll-wrapper table {  
+  background: transparent;        
+  border-collapse: collapse;      
+  margin: 0 auto;
+  width: auto;
+}
+#scroll-wrapper th,
+#scroll-wrapper td {
+  border: 2px solid black; 
+  padding: 0.25rem;
+  text-align: center;
+  font-family: 'Spectral', serif;
+  font-size: 1rem;
+  font-weight: 1000;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: 1.5;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.445);
+  text-indent: 0;
+}
+#scroll-wrapper th h6 {
+    text-align: center !important;
+    margin: 0;
+    padding: 0;
+}
+#map-toggle,
+#web-toggle {
+    visibility: hidden;   /* keeps layout intact */
+    pointer-events: none; /* prevents accidental clicks */
+}

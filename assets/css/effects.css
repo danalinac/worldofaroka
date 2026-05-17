@@ -1,0 +1,241 @@
+#arcane-sparks { 
+    position: fixed; 
+    inset: 0; 
+    pointer-events: none; 
+    overflow: hidden; 
+    z-index: var(--z-sparks-back);
+}
+.arcane-spark {
+    position: absolute;
+    bottom: -20px;
+    border-radius: 50%;
+    animation-name: floatUp;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes floatUp {
+    0%   { transform: translateY(0) translateX(0); }
+    100% { transform: translateY(-100vh) translateX(var(--drift)); }
+}
+.spark-foreground { 
+    z-index: var(--z-sparks-front); 
+    filter: drop-shadow(0 0 10px rgba(255, 180, 120, 1)); 
+    opacity: 0.9;
+}
+.spark-mid { 
+    z-index: var(--z-sparks-mid); 
+    opacity: 0.5; 
+}
+.spark-back { 
+    z-index: var(--z-sparks-back); 
+    opacity: 0.25; 
+}
+.bright-spark { 
+    filter: brightness(1.8) drop-shadow(0 0 8px rgba(255, 180, 120, 1)); 
+    opacity: 1;
+    animation-name: floatUp, sparkFlicker; 
+    animation-duration: 40s, 6s; 
+    animation-iteration-count: infinite, infinite; 
+    animation-timing-function: linear, steps(3, end); 
+}
+@keyframes sparkFlicker { 
+    0%, 100% { opacity: 1; } 
+    40%      { opacity: 1.4; } 
+    50%      { opacity: 0.6; } 
+    60%      { opacity: 1.8; } 
+}
+h1 .wikilink,
+h2 .wikilink,
+h3 .wikilink,
+h4 .wikilink,
+h5 .wikilink,
+h6 .wikilink {
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+.supernova { 
+    width: 15px; 
+    height: 15px; 
+    filter: brightness(2.4) drop-shadow(0 0 14px rgba(255, 180, 120, 1)); 
+    opacity: 1; 
+    animation-name: floatUp, supernovaFlash; 
+    animation-duration: 35s, 2s; 
+    animation-iteration-count: infinite, 1; 
+    animation-timing-function: linear, ease-out; 
+}
+@keyframes supernovaFlash { 
+    0%   { transform: scale(0.6); opacity: 0.2; } 
+    20%  { transform: scale(1.8); opacity: 1; } 
+    40%  { transform: scale(1.2); opacity: 0.8; } 
+    100% { transform: scale(0.8); opacity: 0; } 
+}
+#site-title::before {
+    animation:
+        arcaneFlame 17s infinite ease-in-out,
+        arcaneColor 42s infinite ease-in-out alternate;
+}
+@keyframes arcaneFlame {
+  0%   { text-shadow: 
+            0 0 22px rgba(120,60,255,0.8),
+            0 0 45px rgba(120,60,255,0.6),
+            0 0 72px rgba(120,60,255,0.4);
+         transform: translate(0px, 0px); }
+  8%   { text-shadow:
+            0 0 27px rgba(150,80,255,0.85),
+            0 0 54px rgba(150,80,255,0.65),
+            0 0 81px rgba(150,80,255,0.45);
+         transform: translate(0.5px, -0.5px); }
+  15%  { text-shadow:
+            0 0 20px rgba(100,50,220,0.7),
+            0 0 40px rgba(100,50,220,0.5),
+            0 0 65px rgba(100,50,220,0.3);
+         transform: translate(-0.5px, 0.5px); }
+  28%  { text-shadow:
+            0 0 27px rgba(180,100,255,0.95),
+            0 0 58px rgba(180,100,255,0.75),
+            0 0 90px rgba(180,100,255,0.55);
+         transform: translate(0px, -0.5px); }
+  40%  { text-shadow:
+            0 0 24px rgba(120,60,255,0.8),
+            0 0 52px rgba(120,60,255,0.6),
+            0 0 81px rgba(120,60,255,0.4);
+         transform: translate(-0.5px, 0px); }
+  55%  { text-shadow:
+            0 0 29px rgba(200,120,255,1),
+            0 0 67px rgba(200,120,255,0.8),
+            0 0 99px rgba(200,120,255,0.6);
+         transform: translate(0.5px, 0.5px); }
+  70%  { text-shadow:
+            0 0 23px rgba(150,80,255,0.85),
+            0 0 54px rgba(150,80,255,0.65),
+            0 0 81px rgba(150,80,255,0.45);
+         transform: translate(0px, 0px); }
+  85%  { text-shadow:
+            0 0 18px rgba(100,50,220,0.6),
+            0 0 38px rgba(100,50,220,0.4),
+            0 0 58px rgba(100,50,220,0.2);
+         transform: translate(-0.5px, -0.5px); }
+  100% { text-shadow:
+            0 0 22px rgba(120,60,255,0.8),
+            0 0 45px rgba(120,60,255,0.6),
+            0 0 72px rgba(120,60,255,0.4);
+         transform: translate(0px, 0px); }
+}
+@keyframes arcaneColor {
+  0%   { filter: hue-rotate(0deg); }
+  33%  { filter: hue-rotate(40deg); }
+  66%  { filter: hue-rotate(-30deg); }
+  100% { filter: hue-rotate(0deg); }
+}
+#scroll-wrapper::before,
+#scroll-wrapper::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  height: 40px;
+  pointer-events: none;
+  z-index: 0;
+}
+#scroll-wrapper::before {
+  top: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.4), transparent);
+}
+#scroll-wrapper::after {
+  bottom: 0;
+  transform: rotate(180deg);
+  background: linear-gradient(to bottom, rgba(0,0,0,0.4), transparent);
+}
+::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+  background: transparent;
+  margin: 3px;
+}
+::-webkit-scrollbar-track {
+  background: linear-gradient(135deg, #2a1b0f 0%, #1a1208 100%);
+  border: 1px solid #a67c52;
+  border-radius: 0;
+  clip-path: polygon(0 0, 100% 0, 95% 100%, 5% 100%);
+  box-shadow:
+    inset 0 0 6px rgba(255, 230, 150, 0.25),
+    0 0 4px rgba(80, 50, 20, 0.4);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #d4b26a 0%, #8b6b3f 100%);
+  border: 2px solid #e8d6b0;
+  border-radius: 0;
+  clip-path: polygon(10% 0, 90% 0, 100% 50%, 90% 100%, 10% 100%, 0 50%);
+  box-shadow:
+    0 0 8px rgba(255, 230, 150, 0.4),
+    inset 0 0 6px rgba(180, 120, 60, 0.3);
+  animation: gemPulse 3s infinite alternate;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #e8d6b0 0%, #c8a97a 100%);
+  box-shadow:
+    0 0 12px rgba(255, 230, 150, 0.6),
+    inset 0 0 8px rgba(180, 120, 60, 0.4);
+}
+@keyframes gemPulse {
+  0%, 100% { box-shadow: 0 0 8px rgba(255, 230, 150, 0.4); }
+  50%      { box-shadow: 0 0 12px rgba(180, 120, 60, 0.4); }
+}
+#left-sidebar::-webkit-scrollbar-thumb,
+#right-sidebar::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    to bottom,
+    var(--glow-purple),
+    var(--glow-blue)
+  );
+  border: 2px solid var(--spectral-blue-deep);
+  border-radius: 8px;
+  margin: 10px;
+}
+#site-title::before {
+    content: attr(data-text);
+    position: absolute;
+    inset: 0;
+    color: transparent;
+    pointer-events: none;
+    text-shadow:
+        0 0 22px rgba(120,60,255,0.8),
+        0 0 45px rgba(120,60,255,0.6),
+        0 0 72px rgba(120,60,255,0.4);
+    animation:
+        arcaneFlame 17s infinite ease-in-out,
+        arcaneColor 42s infinite ease-in-out alternate;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    transition: text-shadow 0.4s ease, filter 0.4s ease;
+}
+#site-title:hover::before {
+    text-shadow:
+        0 0 18px rgba(0, 255, 255, 0.9),
+        0 0 36px rgba(0, 255, 255, 0.7),
+        0 0 72px rgba(0, 255, 255, 0.5),
+        0 0 120px rgba(0, 255, 255, 0.4);
+    filter: hue-rotate(120deg) brightness(1.4);
+}
+#site-title {
+    position: relative;
+    display: inline-block;
+}
+#site-title::after {
+    content: attr(data-text);
+    position: absolute;
+    left: -0.4em;
+    right: -0.4em;
+    top: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 1;
+    background: url('/assets/textures/cracked-stone.jpg');
+    background-size: cover;
+    background-position: center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    filter: brightness(0.85) contrast(1.2);
+}
