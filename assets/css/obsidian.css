@@ -1,14 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Cinzel+Decorative:wght@400;700&family=Atkinson+Hyperlegible:wght@400;700&family=Spectral:wght@400;700&display=swap');
-<<<<<<< HEAD
-=======
-/*
-.markdown-reading-view,
-.markdown-preview-view,
-.markdown-preview-view .markdown-preview-sizer {
-    background-color: #d1bea7;
-}
-*/
->>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
 
 .markdown-preview-view,
 .markdown-preview-view * {
@@ -93,21 +83,12 @@
     border-bottom-color: rgb(0, 255, 255) !important;
 }
 
-<<<<<<< HEAD
 .markdown-preview-view h1 { font-size: 2.5rem; }
 .markdown-preview-view h2 { font-size: 2rem; }
 .markdown-preview-view h3 { font-size: 1.75rem; }
 .markdown-preview-view h4 { font-size: 1.5rem; }
 .markdown-preview-view h5 { font-size: 1.25rem; }
 .markdown-preview-view h6 { font-size: 1rem; }
-=======
-.markdown-preview-view h1 { font-size: 3rem; }
-.markdown-preview-view h2 { font-size: 2.5rem; }
-.markdown-preview-view h3 { font-size: 2rem; }
-.markdown-preview-view h4 { font-size: 1.75rem; }
-.markdown-preview-view h5 { font-size: 1.5rem; }
-.markdown-preview-view h6 { font-size: 1.25rem; }
->>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
 
 .markdown-preview-view a,
 .markdown-preview-view .internal-link {

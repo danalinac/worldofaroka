@@ -20,21 +20,11 @@ As the remnants of civilization cling to survival, a dangerous expedition ventur
 
 ---
 
-<<<<<<< HEAD
 ## 3. Recently Updated Pages
 
 
 <!-- BEGIN STATIC TABLE:Recent_Creations -->
 | <h6>Note</h6> | <h6>Type</h6> | <h6>Updated</h6> |
-=======
-  
-
-## 3. Recently Updated
-
-
-<!-- BEGIN STATIC TABLE:Recent_Creations -->
-| <h6>Note</h6> | <h6>Type</h6> | <h6>Created</h6> |
->>>>>>> 084ad79dce30f7e417d272552f3b62c8ddf01b0c
 | --- | --- | --- |
 | <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> | Campaign | 2026-04-29 |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_00_land_of_echoes/" class="internal-link">EOTE 00. Land of Echoes</a> | Session | 2026-04-29 |
