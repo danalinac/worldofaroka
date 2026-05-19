@@ -64,15 +64,15 @@
   },
   "world_of_aroka": {
     "out": [
+      "world_of_aroka",
+      "campaigns/echoes_of_the_empire/eote_06_upcoming_session",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_00_land_of_echoes",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
-      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
-      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
-      "campaigns/echoes_of_the_empire/eote_06_upcoming_session",
-      "world_of_aroka"
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river"
     ],
     "in": [
       "world_of_aroka"

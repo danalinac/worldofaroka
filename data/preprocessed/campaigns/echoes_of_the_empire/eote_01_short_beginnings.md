@@ -1,24 +1,24 @@
 #  EOTE 01. SHORT BEGINNINGS 
 
-<div class="infobox">
-  <div class="infobox-section">
+<div class=infobox>
+  <div class=infobox-section>
     <h6>Dates</h6>
-    <div class="infobox-row"><span class="label">In‑World:</span><span class="value">AOR 542‑5‑76 to AOR 542-5-81</span></div>
-    <div class="infobox-row"><span class="label">Real‑World:</span><span class="value">2026‑01‑25</span></div>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542‑5‑76 to AOR 542-5-81</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2026‑01‑25</span></div>
   </div>
-  <div class="infobox-section">
+  <div class=infobox-section>
     <h6>Participants</h6>
-    <div class="infobox-row"><span class="label">Factions:</span><span class="value">Bandits</span></div>
-    <div class="infobox-row"><span class="label">NPCs:</span><span class="value">Falin, Graff, Ryna</span></div>
-    <div class="infobox-row"><span class="label">PCs:</span><span class="value">Boris, Ione, Jonesie, Kagbar</span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Bandits</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Falin, Graff, Ryna</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Boris, Ione, Jonesie, Kagbar</span></div>
   </div>
-  <div class="infobox-section">
+  <div class=infobox-section>
     <h6>Locations</h6>
-    <div class="infobox-row"><span class="label">Continent:</span><span class="value">Roa</span></div>
-    <div class="infobox-row"><span class="label">Region:</span><span class="value">Eastern Echoes</span></div>
-    <div class="infobox-row"><span class="label">Territory:</span><span class="value">Wild West</span></div>
-    <div class="infobox-row"><span class="label">Areas:</span><span class="value">Bandit Den, Short Beginnings</span></div>
-    <div class="infobox-row"><span class="label">Points:</span><span class="value">Falin's Inn, Ryna's Smithery</span></div>
+    <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit Den, Short Beginnings</span></div>
+    <div class=infobox-row><span class=label>Points:</span><span class=value>Falins Inn, Rynas Smithery</span></div>
   </div>
 </div>
 
@@ -36,9 +36,9 @@ Satisfied that they had crippled the bandit operation, they collected proof of t
 
 The bounty payout was modest, but enough for food, drink, and a few nights’ rest. Over the next several days, the party attempts to improve their fortunes through… alternative means, such as seducing Ryna the Rat-Kin smith, Flirting with Falin, the Frog-Kin innkeeper, pickpocketing, and general mishief. All of these efforts fail spectacularly, earning the group a growing reputation for causing trouble.
 
-With funds dwindling, the party prepared to hunt more bandits. Rumors of Dryn sightings in the region also circulated — and rewards were being offered for anyone who could uncover why the Dryn had traveled so far east. Boris' hatred of Dryn made this quest worth the effort, even without the reward.
+With funds dwindling, the party prepared to hunt more bandits. Rumors of Dryn sightings in the region also circulated — and rewards were being offered for anyone who could uncover why the Dryn had traveled so far east. Boris hatred of Dryn made this quest worth the effort, even without the reward.
 
 
 ---
 
-© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

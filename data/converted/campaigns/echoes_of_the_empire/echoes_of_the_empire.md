@@ -4,25 +4,25 @@
 ---
 
 
-<div class="infobox">
-  <div class="infobox-section">
+<div class=infobox>
+  <div class=infobox-section>
     <h6>Dates</h6>
-    <div class="infobox-row"><span class="label">In‑World:</span><span class="value">AOR 542‑5‑76 to AOR 542‑6‑05 (Ongoing)</span></div>
-    <div class="infobox-row"><span class="label">Real‑World:</span><span class="value">2026‑01‑11 to 2026‑05‑03 (Ongoing)</span></div>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542‑5‑76 to AOR 542‑6‑05 (Ongoing)</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2026‑01‑11 to 2026‑05‑03 (Ongoing)</span></div>
   </div>
-  <div class="infobox-section">
+  <div class=infobox-section>
     <h6>Key Players</h6>
-    <div class="infobox-row"><span class="label">Factions:</span><span class="value">Bandits</span></div>
-    <div class="infobox-row"><span class="label">NPCs:</span><span class="value">Falin, Graff, Ryna</span></div>
-    <div class="infobox-row"><span class="label">PCs:</span><span class="value">Boris, Ione, Jonesie & his 5 Racoon-Folk, Kagbar</span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Bandits</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Falin, Graff, Ryna</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Boris, Ione, Jonesie & his 5 Racoon-Folk, Kagbar</span></div>
   </div>
-  <div class="infobox-section">
+  <div class=infobox-section>
     <h6>Locations</h6>
-    <div class="infobox-row"><span class="label">Continent:</span><span class="value">Roa</span></div>
-    <div class="infobox-row"><span class="label">Region:</span><span class="value">Eastern Echoes</span></div>
-    <div class="infobox-row"><span class="label">Territory:</span><span class="value">Wild West</span></div>
-    <div class="infobox-row"><span class="label">Areas:</span><span class="value">Bandit Den, Bandit Camp, Blasting Fields, Dynisin River, Echoed Ruins, Fishing Pit, Shale Hills, Short Beginnings, Tower of Knowledge Ruins</span></div>
-    <div class="infobox-row"><span class="label">Points:</span><span class="value">Falin's Inn, Ryna's Smithery</span></div>
+    <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit Den, Bandit Camp, Blasting Fields, Dynisin River, Echoed Ruins, Fishing Pit, Shale Hills, Short Beginnings, Tower of Knowledge Ruins</span></div>
+    <div class=infobox-row><span class=label>Points:</span><span class=value>Falins Inn, Rynas Smithery</span></div>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 
 
 <!-- BEGIN STATIC TABLE:EOTE-Sessions -->
-| <h6>Title</h6> | <h6>Start</h6> | <h6>Areas</h6> | <h6>Factions</h6> | <h6>NPCs</h6> |
+| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
 | --- | --- | --- | --- | --- |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_06_upcoming_session/" class="internal-link">EOTE 06. UPCOMING SESSION</a> | AOR 542-6-04 | Shale Hills | Bandits | Aryus |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits | Aryus, an Echoheart, Echoes |
@@ -55,4 +55,4 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law."
+<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.

@@ -1,4 +1,4 @@
-# Welcome to Aroka
+# Welcome
 
 Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
@@ -20,24 +20,26 @@ As the remnants of civilization cling to survival, a dangerous expedition ventur
 
 ---
 
-## 3. Recently Updated Pages
+## Recently Updated Pages
+
+This is just a tiny portion of the content I have available. I am working to convert them to the new format and upload them to the site as fast as I can, but if you want to access the rest of the site and are willing to deal with some visual issues (exposed code blocks, visible brackets, etc.), you can find them at [Obsidian Publish](https://publish.obsidian.md/aroka/World+of+Aroka). Once all of the content from there has been transferred to this site, I will close down the Obsidian site and start adding brand new content to this one!
 
 
 <!-- BEGIN STATIC TABLE:Recent_Creations -->
-| <h6>Note</h6> | <h6>Type</h6> | <h6>Updated</h6> |
+| <h6>title</h6> | <h6>Type</h6> | <h6>Updated</h6> |
 | --- | --- | --- |
-| [[Echoes of the Empire]] | Campaign | 2026-04-29 |
-| [[EOTE 00. Land of Echoes]] | Session | 2026-04-29 |
-| [[EOTE 01. Short Beginnings]] | Session | 2026-04-29 |
-| [[EOTE 02. Survival 101]] | Session | 2026-04-29 |
-| [[EOTE 03. Never Fall Asleep on Watch]] | Session | 2026-04-29 |
-| [[EOTE 04. Down the River]] | Session | 2026-04-29 |
-| [[EOTE 05. Strange Foes and Friends]] | Session | 2026-05-03 |
-| [[EOTE 06. UPCOMING SESSION]] | Session | 2026-05-09 |
-| [[World of Aroka]] | Home | 2026-05-16 |
+| [[World of Aroka]] | home | 2026-05-16 |
+| [[EOTE 06. UPCOMING SESSION]] | session | 2026-05-09 |
+| [[EOTE 05. Strange Foes and Friends]] | session | 2026-05-03 |
+| [[Echoes of the Empire]] | campaign | 2026-04-29 |
+| [[EOTE 00. Land of Echoes]] | session | 2026-04-29 |
+| [[EOTE 01. Short Beginnings]] | session | 2026-04-29 |
+| [[EOTE 02. Survival 101]] | session | 2026-04-29 |
+| [[EOTE 03. Never Fall Asleep on Watch]] | session | 2026-04-29 |
+| [[EOTE 04. Down the River]] | session | 2026-04-29 |
 <!-- END STATIC TABLE:Recent_Creations -->
 
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."
+<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

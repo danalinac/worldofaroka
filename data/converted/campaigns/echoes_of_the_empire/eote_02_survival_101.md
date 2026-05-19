@@ -2,25 +2,25 @@
 
 ---
 
-<div class="infobox">
-  <div class="infobox-section">
+<div class=infobox>
+  <div class=infobox-section>
     <h6>Dates</h6>
-    <div class="infobox-row"><span class="label">In‑World:</span><span class="value">AOR 542-05-81 to AOR 542-05-88</span></div>
-    <div class="infobox-row"><span class="label">Real‑World:</span><span class="value">2026-03-01</span></div>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-05-81 to AOR 542-05-88</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2026-03-01</span></div>
   </div>
-  <div class="infobox-section">
+  <div class=infobox-section>
     <h6>Participants</h6>
-    <div class="infobox-row"><span class="label">Factions:</span><span class="value"></span></div>
-    <div class="infobox-row"><span class="label">NPCs:</span><span class="value">Birdbear, Echoes</span></div>
-    <div class="infobox-row"><span class="label">PCs:</span><span class="value">Boris, Ione, Jonesie, Kagbar</span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value></span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Birdbear, Echoes</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Boris, Ione, Jonesie, Kagbar</span></div>
   </div>
-  <div class="infobox-section">
+  <div class=infobox-section>
     <h6>Locations</h6>
-    <div class="infobox-row"><span class="label">Continent:</span><span class="value">Roa</span></div>
-    <div class="infobox-row"><span class="label">Region:</span><span class="value">Eastern Echoes</span></div>
-    <div class="infobox-row"><span class="label">Territory:</span><span class="value">Wild West</span></div>
-    <div class="infobox-row"><span class="label">Areas:</span><span class="value">Blasting Fields, Fishing Pit</span></div>
-    <div class="infobox-row"><span class="label">Points:</span><span class="value"></span></div>
+    <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Blasting Fields, Fishing Pit</span></div>
+    <div class=infobox-row><span class=label>Points:</span><span class=value></span></div>
   </div>
 </div>
 
@@ -55,4 +55,4 @@ Following the trail of scorched underbrush, the party found the Bird‑Bear dead
 
 ---
 
-© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

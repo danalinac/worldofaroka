@@ -2,11 +2,11 @@
 
 ---
 
-<div class="infobox">
-  <div class="infobox-section">
+<div class=infobox>
+  <div class=infobox-section>
     <h6>Dates</h6>
-    <div class="infobox-row"><span class="label">In‑World:</span><span class="value">AOR 542-5-76</span></div>
-    <div class="infobox-row"><span class="label">Real‑World:</span><span class="value">2026-01-11</span></div>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-5-76</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2026-01-11</span></div>
   </div>
 </div>
 
@@ -19,4 +19,4 @@ The Scribe further flushed out the region and campaigns, detailing the territori
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law."
+<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.

@@ -209,7 +209,7 @@ body.reference-open #right-sidebar {
         display: block;
         position: fixed;
         z-index: var(--z-toggles);
-        top: 20px;
+        top: 50px;
     }
     #sidebar-index {
         left: 0.75rem;

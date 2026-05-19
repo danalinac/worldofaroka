@@ -3,63 +3,63 @@
     "campaigns/echoes_of_the_empire/echoes_of_the_empire": {
       "title": "Echoes of the Empire",
       "slug": "echoes_of_the_empire",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/"
     },
     "campaigns/echoes_of_the_empire/eote_00_land_of_echoes": {
       "title": "EOTE 00. Land of Echoes",
       "slug": "eote_00_land_of_echoes",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_00_land_of_echoes/"
     },
     "campaigns/echoes_of_the_empire/eote_01_short_beginnings": {
       "title": "EOTE 01. Short Beginnings",
       "slug": "eote_01_short_beginnings",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/"
     },
     "campaigns/echoes_of_the_empire/eote_02_survival_101": {
       "title": "EOTE 02. Survival 101",
       "slug": "eote_02_survival_101",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/"
     },
     "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch": {
       "title": "EOTE 03. Never Fall Asleep on Watch",
       "slug": "eote_03_never_fall_asleep_on_watch",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/"
     },
     "campaigns/echoes_of_the_empire/eote_04_down_the_river": {
       "title": "EOTE 04. Down the River",
       "slug": "eote_04_down_the_river",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/"
     },
     "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends": {
       "title": "EOTE 05. Strange Foes and Friends",
       "slug": "eote_05_strange_foes_and_friends",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/"
     },
     "campaigns/echoes_of_the_empire/eote_06_upcoming_session": {
       "title": "EOTE 06. UPCOMING SESSION",
       "slug": "eote_06_upcoming_session",
-      "folderPath": "Campaigns/Echoes of the Empire",
+      "folderPath": "campaigns/echoes_of_the_empire",
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_06_upcoming_session/"
     },
     "world_of_aroka": {
       "title": "World of Aroka",
       "slug": "world_of_aroka",
-      "folderPath": ".",
+      "folderPath": "",
       "isFolder": false,
       "url": "/pages/world_of_aroka/"
     }
