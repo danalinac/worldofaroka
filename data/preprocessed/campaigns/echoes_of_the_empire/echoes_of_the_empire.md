@@ -49,7 +49,6 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 | [[EOTE 03. Never Fall Asleep on Watch]] | AOR 542‑5‑88 | Fishing Pit |  | Giant Shellsnapper, Shellsnippers, Snapmaws,  |
 | [[EOTE 02. Survival 101]] | AOR 542-05-81 | Blasting Fields, Fishing Pit |  | Birdbear, Echoes |
 | [[EOTE 01. Short Beginnings]] | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Falin, Graff, Ryna |
-| [[EOTE 00. Land of Echoes]] | AOR 542-5-76 |  |  |  |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 
 

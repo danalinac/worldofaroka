@@ -17,6 +17,28 @@
 </head>
 
 <body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
     <div id="arcane-sparks"></div>
     <div id="bottom-glow"></div>
 
@@ -72,11 +94,10 @@
     <!-- MAIN CONTENT -->
     <main id="content-pane">
         <div id="title-block">
-            <a id="site-title" data-text="WOrlD Of ArOkA" href="/pages/index.html">WOrlD Of ArOkA</a>
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
         </div>
 
         <div id="scroll-region">
-            <!-- ⭐ Obsidian-compatible wrapper classes added here -->
             <div id="scroll-wrapper" class="markdown-preview-view">
                 <div class="markdown-preview-sizer">
                     <h1>Upcoming Session</h1>
@@ -115,7 +136,7 @@
     <!-- Injected JSON blobs -->
     
 <script id="page-reference-data" type="application/json">
-[{"slug":"campaigns/echoes_of_the_empire/echoes_of_the_empire","title":"Echoes of the Empire"}]
+[{"slug":"campaigns/echoes_of_the_empire/echoes_of_the_empire","title":"Echoes of the Empire"},{"slug":"world_of_aroka","title":"World of Aroka"}]
 </script>
 
 <script id="page-meta" type="application/json">
@@ -129,5 +150,21 @@
     <!-- Unified frontend -->
     <script type="module" src="/assets/js/site.js"></script>
     <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
 </body>
 </html>

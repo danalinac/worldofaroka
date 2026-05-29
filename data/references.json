@@ -6,283 +6,67 @@
       "campaigns/echoes_of_the_empire/eote_04_down_the_river",
       "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
-      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-      "campaigns/echoes_of_the_empire/eote_00_land_of_echoes"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
     ],
-    "in": []
-  },
-  "campaigns/echoes_of_the_empire/eote_00_land_of_echoes": {
-    "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "world_of_aroka"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_01_short_beginnings": {
     "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "world_of_aroka"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_02_survival_101": {
     "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "world_of_aroka"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch": {
     "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "world_of_aroka"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_04_down_the_river": {
     "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "world_of_aroka"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends": {
     "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "world_of_aroka"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_06_upcoming_session": {
     "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
-    "out": [
-      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
-      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
-      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
-      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_out_legged",
-      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
-      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
-      "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
-      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-      "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
-      "campaigns/mantle_of_the_fallen_world/motfw_13_the_reaper_den",
-      "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
-      "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
-      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
-      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
-      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
-      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_darker_magic",
-      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
-      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
-      "campaigns/mantle_of_the_fallen_world/motfw_04_the_last_hope",
-      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
-      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_kendathyl_warf",
-      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city"
-    ],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
-    "out": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_01_kendathyl_warf": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_04_the_last_hope": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_darker_magic": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_13_the_reaper_den": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_out_legged": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_23_revenge": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
-    ]
-  },
-  "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil": {
-    "out": [],
-    "in": [
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
     ]
   },
   "world_of_aroka": {
     "out": [
-      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_kendathyl_warf",
-      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
-      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
-      "campaigns/mantle_of_the_fallen_world/motfw_04_the_last_hope",
-      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
-      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
-      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_darker_magic",
-      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
-      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
-      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
-      "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
-      "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
-      "campaigns/mantle_of_the_fallen_world/motfw_13_the_reaper_den",
-      "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
-      "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition"
+      "world_of_aroka",
+      "campaigns/echoes_of_the_empire/eote_06_upcoming_session",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river"
     ],
-    "in": []
+    "in": [
+      "world_of_aroka"
+    ]
   }
 }

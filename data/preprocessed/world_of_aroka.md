@@ -14,7 +14,7 @@ To explore Aroka is to stand at the edge of the unknown. Every expedition uncove
 
 A fractured world begins to stir as lingering remnants of a fallen order and forgotten powers resurface, drawing unlikely heroes into the first signs that something ancient—and dangerous—has not truly ended.
 
-### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> (Complete)
+### Mantle of the Fallen World (Complete)
 
 As the remnants of civilization cling to survival, a dangerous expedition ventures into lost regions to uncover ancient power—risking both the world’s future and their own corruption in the process.
 
@@ -28,23 +28,14 @@ This is just a tiny portion of the content I have available. I am working to con
 <!-- BEGIN STATIC TABLE:Recent_Creations -->
 | <h6>title</h6> | <h6>Type</h6> | <h6>Updated</h6> |
 | --- | --- | --- |
-| [[MOTFW 00. Race for the Lost City]] | session | 2026-05-21 |
-| [[MOTFW 01. Kendathyl Warf]] | session | 2026-05-21 |
-| [[MOTFW 02. Into the Lost Mountains]] | session | 2026-05-21 |
-| [[MOTFW 03. The Crumbling Labyrinth]] | session | 2026-05-21 |
-| [[MOTFW 04. The Last Hope]] | session | 2026-05-21 |
-| [[MOTFW 05. The Fungal Forest]] | session | 2026-05-21 |
-| [[MOTFW 06. The Weaver Nest]] | session | 2026-05-21 |
-| [[MOTFW 07. Dark City, Darker Magic]] | session | 2026-05-21 |
-| [[MOTFW 08. Siege on the Pillar]] | session | 2026-05-21 |
-| [[MOTFW 09. The Battle of Blood]] | session | 2026-05-21 |
-| [[MOTFW 10. Lex-Gate Valley]] | session | 2026-05-21 |
-| [[MOTFW 11. Return to the Labyrinth]] | session | 2026-05-21 |
-| [[MOTFW 12. Beneath the Pillar]] | session | 2026-05-21 |
-| [[MOTFW 13. The Reaper Den]] | session | 2026-05-21 |
-| [[MOTFW 14. Return to Lex-Gate Valley]] | session | 2026-05-21 |
-| [[MOTFW 15. The Lex-Gate Caverns]] | session | 2026-05-21 |
-| [[MOTFW 16. Nobody Expects the Inquisition]] | session | 2026-05-21 |
+| [[World of Aroka]] | home | 2026-05-16 |
+| [[EOTE 06. UPCOMING SESSION]] | session | 2026-05-09 |
+| [[EOTE 05. Strange Foes and Friends]] | session | 2026-05-03 |
+| [[Echoes of the Empire]] | campaign | 2026-04-29 |
+| [[EOTE 01. Short Beginnings]] | session | 2026-04-29 |
+| [[EOTE 02. Survival 101]] | session | 2026-04-29 |
+| [[EOTE 03. Never Fall Asleep on Watch]] | session | 2026-04-29 |
+| [[EOTE 04. Down the River]] | session | 2026-04-29 |
 <!-- END STATIC TABLE:Recent_Creations -->
 
 
