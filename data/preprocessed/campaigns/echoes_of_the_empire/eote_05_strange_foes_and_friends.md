@@ -1,4 +1,5 @@
-#  EOTE 05. STRANGE FOES & FRIENDS 
+#  Strange Foes and Friends
+## <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEchoes%20of%20the%20Empire">Echoes of the Empire</a> Session 5
 
 ---
 

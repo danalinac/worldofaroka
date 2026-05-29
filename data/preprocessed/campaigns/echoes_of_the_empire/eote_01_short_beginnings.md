@@ -1,4 +1,5 @@
-#  EOTE 01. SHORT BEGINNINGS 
+# Short Beginnings
+## <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEchoes%20of%20the%20Empire">Echoes of the Empire</a> Session 1
 
 <div class=infobox>
   <div class=infobox-section>

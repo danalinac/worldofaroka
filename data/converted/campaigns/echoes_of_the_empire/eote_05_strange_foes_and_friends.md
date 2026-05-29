@@ -1,4 +1,5 @@
-#  EOTE 05. STRANGE FOES & FRIENDS 
+#  Strange Foes and Friends
+## <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> Session 5
 
 ---
 

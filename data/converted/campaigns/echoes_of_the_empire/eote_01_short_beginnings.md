@@ -1,4 +1,5 @@
-#  EOTE 01. SHORT BEGINNINGS 
+# Short Beginnings
+## <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> Session 1
 
 <div class=infobox>
   <div class=infobox-section>

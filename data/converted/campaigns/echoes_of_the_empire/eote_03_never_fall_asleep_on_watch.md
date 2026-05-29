@@ -1,4 +1,5 @@
-#  EOTE 03. NEVER FALL ASLEEP ON WATCH 
+#  Never Fall Asleep on Watch
+## <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> Session 3
 
 ---
 

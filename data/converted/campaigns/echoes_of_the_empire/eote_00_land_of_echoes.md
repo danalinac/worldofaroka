@@ -1,4 +1,5 @@
-# EOTE 00. LAND OF ECHOES 
+# Land of Echoes
+## <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> Session 0
 
 ---
 
@@ -19,4 +20,4 @@ The Scribe further flushed out the region and campaigns, detailing the territori
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.
+<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> are original creations protected under U.S. and international copyright law.

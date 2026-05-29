@@ -10,11 +10,11 @@ To explore Aroka is to stand at the edge of the unknown. Every expedition uncove
 
 ## Campaigns
 
-### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEchoes%20of%20the%20Empire">Echoes of the Empire</a> (Ongoing)
+### <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> (Ongoing)
 
 A fractured world begins to stir as lingering remnants of a fallen order and forgotten powers resurface, drawing unlikely heroes into the first signs that something ancient—and dangerous—has not truly ended.
 
-### Mantle of the Fallen World (Complete)
+### <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> (Complete)
 
 As the remnants of civilization cling to survival, a dangerous expedition ventures into lost regions to uncover ancient power—risking both the world’s future and their own corruption in the process.
 
@@ -28,15 +28,23 @@ This is just a tiny portion of the content I have available. I am working to con
 <!-- BEGIN STATIC TABLE:Recent_Creations -->
 | <h6>title</h6> | <h6>Type</h6> | <h6>Updated</h6> |
 | --- | --- | --- |
-| <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> | home | 2026-05-16 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_06_upcoming_session/" class="internal-link">EOTE 06. UPCOMING SESSION</a> | session | 2026-05-09 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | session | 2026-05-03 |
-| <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> | campaign | 2026-04-29 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_00_land_of_echoes/" class="internal-link">EOTE 00. Land of Echoes</a> | session | 2026-04-29 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | session | 2026-04-29 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | session | 2026-04-29 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/" class="internal-link">EOTE 03. Never Fall Asleep on Watch</a> | session | 2026-04-29 |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/" class="internal-link">EOTE 04. Down the River</a> | session | 2026-04-29 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_kendathyl_warf/" class="internal-link">MOTFW 01. Kendathyl Warf</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_the_last_hope/" class="internal-link">MOTFW 04. The Last Hope</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest/" class="internal-link">MOTFW 05. The Fungal Forest</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/" class="internal-link">MOTFW 06. The Weaver Nest</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_darker_magic/" class="internal-link">MOTFW 07. Dark City, Darker Magic</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar/" class="internal-link">MOTFW 08. Siege on the Pillar</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood/" class="internal-link">MOTFW 09. The Battle of Blood</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley/" class="internal-link">MOTFW 10. Lex-Gate Valley</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth/" class="internal-link">MOTFW 11. Return to the Labyrinth</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar/" class="internal-link">MOTFW 12. Beneath the Pillar</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_13_the_reaper_den/" class="internal-link">MOTFW 13. The Reaper Den</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley/" class="internal-link">MOTFW 14. Return to Lex-Gate Valley</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns/" class="internal-link">MOTFW 15. The Lex-Gate Caverns</a> | session | 2026-05-21 |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/" class="internal-link">MOTFW 16. Nobody Expects the Inquisition</a> | session | 2026-05-21 |
 <!-- END STATIC TABLE:Recent_Creations -->
 
 

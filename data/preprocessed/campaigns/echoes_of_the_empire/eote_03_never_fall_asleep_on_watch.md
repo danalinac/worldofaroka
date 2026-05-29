@@ -1,4 +1,5 @@
-#  EOTE 03. NEVER FALL ASLEEP ON WATCH 
+#  Never Fall Asleep on Watch
+## <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEchoes%20of%20the%20Empire">Echoes of the Empire</a> Session 3
 
 ---
 

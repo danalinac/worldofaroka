@@ -1,4 +1,5 @@
-# EOTE 02. SURVIVAL 101
+# Survival 101
+## <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> Session 2
 
 ---
 
