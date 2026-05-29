@@ -185,7 +185,6 @@
 }
 
 .markdown-preview-view table th {
-    /*background-color: rgba(255, 255, 255, 0.35) !important;*/
     border-bottom: 2px solid rgba(0,0,0,0.4) !important;
 }
 
@@ -230,7 +229,7 @@
 
 .markdown-preview-view .infobox {
     float: right;
-    width: 300px;
+    width: 350px;
     margin: 0 0 1.5rem 1.5rem;
     padding: 1rem;
     background: rgba(255, 255, 255, 0.35);

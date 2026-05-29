@@ -47,7 +47,7 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits | Aryus, an Echoheart, Echoes |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/" class="internal-link">EOTE 04. Down the River</a> | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits | Graff, Leaplashers, Ryna |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/" class="internal-link">EOTE 03. Never Fall Asleep on Watch</a> | AOR 542‑5‑88 | Fishing Pit |  | Giant Shellsnapper, Shellsnippers, Snapmaws,  |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | AOR 542-05-81 | Blasting Fields, Fishing Pit |  | Birdbear, Echoes |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | AOR 542-05-80 | Blasting Fields, Fishing Pit |  | Birdbear, Echoes |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Falin, Graff, Ryna |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 

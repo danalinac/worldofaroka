@@ -83,6 +83,6 @@
 }
 #map-toggle,
 #web-toggle {
-    visibility: hidden;   /* keeps layout intact */
-    pointer-events: none; /* prevents accidental clicks */
+    visibility: hidden;  
+    pointer-events: none;
 }

@@ -47,7 +47,7 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 | [[EOTE 05. Strange Foes and Friends]] | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits | Aryus, an Echoheart, Echoes |
 | [[EOTE 04. Down the River]] | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits | Graff, Leaplashers, Ryna |
 | [[EOTE 03. Never Fall Asleep on Watch]] | AOR 542‑5‑88 | Fishing Pit |  | Giant Shellsnapper, Shellsnippers, Snapmaws,  |
-| [[EOTE 02. Survival 101]] | AOR 542-05-81 | Blasting Fields, Fishing Pit |  | Birdbear, Echoes |
+| [[EOTE 02. Survival 101]] | AOR 542-05-80 | Blasting Fields, Fishing Pit |  | Birdbear, Echoes |
 | [[EOTE 01. Short Beginnings]] | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Falin, Graff, Ryna |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 
