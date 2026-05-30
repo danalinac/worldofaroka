@@ -14,7 +14,7 @@
     <h6>Key Players</h6>
     <div class=infobox-row><span class=label>Factions:</span><span class=value>Bandits</span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Falin, Graff, Ryna</span></div>
-    <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="/pages/characters/boris/" class="internal-link">Boris</a>, <a href="/pages/characters/ione/" class="internal-link">Ione</a>, Jonesie & his 5 Racoon-Folk, Kagbar</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="/pages/characters/boris/" class="internal-link">Boris</a>, <a href="/pages/characters/ione/" class="internal-link">Ione</a>, <a href="/pages/characters/jonesie/" class="internal-link">Jonesie</a> & his 5 Racoon-Folk, <a href="/pages/characters/kagbar/" class="internal-link">Kagbar</a></span></div>
   </div>
   <div class=infobox-section>
     <h6>Locations</h6>
@@ -27,13 +27,13 @@
 </div>
 
 
-The campaign began in desperation, not destiny. Four unlikely companions — <a href="/pages/characters/boris/" class="internal-link">Boris</a> the Boar‑Kin bounty hunter, <a href="/pages/characters/ione/" class="internal-link">Ione</a> the Fennec Fox‑Kin thief, Jonesie the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and Kagbar the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the Eastern Echoes. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
+The campaign began in desperation, not destiny. Four unlikely companions — <a href="/pages/characters/boris/" class="internal-link">Boris</a> the Boar‑Kin bounty hunter, <a href="/pages/characters/ione/" class="internal-link">Ione</a> the Fennec Fox‑Kin thief, <a href="/pages/characters/jonesie/" class="internal-link">Jonesie</a> the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and <a href="/pages/characters/kagbar/" class="internal-link">Kagbar</a> the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the Eastern Echoes. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
 
 As they ventured deeper into the Wild West, they encountered the strange phenomena the region was known for: Echoes, spectral remnants of the Age of Divinity. Multiple encounters at the Fishing Pit force the party to adapt, exposing both the danger of power & the cost of exhaustion.
 
 Their return to civilization offered no respite. Short Beginnings was teetering on collapse, its lifeline stolen along the Dynisin River by organized bandits. Investigation leaded to a dangerous entanglement with the very criminals they sought to stop, culminating in an uneasy alliance, brutal tests of worth, & a descent into ancient ruins swarmed in Echoes.
 
-At the heart of those ruins, something awakened. A mysterious sword hilt, accompanied by a strange voice speaking only to Kagbar, told of a great quest he must accomplish, but refused to elaborate until its trust had been earned. In claiming the artifact, the party silenced the Echoes within the ruins, but ignited pursuit, betrayal, & something far older.
+At the heart of those ruins, something awakened. A mysterious sword hilt, accompanied by a strange voice speaking only to <a href="/pages/characters/kagbar/" class="internal-link">Kagbar</a>, told of a great quest he must accomplish, but refused to elaborate until its trust had been earned. In claiming the artifact, the party silenced the Echoes within the ruins, but ignited pursuit, betrayal, & something far older.
 
 ---
 
@@ -43,6 +43,7 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 <!-- BEGIN STATIC TABLE:EOTE-Sessions -->
 | <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
 | --- | --- | --- | --- | --- |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  | Echoes, Featherclaw |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Fannin, Garrun, Ryna |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 

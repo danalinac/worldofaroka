@@ -1,5 +1,5 @@
 # Boris
-### The Scourge-Bane
+### The <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FScourge">Scourge</a>-Bane
 
 
 ---
@@ -21,15 +21,15 @@
 	  <div class="infobox-section">
 	    <h6>Relationships</h6>
 	    <div class="infobox-row"><span class="label">Affiliations:</span><span class="value">Short Beginnings</span></div>
-	    <div class="infobox-row"><span class="label">Enemies:</span><span class="value">Bandits, Scourge</span></div>
-	    <div class="infobox-row"><span class="label">Friends:</span><span class="value">Dono, <a href="obsidian://open?vault=Obsidian&file=Characters%2FIone">Ione</a>, Jonesie, Jynx, Kagbar, Lyko, Moka, Ryph</span></div>
+	    <div class="infobox-row"><span class="label">Enemies:</span><span class="value">Bandits, <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FScourge">Scourge</a></span></div>
+	    <div class="infobox-row"><span class="label">Friends:</span><span class="value">Dono, <a href="obsidian://open?vault=Obsidian&file=Characters%2FIone">Ione</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FJonesie">Jonesie</a>, Jynx, <a href="obsidian://open?vault=Obsidian&file=Characters%2FKagbar">Kagbar</a>, Lyko, Moka, Ryph</span></div>
 	  </div>
 </div>
 
 
-Boris was a broad‑shouldered, thick‑skulled Bore‑Kin whose brooding presence carried the weight of a man who had lost everything and wanted nothing more than to return the favor. Raised in the northern forests of the Wild West, he learned early that survival was a communal act and that strength meant little unless it shielded others. The historic Scourge raid that brought the Fellowship of Free Folk to its knees left his village as nothing more than ash and ember, stripping him of home and hope. Though he rarely spoke of that night, it shaped the disciplined, watchful man he became. He moved with the deliberate calm of someone who had buried too many loved ones and intended to bury no more—whether by keeping those he cared for alive or by refusing to care at all, with the latter being far more common.
+Boris was a broad‑shouldered, thick‑skulled Bore‑Kin whose brooding presence carried the weight of a man who had lost everything and wanted nothing more than to return the favor. Raised in the northern forests of the Wild West, he learned early that survival was a communal act and that strength meant little unless it shielded others. The historic [[Scourge]] Raid that brought the Fellowship of Free Folk to its knees left his village as nothing more than ash and ember, stripping him of home and hope. Though he rarely spoke of that night, it shaped the disciplined, watchful man he became. He moved with the deliberate calm of someone who had buried too many loved ones and intended to bury no more—whether by keeping those he cared for alive or by refusing to care at all, with the latter being far more common.
 
-His faith, or the closest thing he had to one, was the unshakable conviction that the Scourge were a blight upon the world and that their kind needed to be purged from its surface. He dedicated his life to hunting them wherever they hid, driven by the hope that he might one day cast down the last of them from the Frostborn Peaks and finally avenge the family he lost.
+His faith, or the closest thing he had to one, was the unshakable conviction that the [[Scourge]] were a blight upon the world, a wrongness that had crawled from the Frostborn Peaks and would one day crawl no more. He dedicated his life to hunting them wherever they hid, driven by the hope that he might one day reach those distant, ice‑crowned heights and cast down the last of them, finally avenging the family he lost.
 
 ---
 

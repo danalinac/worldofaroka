@@ -2,50 +2,154 @@
   "campaigns/echoes_of_the_empire/echoes_of_the_empire": {
     "out": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "characters/boris",
       "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar",
       "world_of_aroka"
     ],
     "in": [
-      "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_01_short_beginnings": {
     "out": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "characters/boris",
-      "characters/ione"
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar",
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/scourge"
     ],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101"
+    ]
+  },
+  "campaigns/echoes_of_the_empire/eote_02_survival_101": {
+    "out": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "characters/boris",
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar",
+      "nature/fauna/sapients/scourge"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
     ]
   },
   "characters/boris": {
     "out": [
-      "characters/ione"
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar",
+      "nature/fauna/sapients/scourge"
     ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-      "characters/ione"
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar"
     ]
   },
   "characters/ione": {
     "out": [
-      "characters/boris"
+      "characters/boris",
+      "characters/jonesie",
+      "characters/kagbar"
     ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-      "characters/boris"
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "characters/boris",
+      "characters/jonesie",
+      "characters/kagbar"
+    ]
+  },
+  "characters/jonesie": {
+    "out": [
+      "characters/boris",
+      "characters/ione",
+      "characters/kagbar"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "characters/boris",
+      "characters/ione",
+      "characters/kagbar"
+    ]
+  },
+  "characters/kagbar": {
+    "out": [
+      "characters/boris",
+      "characters/ione",
+      "characters/jonesie"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "characters/boris",
+      "characters/ione",
+      "characters/jonesie"
+    ]
+  },
+  "nature/fauna/sapients/anthropes": {
+    "out": [
+      "nature/fauna/sapients/dryn"
+    ],
+    "in": [
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/scourge"
+    ]
+  },
+  "nature/fauna/sapients/dryn": {
+    "out": [
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/scourge"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/scourge"
+    ]
+  },
+  "nature/fauna/sapients/scourge": {
+    "out": [
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/dryn"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "characters/boris",
+      "nature/fauna/sapients/dryn"
     ]
   },
   "world_of_aroka": {
     "out": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "characters/boris",
       "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar",
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/scourge",
       "world_of_aroka"
     ],
     "in": [

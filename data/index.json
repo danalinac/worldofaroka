@@ -14,6 +14,13 @@
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/"
     },
+    "campaigns/echoes_of_the_empire/eote_02_survival_101": {
+      "title": "EOTE 02. Survival 101",
+      "slug": "eote_02_survival_101",
+      "folderPath": "campaigns/echoes_of_the_empire",
+      "isFolder": false,
+      "url": "/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/"
+    },
     "characters/boris": {
       "title": "Boris",
       "slug": "boris",
@@ -27,6 +34,41 @@
       "folderPath": "characters",
       "isFolder": false,
       "url": "/pages/characters/ione/"
+    },
+    "characters/jonesie": {
+      "title": "Jonesie",
+      "slug": "jonesie",
+      "folderPath": "characters",
+      "isFolder": false,
+      "url": "/pages/characters/jonesie/"
+    },
+    "characters/kagbar": {
+      "title": "Kagbar",
+      "slug": "kagbar",
+      "folderPath": "characters",
+      "isFolder": false,
+      "url": "/pages/characters/kagbar/"
+    },
+    "nature/fauna/sapients/anthropes": {
+      "title": "Anthropes",
+      "slug": "anthropes",
+      "folderPath": "nature/fauna/sapients",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/sapients/anthropes/"
+    },
+    "nature/fauna/sapients/dryn": {
+      "title": "Dryn",
+      "slug": "dryn",
+      "folderPath": "nature/fauna/sapients",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/sapients/dryn/"
+    },
+    "nature/fauna/sapients/scourge": {
+      "title": "Scourge",
+      "slug": "scourge",
+      "folderPath": "nature/fauna/sapients",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/sapients/scourge/"
     },
     "world_of_aroka": {
       "title": "World of Aroka",
@@ -43,6 +85,7 @@
       "children": [
         "campaigns",
         "characters",
+        "nature",
         "world_of_aroka"
       ]
     },
@@ -57,7 +100,8 @@
       "title": "Echoes of the Empire",
       "hubpage": "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "children": [
-        "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
+        "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+        "campaigns/echoes_of_the_empire/eote_02_survival_101"
       ]
     },
     "characters": {
@@ -65,8 +109,39 @@
       "hubpage": null,
       "children": [
         "characters/boris",
-        "characters/ione"
+        "characters/ione",
+        "characters/jonesie",
+        "characters/kagbar"
       ]
+    },
+    "nature": {
+      "title": "Nature",
+      "hubpage": null,
+      "children": [
+        "nature/fauna",
+        "nature/phenomena"
+      ]
+    },
+    "nature/fauna": {
+      "title": "Fauna",
+      "hubpage": null,
+      "children": [
+        "nature/fauna/sapients"
+      ]
+    },
+    "nature/fauna/sapients": {
+      "title": "Sapients",
+      "hubpage": null,
+      "children": [
+        "nature/fauna/sapients/anthropes",
+        "nature/fauna/sapients/dryn",
+        "nature/fauna/sapients/scourge"
+      ]
+    },
+    "nature/phenomena": {
+      "title": "Phenomena",
+      "hubpage": null,
+      "children": []
     }
   }
 }
