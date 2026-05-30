@@ -118,8 +118,7 @@
       "title": "Nature",
       "hubpage": null,
       "children": [
-        "nature/fauna",
-        "nature/phenomena"
+        "nature/fauna"
       ]
     },
     "nature/fauna": {
@@ -137,11 +136,6 @@
         "nature/fauna/sapients/dryn",
         "nature/fauna/sapients/scourge"
       ]
-    },
-    "nature/phenomena": {
-      "title": "Phenomena",
-      "hubpage": null,
-      "children": []
     }
   }
 }

@@ -1,5 +1,5 @@
 # Kagbar
-### The Wooly Prophet
+### The King of Chaos
 
 ---
 
@@ -37,7 +37,7 @@ He carried himself with the earnest conviction of a hero in a story only he coul
 | :-: | :-: | :-: |  :-: | :-: |
 | AOR 524-0-75 | Birth | Eastern Echoes | Hallowed Coast | High Ascent  |
 | AOR 540-3-95 | Banished to the Wild West | - | Wild West | The Divide |
-| AOR 542-2-22 | Arrived at Short Beginnings | - | Wild West | Eastern Forest |
+| AOR 542-2-22 | Arrived at Short Beginnings | - | - | Eastern Forest |
 
 
 ---
