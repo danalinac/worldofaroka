@@ -14,7 +14,7 @@
     <h6>Key Players</h6>
     <div class=infobox-row><span class=label>Factions:</span><span class=value>Bandits</span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Falin, Graff, Ryna</span></div>
-    <div class=infobox-row><span class=label>PCs:</span><span class=value>Boris, Ione, Jonesie & his 5 Racoon-Folk, Kagbar</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="/pages/characters/boris/" class="internal-link">Boris</a>, <a href="/pages/characters/ione/" class="internal-link">Ione</a>, Jonesie & his 5 Racoon-Folk, Kagbar</span></div>
   </div>
   <div class=infobox-section>
     <h6>Locations</h6>
@@ -27,7 +27,7 @@
 </div>
 
 
-The campaign began in desperation, not destiny. Four unlikely companions — Boris the Boar‑Kin bounty hunter, Ione the Fennec Fox‑Kin thief, Jonesie the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and Kagbar the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the Eastern Echoes. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
+The campaign began in desperation, not destiny. Four unlikely companions — <a href="/pages/characters/boris/" class="internal-link">Boris</a> the Boar‑Kin bounty hunter, <a href="/pages/characters/ione/" class="internal-link">Ione</a> the Fennec Fox‑Kin thief, Jonesie the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and Kagbar the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the Eastern Echoes. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
 
 As they ventured deeper into the Wild West, they encountered the strange phenomena the region was known for: Echoes, spectral remnants of the Age of Divinity. Multiple encounters at the Fishing Pit force the party to adapt, exposing both the danger of power & the cost of exhaustion.
 
@@ -43,12 +43,7 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 <!-- BEGIN STATIC TABLE:EOTE-Sessions -->
 | <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
 | --- | --- | --- | --- | --- |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_06_upcoming_session/" class="internal-link">EOTE 06. UPCOMING SESSION</a> | AOR 542-6-04 | Shale Hills | Bandits | Aryus |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits | Aryus, an Echoheart, Echoes |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/" class="internal-link">EOTE 04. Down the River</a> | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits | Graff, Leaplashers, Ryna |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/" class="internal-link">EOTE 03. Never Fall Asleep on Watch</a> | AOR 542‑5‑88 | Fishing Pit |  | Giant Shellsnapper, Shellsnippers, Snapmaws,  |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | AOR 542-05-80 | Blasting Fields, Fishing Pit |  | Birdbear, Echoes |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Falin, Graff, Ryna |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Fannin, Garrun, Ryna |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 
 

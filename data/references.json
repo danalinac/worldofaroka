@@ -1,72 +1,55 @@
 {
   "campaigns/echoes_of_the_empire/echoes_of_the_empire": {
     "out": [
-      "campaigns/echoes_of_the_empire/eote_06_upcoming_session",
-      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
-      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
-      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
-      "campaigns/echoes_of_the_empire/eote_02_survival_101",
-      "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "characters/boris",
+      "characters/ione",
+      "world_of_aroka"
     ],
     "in": [
-      "world_of_aroka"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_01_short_beginnings": {
-    "out": [],
-    "in": [
+    "out": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "world_of_aroka"
+      "characters/boris",
+      "characters/ione"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
     ]
   },
-  "campaigns/echoes_of_the_empire/eote_02_survival_101": {
-    "out": [],
+  "characters/boris": {
+    "out": [
+      "characters/ione"
+    ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "world_of_aroka"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "characters/ione"
     ]
   },
-  "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch": {
-    "out": [],
+  "characters/ione": {
+    "out": [
+      "characters/boris"
+    ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/echoes_of_the_empire/eote_04_down_the_river": {
-    "out": [],
-    "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends": {
-    "out": [],
-    "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "world_of_aroka"
-    ]
-  },
-  "campaigns/echoes_of_the_empire/eote_06_upcoming_session": {
-    "out": [],
-    "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "world_of_aroka"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "characters/boris"
     ]
   },
   "world_of_aroka": {
     "out": [
-      "world_of_aroka",
-      "campaigns/echoes_of_the_empire/eote_06_upcoming_session",
-      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-      "campaigns/echoes_of_the_empire/eote_02_survival_101",
-      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
-      "campaigns/echoes_of_the_empire/eote_04_down_the_river"
+      "characters/boris",
+      "characters/ione",
+      "world_of_aroka"
     ],
     "in": [
-      "world_of_aroka"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
     ]
   }
 }

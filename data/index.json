@@ -14,40 +14,19 @@
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/"
     },
-    "campaigns/echoes_of_the_empire/eote_02_survival_101": {
-      "title": "EOTE 02. Survival 101",
-      "slug": "eote_02_survival_101",
-      "folderPath": "campaigns/echoes_of_the_empire",
+    "characters/boris": {
+      "title": "Boris",
+      "slug": "boris",
+      "folderPath": "characters",
       "isFolder": false,
-      "url": "/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/"
+      "url": "/pages/characters/boris/"
     },
-    "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch": {
-      "title": "EOTE 03. Never Fall Asleep on Watch",
-      "slug": "eote_03_never_fall_asleep_on_watch",
-      "folderPath": "campaigns/echoes_of_the_empire",
+    "characters/ione": {
+      "title": "Ione",
+      "slug": "ione",
+      "folderPath": "characters",
       "isFolder": false,
-      "url": "/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/"
-    },
-    "campaigns/echoes_of_the_empire/eote_04_down_the_river": {
-      "title": "EOTE 04. Down the River",
-      "slug": "eote_04_down_the_river",
-      "folderPath": "campaigns/echoes_of_the_empire",
-      "isFolder": false,
-      "url": "/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/"
-    },
-    "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends": {
-      "title": "EOTE 05. Strange Foes and Friends",
-      "slug": "eote_05_strange_foes_and_friends",
-      "folderPath": "campaigns/echoes_of_the_empire",
-      "isFolder": false,
-      "url": "/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/"
-    },
-    "campaigns/echoes_of_the_empire/eote_06_upcoming_session": {
-      "title": "EOTE 06. UPCOMING SESSION",
-      "slug": "eote_06_upcoming_session",
-      "folderPath": "campaigns/echoes_of_the_empire",
-      "isFolder": false,
-      "url": "/pages/campaigns/echoes_of_the_empire/eote_06_upcoming_session/"
+      "url": "/pages/characters/ione/"
     },
     "world_of_aroka": {
       "title": "World of Aroka",
@@ -63,6 +42,7 @@
       "hubpage": null,
       "children": [
         "campaigns",
+        "characters",
         "world_of_aroka"
       ]
     },
@@ -77,12 +57,15 @@
       "title": "Echoes of the Empire",
       "hubpage": "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "children": [
-        "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-        "campaigns/echoes_of_the_empire/eote_02_survival_101",
-        "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
-        "campaigns/echoes_of_the_empire/eote_04_down_the_river",
-        "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
-        "campaigns/echoes_of_the_empire/eote_06_upcoming_session"
+        "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
+      ]
+    },
+    "characters": {
+      "title": "Characters",
+      "hubpage": null,
+      "children": [
+        "characters/boris",
+        "characters/ione"
       ]
     }
   }

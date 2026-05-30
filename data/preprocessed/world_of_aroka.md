@@ -1,5 +1,7 @@
 # Welcome
 
+---
+
 Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
 Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the Dryn and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
@@ -28,14 +30,11 @@ This is just a tiny portion of the content I have available. I am working to con
 <!-- BEGIN STATIC TABLE:Recent_Creations -->
 | <h6>title</h6> | <h6>Type</h6> | <h6>Updated</h6> |
 | --- | --- | --- |
-| [[World of Aroka]] | home | 2026-05-16 |
-| [[EOTE 06. UPCOMING SESSION]] | session | 2026-05-09 |
-| [[EOTE 05. Strange Foes and Friends]] | session | 2026-05-03 |
-| [[Echoes of the Empire]] | campaign | 2026-04-29 |
-| [[EOTE 01. Short Beginnings]] | session | 2026-04-29 |
-| [[EOTE 02. Survival 101]] | session | 2026-04-29 |
-| [[EOTE 03. Never Fall Asleep on Watch]] | session | 2026-04-29 |
-| [[EOTE 04. Down the River]] | session | 2026-04-29 |
+| [[Boris]] | character | 2026-05-30 |
+| [[Ione]] | character | 2026-05-30 |
+| [[World of Aroka]] | Home | 2026-05-16 |
+| [[Echoes of the Empire]] | Campaign | 2026-04-29 |
+| [[EOTE 01. Short Beginnings]] | Session | 2026-04-29 |
 <!-- END STATIC TABLE:Recent_Creations -->
 
 
