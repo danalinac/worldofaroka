@@ -2,6 +2,10 @@
 
 ---
 
+Hi everyone! You may have noticed a striking lack of new content or updates recently. I apologize for this. I experienced (and am still experiencing) some pretty significant changes to my life that have torn my focus away from this project. The <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> Campaign ended prematurely due to half the players not being able to attend anymore, I made a significant but very exciting change in my professional career, and am in the process of changing my living situation to one that is more sustainable long-term. If everything goes to plan, the dust will settle in the next couple months (September to October of 2026) and I will shift back to expanding upon this site. In the mean time, my goal is to translate one of the older pages from the Obsidian Publish site to the World of Aroka site on Sunday of each week. I was supposed to do this yesterday (Sunday the 16th of August), so I'm not off to a great start, but I'm committed to setting aside time to see this through. I appreciate you patience and assure you that I have not given up on this project and have continued to mull over story and worldbuilding ideas for it. Though I have lacked the bandwidth to codify these ideas in writing, I fully intent to redouble my efforts once I have completed the necessary changes to my life to set me up for future success.
+
+# The World of Aroka
+
 Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
 Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
@@ -12,7 +16,7 @@ To explore Aroka is to stand at the edge of the unknown. Every expedition uncove
 
 ### Campaigns
 
-##### <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> (Ongoing)
+##### <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> (Abandoned)
 
 A fractured world begins to stir as lingering remnants of a fallen order and forgotten powers resurface, drawing unlikely heroes into the first signs that something ancient—and dangerous—has not truly ended.
 
