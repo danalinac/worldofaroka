@@ -276,7 +276,9 @@
     ]
   },
   "world_of_aroka": {
-    "out": [],
+    "out": [
+      "nature/fauna/sapients/dryn"
+    ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"

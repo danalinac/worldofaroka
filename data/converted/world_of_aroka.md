@@ -2,9 +2,13 @@
 
 ---
 
-This site is now obsolete as the Obsidian Publish platform was significantly disappointing in terms of customization options and advanced functionality. I have created the https://www.worldofaroka.com/ site where I will gradually be updating the previous content of this site and presenting it there as well as continuing to build upon it. 
+Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
-If you have any comments, concerns, or questions, you can reach me at 3dXdice@gmail.com
+Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
+
+To explore Aroka is to stand at the edge of the unknown. Every expedition uncovers forgotten truths. Every alliance carries risk. Every choice has the potential to reshape the future. Whether you seek ancient secrets, survival in hostile lands, or stories forged through collaboration, Aroka invites you to leave your mark on a story still being written.
+
+---
 
 
 ---
