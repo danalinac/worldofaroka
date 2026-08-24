@@ -3,6 +3,10 @@
     "out": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+      "campaigns/echoes_of_the_empire/eote_postmortem",
       "characters/boris",
       "characters/ione",
       "characters/jonesie",
@@ -11,7 +15,11 @@
     ],
     "in": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-      "campaigns/echoes_of_the_empire/eote_02_survival_101"
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+      "campaigns/echoes_of_the_empire/eote_postmortem"
     ]
   },
   "campaigns/echoes_of_the_empire/eote_01_short_beginnings": {
@@ -34,6 +42,7 @@
     "out": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
       "characters/boris",
       "characters/ione",
       "characters/jonesie",
@@ -42,7 +51,122 @@
     ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "campaigns/echoes_of_the_empire/eote_01_short_beginnings"
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch"
+    ]
+  },
+  "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch": {
+    "out": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "characters/boris",
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river"
+    ]
+  },
+  "campaigns/echoes_of_the_empire/eote_04_down_the_river": {
+    "out": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+      "characters/boris",
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch"
+    ]
+  },
+  "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends": {
+    "out": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_postmortem",
+      "characters/boris",
+      "characters/jonesie",
+      "characters/kagbar",
+      "nature/fauna/sapients/scourge"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river"
+    ]
+  },
+  "campaigns/echoes_of_the_empire/eote_postmortem": {
+    "out": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+    ],
+    "in": [
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "nature/fauna/sapients/dryn",
+      "world_of_aroka"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
     ]
   },
   "characters/boris": {
@@ -56,6 +180,9 @@
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "characters/ione",
       "characters/jonesie",
       "characters/kagbar"
@@ -71,6 +198,8 @@
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
       "characters/boris",
       "characters/jonesie",
       "characters/kagbar"
@@ -86,6 +215,9 @@
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "characters/boris",
       "characters/ione",
       "characters/kagbar"
@@ -101,6 +233,9 @@
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "characters/boris",
       "characters/ione",
       "characters/jonesie"
@@ -122,6 +257,7 @@
     ],
     "in": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/scourge"
     ]
@@ -134,26 +270,16 @@
     "in": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "characters/boris",
       "nature/fauna/sapients/dryn"
     ]
   },
   "world_of_aroka": {
-    "out": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-      "campaigns/echoes_of_the_empire/eote_02_survival_101",
-      "characters/boris",
-      "characters/ione",
-      "characters/jonesie",
-      "characters/kagbar",
-      "nature/fauna/sapients/anthropes",
-      "nature/fauna/sapients/dryn",
-      "nature/fauna/sapients/scourge",
-      "world_of_aroka"
-    ],
+    "out": [],
     "in": [
-      "campaigns/echoes_of_the_empire/echoes_of_the_empire"
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
     ]
   }
 }

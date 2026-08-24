@@ -21,6 +21,69 @@
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/"
     },
+    "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch": {
+      "title": "EOTE 03. Never Fall Asleep on Watch",
+      "slug": "eote_03_never_fall_asleep_on_watch",
+      "folderPath": "campaigns/echoes_of_the_empire",
+      "isFolder": false,
+      "url": "/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/"
+    },
+    "campaigns/echoes_of_the_empire/eote_04_down_the_river": {
+      "title": "EOTE 04. Down the River",
+      "slug": "eote_04_down_the_river",
+      "folderPath": "campaigns/echoes_of_the_empire",
+      "isFolder": false,
+      "url": "/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/"
+    },
+    "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends": {
+      "title": "EOTE 05. Strange Foes and Friends",
+      "slug": "eote_05_strange_foes_and_friends",
+      "folderPath": "campaigns/echoes_of_the_empire",
+      "isFolder": false,
+      "url": "/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/"
+    },
+    "campaigns/echoes_of_the_empire/eote_postmortem": {
+      "title": "EOTE Postmortem",
+      "slug": "eote_postmortem",
+      "folderPath": "campaigns/echoes_of_the_empire",
+      "isFolder": false,
+      "url": "/pages/campaigns/echoes_of_the_empire/eote_postmortem/"
+    },
+    "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
+      "title": "Mantle of the Fallen World",
+      "slug": "mantle_of_the_fallen_world",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
+      "title": "MOTFW 00. Race for the Lost City",
+      "slug": "motfw_00_race_for_the_lost_city",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf": {
+      "title": "MOTFW 01. Welcome to the Warf",
+      "slug": "motfw_01_welcome_to_the_warf",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains": {
+      "title": "MOTFW 02. Into the Lost Mountains",
+      "slug": "motfw_02_into_the_lost_mountains",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth": {
+      "title": "MOTFW 03. The Crumbling Labyrinth",
+      "slug": "motfw_03_the_crumbling_labyrinth",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/"
+    },
     "characters/boris": {
       "title": "Boris",
       "slug": "boris",
@@ -93,7 +156,8 @@
       "title": "Campaigns",
       "hubpage": null,
       "children": [
-        "campaigns/echoes_of_the_empire"
+        "campaigns/echoes_of_the_empire",
+        "campaigns/mantle_of_the_fallen_world"
       ]
     },
     "campaigns/echoes_of_the_empire": {
@@ -101,7 +165,21 @@
       "hubpage": "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "children": [
         "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
-        "campaigns/echoes_of_the_empire/eote_02_survival_101"
+        "campaigns/echoes_of_the_empire/eote_02_survival_101",
+        "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+        "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+        "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+        "campaigns/echoes_of_the_empire/eote_postmortem"
+      ]
+    },
+    "campaigns/mantle_of_the_fallen_world": {
+      "title": "Mantle of the Fallen World",
+      "hubpage": "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "children": [
+        "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+        "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+        "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+        "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
       ]
     },
     "characters": {

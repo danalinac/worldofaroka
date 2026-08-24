@@ -1,0 +1,52 @@
+# Race for the Lost City
+### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 0
+
+---
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>Prior to AOR 542-4-39</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2024‑08‑25</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Gaunt</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Unidentified Old World Deity</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Jack, Perry, Serqet</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Duva, Ruined Sea, Sona, Tryvyum Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, Morydal, Okanu, the Sandsea, Shattered Straight</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Yova Bay</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard</span></div>
+    <div class=infobox-row><span class=label>Points:</span><span class=value></span></div>
+  </div>
+</div>
+
+
+
+##### Prior to AOR 542-4-39
+
+Since the beginning of the Age of Ice, the inhabitants of Aroka have kept alive the monuments from the Age of Divinity, chief among them being Pallium, the technological capital of the world and the last to fall during the War of Ashes. It is said to have been the birthplace of many terrible weapons in its final days, many of which still lay dormant within its walls awaiting resurrection. The Lost City of Pallium--the [[Mantle of the Fallen World]]--would be the crowning achievement of any adventurer and the key to global dominance for Organizations that pursue such endeavors. 
+
+For the majority of the Age of Reclamation, there was little hope of reaching Pallium and living to tell the tale is it is believed to be deep within the Lost Mountains near the northern end of the Shattered Straight. These mountains are infamous for their perilous peaks, aggressive wildlife, and near year-round ice and snow near its peaks. Whether attempting to fly over, travers through, or spelunk under, few have returned and those that have speak of great and terrible things dwelling within.
+
+Near the end of the 541st year of the Age of Reclamation when word of a comparatively safe and reliable path into the northern portion of the Lost Mountains began to spread. With the Dark Days and global winter of First Light rapidly appRoaching, few dared seek out this new route until after the new year, giving many lone adventures, guilds, and larger Organizations time to make plans and prepare. As soon as the first glimmer of light returned to Aroka following the Dark Days, the race was on.
+
+Jack, a Hare-Kin from Ohedyn, had spent the Dark Days at Gravestone and immediately chartered a Skyfarer to explore a remote set of ruins on the eastern edge of the Sandsea, so he was unaware of this news at first. He and his crew of independent adventurers and delvers hired Serqet, a Scorpion-Kin local and guide familiar with the ruins, to lead their expedition. What exactly transpired in the ruins is unclear, but only Jack and Serqet resurfaced and Jack was carrying a flail-like decanter emitting and strange blue glow. 
+
+From there, the two took the Skyfarer across the Sandsea, through Morydal, and across the Tryvyum Sea to Amyhra. Here, they heard of the race for the Lost City of Pallium and immediately chartered a Seafarer to sail north through the Shattered Straight. The Seafarer rarely braved the waters around the Gauntlet, so they set out to continue their journey on foot with a planned stop at Westguard. However, when they arrived, they found that the littoral stronghold had been Destroyed with no apparent survivors. Additionally, Gaunt stalked the area and seemed to be attracted to the caravan. 
+
+Not wishing to linger in Gaunt-infested territory, the caravan hurried on. The following night, they were attacked by a particularly large Gaunt and were saved by a Platypus-Kin warrior named Perry, the lone survivor of Westguard. With no home to return to and the hope that Pallium may contain ancient weapons that could Destroy the Gaunt once and for all, he agreed to join Jack and Serqet on their quest. 
+
+The rest of the journey to Sol and then Kendathyl Warf at the northern end of the Lost Mountains was uneventful, arriving on the 39th day of the fourth month of the 542nd year of the Age of Reclamation. Here, they would make their final preparations before venturing into the treacherous Lost Mountains and brave whatever dangers it contained.
+
+---
+
+#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2001.%20Welcome%20to%20the%20Warf">MOTFW 01. Welcome to the Warf</a>
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

@@ -3,7 +3,7 @@
 
 ---
 
-##### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEOTE%2001.%20Short%20Beginnings">EOTE 01. Short Beginnings</a>
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEOTE%2001.%20Short%20Beginnings">EOTE 01. Short Beginnings</a>
 
 
 ---
@@ -76,7 +76,7 @@ The beast continued to ignore the many blows that chipped away at its bloodied, 
 
 ---
 
-#### Next Session: EOTE 03. Never Fall Asleep on Watch
+#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FEchoes%20of%20the%20Empire%2FEOTE%2003.%20Never%20Fall%20Asleep%20on%20Watch">EOTE 03. Never Fall Asleep on Watch</a>
 
 
 ---

@@ -3,7 +3,7 @@
 
 ---
 
-##### Previous Session: <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a>
+#### Previous Session: <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a>
 
 
 ---
@@ -76,7 +76,7 @@ The beast continued to ignore the many blows that chipped away at its bloodied, 
 
 ---
 
-#### Next Session: EOTE 03. Never Fall Asleep on Watch
+#### Next Session: <a href="/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/" class="internal-link">EOTE 03. Never Fall Asleep on Watch</a>
 
 
 ---
