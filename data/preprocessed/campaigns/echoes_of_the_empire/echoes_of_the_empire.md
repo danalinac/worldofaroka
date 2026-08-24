@@ -17,11 +17,11 @@
     <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="obsidian://open?vault=Obsidian&file=Characters%2FBoris">Boris</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FIone">Ione</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FJonesie">Jonesie</a> & his 5 Racoon-Folk, <a href="obsidian://open?vault=Obsidian&file=Characters%2FKagbar">Kagbar</a></span></div>
   </div>
   <div class=infobox-section>
-    <h6>Locations</h6>
+    <h6>Key Locations</h6>
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit Den, Bandit Camp, Blasting Fields, Dynisin River, Echoed Ruins, Fishing Pit, Shale Hills, Short Beginnings, Tower of Knowledge Ruins</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit OutpostShort Beginnings, Tower of Knowledge Ruins</span></div>
   </div>
 </div>
 
@@ -40,14 +40,14 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 
 
 <!-- BEGIN STATIC TABLE:EOTE-Sessions -->
-| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
-| --- | --- | --- | --- | --- |
-| [[EOTE Postmortem]] |  |  |  |  |
-| [[EOTE 05. Strange Foes and Friends]] | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits | Aryus, Bandits, an Echoheart, Echoes |
-| [[EOTE 04. Down the River]] | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits | Graff, Leaplashers, Ryna |
-| [[EOTE 03. Never Fall Asleep on Watch]] | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  | Echoes, Featherclaw |
-| [[EOTE 02. Survival 101]] | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  | Echoes, Featherclaw |
-| [[EOTE 01. Short Beginnings]] | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Fannin, Garrun, Ryna |
+| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
+| --- | --- | --- | --- |
+| [[EOTE Postmortem]] |  |  |  |
+| [[EOTE 05. Strange Foes and Friends]] | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits |
+| [[EOTE 04. Down the River]] | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits |
+| [[EOTE 03. Never Fall Asleep on Watch]] | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  |
+| [[EOTE 02. Survival 101]] | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  |
+| [[EOTE 01. Short Beginnings]] | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 
 

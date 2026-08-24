@@ -42,12 +42,12 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 
 
 <!-- BEGIN STATIC TABLE:MOTFW-Sessions -->
-| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
-| --- | --- | --- | --- | --- |
-| [[MOTFW 03. The Crumbling Labyrinth]] | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits | Rippers |
-| [[MOTFW 02. Into the Lost Mountains]] | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees | Unidentified Assassins |
-| [[MOTFW 01. Welcome to the Warf]] | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll | OArd, Otter-Kin Thief, the Warden |
-| [[MOTFW 00. Race for the Lost City]] | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | Gaunt | Unidentified Old World Deity |
+| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
+| --- | --- | --- | --- |
+| [[MOTFW 03. The Crumbling Labyrinth]] | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
+| [[MOTFW 02. Into the Lost Mountains]] | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees |
+| [[MOTFW 01. Welcome to the Warf]] | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
+| [[MOTFW 00. Race for the Lost City]] | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | Gaunt |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 
 

@@ -17,11 +17,11 @@
     <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="/pages/characters/boris/" class="internal-link">Boris</a>, <a href="/pages/characters/ione/" class="internal-link">Ione</a>, <a href="/pages/characters/jonesie/" class="internal-link">Jonesie</a> & his 5 Racoon-Folk, <a href="/pages/characters/kagbar/" class="internal-link">Kagbar</a></span></div>
   </div>
   <div class=infobox-section>
-    <h6>Locations</h6>
+    <h6>Key Locations</h6>
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit Den, Bandit Camp, Blasting Fields, Dynisin River, Echoed Ruins, Fishing Pit, Shale Hills, Short Beginnings, Tower of Knowledge Ruins</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit OutpostShort Beginnings, Tower of Knowledge Ruins</span></div>
   </div>
 </div>
 
@@ -40,14 +40,14 @@ At the heart of those ruins, something awakened. A mysterious sword hilt, accomp
 
 
 <!-- BEGIN STATIC TABLE:EOTE-Sessions -->
-| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
-| --- | --- | --- | --- | --- |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_postmortem/" class="internal-link">EOTE Postmortem</a> |  |  |  |  |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits | Aryus, Bandits, an Echoheart, Echoes |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/" class="internal-link">EOTE 04. Down the River</a> | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits | Graff, Leaplashers, Ryna |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/" class="internal-link">EOTE 03. Never Fall Asleep on Watch</a> | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  | Echoes, Featherclaw |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  | Echoes, Featherclaw |
-| <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits | Fannin, Garrun, Ryna |
+| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
+| --- | --- | --- | --- |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_postmortem/" class="internal-link">EOTE Postmortem</a> |  |  |  |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | AOR 542-6-01 | Bandit Fort, Echoed Ruins, Shale Hills | Bandits |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_04_down_the_river/" class="internal-link">EOTE 04. Down the River</a> | AOR 542‑5‑95 | Bandit Fort, Dynisin River | Bandits |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch/" class="internal-link">EOTE 03. Never Fall Asleep on Watch</a> | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_02_survival_101/" class="internal-link">EOTE 02. Survival 101</a> | AOR 542‑5‑80 | Blasting Fields, Fishing Pit |  |
+| <a href="/pages/campaigns/echoes_of_the_empire/eote_01_short_beginnings/" class="internal-link">EOTE 01. Short Beginnings</a> | AOR 542‑5‑76 | Bandit Den, Short Beginnings | Bandits |
 <!-- END STATIC TABLE:EOTE-Sessions -->
 
 

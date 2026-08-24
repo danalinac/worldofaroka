@@ -42,12 +42,12 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 
 
 <!-- BEGIN STATIC TABLE:MOTFW-Sessions -->
-| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> | <h6>NPCs</h6> |
-| --- | --- | --- | --- | --- |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits | Rippers |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees | Unidentified Assassins |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a> | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll | OArd, Otter-Kin Thief, the Warden |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | Gaunt | Unidentified Old World Deity |
+| <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
+| --- | --- | --- | --- |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a> | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | Gaunt |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 
 
