@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOTFW 08. Siege on the Pillar — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Siege on the Pillar</h1>
+<h3><a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 8</h3>
+<hr>
+<h4>Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic/" class="internal-link">MOTFW 07. Dark City, Dark Magic</a></h4>
+<hr>
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-4-70</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2025-02-02</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>The Last Hope, Suckers</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Ahedyn Prisoner (Athyna), The Hermit</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Jack, Perry</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling City</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Pillar</span></div>
+  </div>
+</div>
+<h5>AOR 542-4-70</h5>
+<p>When the first rays of sunlight graced the Crumbling City, the Last Hope launched their attack on the central pillar. The Hermit used its Magic to protect the army from the air, allowing them to focus on battling only on foot. With the siege underway, the party rushed to the blocked entrance they had selected the previous day, quickly cleared away enough rubble to gain entry, and slipped inside.</p>
+<p>Cautiously, the party explored the maze-like interior of the pillar, encountering long-abandoned chambers and ancient traps. Eventually, they located a spiral staircase leading up to the second level. This new level was much more open, seeming to have been a gathering hall with a stagnant stone fountain at its center and the remains of long deteriorated wooden furniture. The staircase to the third level was easy to find, but the party detected Suckers descending it, so they hid and waited to ambush the patrol. The fight was over nearly as quickly as it had started and the party hurried up the stairs.</p>
+<p>The third floor was more similar to the first in that it consisted of many passages that branched and rejoined with no detectable pattern. After wandering around for a few minutes, the party found what appeared to be a jail room lined with cages. Several creatures that looked like they had suffered wounds too significant to have survived paced within their cells, gargling and growling like crazed beasts. Several benches along one wall was covered in strange tools, all of which looked like they had been used to conduct unthinkable experiments on these creatures.</p>
+<p>In one cage, the party found a small figure curled up in its back corner. It appeared to be a young female <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> covered in fresh wounds and barely able to keep her head up. Cautiously, the party broke the lock on the cell and appRoached the <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a>. She seemed frightened, but lacked the strength to fight back. Ahgythah began treating her wounds and assuring her that they meant her no harm. Though it did not seem as if the <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> spoke Common or any of the other Languages members of the party spoke, she did seem to understand that they were not there to hurt her, so she let Ahgythah heal her both with magical and mundane means. While treating her wounds, Ahgythah discovered that she was not a <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> but an Ahedyn, indicating that she may be far older than she appeared and likely possess significant magical capabilities.</p>
+<p>Before the party could investigate the rest of the jail room, the main door slammed shut and all the cages swung open. Realizing they had fallen into a trap, the party rushed into the Ahedyn’s cage and closed the door behind them. The monsters tore at each other ravenously until only one remained. Rushing out of their own cage and attacking together, the party quickly took down the last monster, though they were still trapped in the jail room.</p>
+<p>With the Ahedyn’s wounds treated as well as they could given the amount of time they had, Ahgythah and Parry pounded on the head door to the jail room, eventually knocking it off of its hinges. A group a suckers were waiting for them on the other side, but clearly had not anticipated the fighting prowess of the party and were quickly dealt with. One managed to escape and disappeared into the maze. Tracking the drops of blood left behind by the fleeing sucker, the party was able to locate a wide stone staircase leading up to a set of large metal doors. Moments later, the Hermit and the warriors of the Last Hope that were still in good enough condition to fight arrived. Ahgythah and the other healers treated as many wounds as they could and prepared to the assault on the throne room.</p>
+<hr>
+<h4>Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood/" class="internal-link">MOTFW  09. The Battle of Blood</a></h4>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"nature/fauna/sapients/dryn","title":"Dryn"},{"slug":"campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world","title":"Mantle of the Fallen World"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic","title":"MOTFW 07. Dark City, Dark magic"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood","title":"MOTFW 09. The Battle of Blood"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

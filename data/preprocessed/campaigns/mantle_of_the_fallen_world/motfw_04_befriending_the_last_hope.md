@@ -1,0 +1,80 @@
+# Befriending the Last Hope
+### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 4
+
+---
+
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2003.%20The%20Crumbling%20Labyrinth">MOTFW 03. The Crumbling Labyrinth</a>
+
+
+---
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-4-50 to 52</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2024‑10-27</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Beetle-Kind, The Last Hope</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Atalos, Arxst, Naloi, Rasat, Ton, Yjune</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Jack, Perry, Serqet</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Crumbling Labyrinth</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Beetle-Kind Fortress, the Crumbling Well, Sanctum</span></div>
+  </div>
+</div>
+
+
+
+##### AOR 542-4-50
+
+After an uneasy night, the party continued on their journey through the Labyrinth towards the tower. Towards the evening, they exited the maze and found themselves in a large, circular area with the tower at its center that had been cleared of rubble. The tower rose from the barren earth like an earthen spire, rising through a hole in the cavern ceiling far above. In addition to the multi-colored lights that lined one of its middle terraces, The Light or fires and torches emanated form its many windows.
+
+The party proceeded cautiously, noticing a single slab of stone About halfway between the exit of the maze and the ramp that led up to the main gate of the tower. Ads they neared it, they could see that it was engraved with many words. While most of the Languages were unfamiliar, the party was able to identify a few of them and concluded that this slab, in as many Languages as they could think of, said that they should wait there or die. Looking towards the tower, they could see three individuals standing at the top of the ramp. More watched from atop the walls and Perry spotted a small figure flying overhead, watching them. Not wishing to antagonize whomever resided in the tower, the party chose to follow the instructions on the slab and stay put. After a minute, the three strangers descended the ramp and appRoached. 
+
+As they neared, the party could see that one was a Fox-Kin, another was Rhino-Kin, and the third looked like a Bryd of a [[Dryn]] and a Goat-Kin. They stopped ten paces away from the party. Parry, excited to meet new people that didn't seem outright hostile, attempted to step forward to shake their hands. They quickly backed away and reached for their weapons before Jack and Serqet were able to diffuse the situation, assuring them that Perry meant no harm and was just excited. 
+
+The strangers remained on guard but introduced themselves. The Fox-Kin was Atalos, leader of the Sanctum; the Rhino-Kin was Arxst, commander of the Last Hope; and the Bryd was Naloi, founder of the Last Hope and ambassador to newcomers. They explained that the tower, Sanctum, was a home for those that had found themselves trapped in the Labyrinth and no longer wished to risk their lives trying to escape it. They guessed correctly that the party was seeking the Lost City of Pallium as many had come that way in search of it since the First Light of that year. As long as the party was willing to offer their services to the Last Hope, they could stay in Sanctum and solicit their crafters and merchants to repair and replenish their equipment. Eager to rest in safety, the party agreed. Perry nearly dissolved this arrangement by immediately trying to shake their hands again and given them rocks as gifts, but Jack and Serqet insisted that he would behave himself. They knew he wouldn't, but they were hoping he would not be so annoying as to get them kicked out of Sanctum.
+
+Safe and warm within the walls of Sanctum, the party decided to see what they could learn About the Labyrinth and plan their way forward. Naloi offered to escort them to the room they kept their map of the region in and explain the History of the Last Hope. Years ago, she found herself among the first to be trapped within the Labyrinth have traveled with a company seeking Pallium long before the new path into the Lost Mountains was discovered. The region was far more dangerous then, being overrun by Deep-Folk, Sect, and other monsters that did not welcome intruders to their territories. She was the only one of her company to survive and sought out other survivors. As they grew, they took on the name of Last Hope, migrating through the Labyrinth to avoid being caught and overpowered by their numerous enemies. 
+
+They lived like this until the new path into the Lost Mountains was discovered and traffic through the region significantly increased. Initially, this was thought to be a blessing as more warriors could clear out their enemies within the Labyrinth, but all it did was bring more adversaries from the depths to counter what they perceived was an invasion. The survivors of the numerous skirmishes joined with the Last Hope until they were too large to hide amongst the ruins and had to stand their ground. They were on the verge of eradication when a company of mighty warriors entered the Labyrinth and slew all enemies in their path. They were Var'Yn and in numbers that none among the Last Hope had ever heard of before. They called themselves the Rising Heirs and gave the Last Hope the choice between serving them or being Destroyed. This was an easy choice.
+
+Naloi negotiated an agreement with their leader, Kal'Ah. The Rising Heirs would help the Last Hope take the tower that the Deep-Folk used as their main base of operations and the Last Hope would help them find a way out of the Labyrinth and deeper into the mountains. This was acceptable to the Var'Yn and they took the tower with ease, wiping out the Deep-Folk within. The tower was renamed Sanctum and had served as the home of the Last Hope ever since. With a place to call home, the Last Hope was able to quickly find a path out of the Labyrinth and deeper into the mountains. Pleased with the results, Kal'Ah offered anyone that wished to continue with them to Pallium. Some agreed and departed with them, but most no longer wished to find Pallium and would only leave the Labyrinth if it would release them into the outside world.
+
+This retelling of events gave the party hope that their path forward would be easy as the Var'Yn sounded like mighty warriors that would have Destroyed all obstacles between them and Pallium, assuming they had found it. However, Rasat, the Bat-Kin that had been flying overhead while they weighted outside at the slab, informed them that the recent seismic activity had significantly altered the layout of the Labyrinth, closing off known routes and opening up new, unexplored paths. They were confident that the path to the next major Section of the Labyrinth was still intact, but a colony of Beetle-Folk had taken up residence in the fortress guarding the passage. 
+
+The party asked what it would take to get the Last Hope to help them clear out the Beetle-Kind so they could proceed. Both Naloi and Rasat were skeptical that anything would be enough to garner the full support of the Last Hope, but they might be able to convince individual members to join them in battle if they made themselves of sufficient service. Eager to do so, the party asked About where they could begin. Rasat informed them that a nearby structure, called the Well, was where they collected all their water from as an underground river flowed beneath it. However, the recent quakes had cause other rivers to join this one, allowing larger creatures to make of home for themselves in the Well. Not only did this pose a risk to anyone sent to fetch water, but it was contaminaing their water, requiring their healers and mages to spend a great deal of time purifying it. If the party cleared out the Well, they would be on their way to winning the cooperation of many members of the Last Hope.
+
+Eager to prove their worth to their new hosts, the party retired for the night so they could set out for the Well at dawn.
+
+##### AOR 542-4-51
+
+The following morning, the party set out for the Well. In only took an hour to reach the crumbling structure. It's remains suggested that it had once been a tall structure with mechanisms to draw water out from the subterranean river beneath. Now, only two stories of the structure remained with everything else either lying on the ground surrounding it or likely sitting at the bottom of the river beneath it. Initial inspections didn't reveal signs of any creatures in or near the water, so Perry dove into the well, very quickly realizing that there were larger creatures hiding just beneath the surface and hurriedly exciting the water.
+
+A large amphibious monster with numerous tentacles chased Perry out of the water. It proved a tough fight, but the party was successful, slaying the creature before it had a chance to flee back into the water. It's blood drew the attention of smaller predators in the water, but the party made quick work of them too. While the water of the Well was contaminated with the blood of the creatures, it seemed that anything else living in it decided to migrate away. The flowing water soon washed the gore and viscera away as the party set About cutting their kills into smaller Sections so they could more easily be carried back to Sanctum.
+
+A few hours later, the party returned to Sanctum with enough food to last them a ten-day. Impressed by the size of the creatures and how few injuries the party took, many expressed an interest in joining them on their next venture. Most had resigned to simply live out their days within the tower, but the Combat prowess of the party gave them renewed hope that there was some benefit to spreading their influence throughout the Labyrinth. Atalos, Arxst, and Naloi were not so impressed that they pledged the full support of the Last Hope, but believed the party harbingered change to the region and were curious as to their next move.
+
+Wanting to press on with their quest, especially with the Var'Yn having such as head start towards Pallium, the party began making preparations to clear out the Beetle-Kind colony. It took some convincing, but they were able to sway enough warriors of the Last Hope to join them to make victory a near certainty.
+
+##### AOR 542-4-52
+
+The following morning, the party set out with twelve volunteer warriors from Sanctum. AppRoaching the Beetle-Folk colony stealthily, they were able scout of the fortress they had made a home in and conjured a plan to have one group attack through the main hall while another used side passages to flank them. Initially, the plan worked perfectly with the majority of the Beetle-Kind being caught between the two halves of the attacking force. However, more Beetle-Kind emerged from the tunnel that led to the other part of the Labyrinth, suggesting that this was just half the colony. Using whatever advantages they could, including funneling their opponents through narrow arches and doorways, the party and their allies weighed their options. While not ideal, they decided that closing the passage would allow them to take care of this half of the colony and finish off the other half once they were ready to do so. 
+
+Perry, being the strongest of the group, identified a weak point in the passage wall and smashed it, knocking loose the earth and stone above it. With the passage closed, the party and their allies were able to finish off the rest of their adversaries. When the dust settled, nearly half of the warriors of Sanctum lay wounded or dying on the floor. The quick work of the few healers among them spared all but two from death. Impressed with their tactical prowess in addition to their skills in Combat, mare from Sanctum pledged their assistance to the party, asking what their next venture would be. 
+
+Ton, one of the few [[Dryn]] among the Last Hope and a talented but skilled tinkerer, informed the party that the collapsed passage would take quite some time to clear by hand, so she recommended that an explosive be made to clear it rapidly and give them the element of surprise against the other half of the Beetle-Kind colony. The alchemical materials to create an explosive large enough could be found in the Fungal Forest across the river to the east of Sanctum. The party requested aw few days to recover from their wounds, but were grateful for her help and eager to do whatever it took to move ahead with their quest.
+
+---
+
+#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2005.%20The%20Fungal%20Forest">MOTFW  05. The Fungal Forest</a>
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

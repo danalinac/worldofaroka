@@ -44,6 +44,13 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 <!-- BEGIN STATIC TABLE:MOTFW-Sessions -->
 | <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
 | --- | --- | --- | --- |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley/" class="internal-link">MOTFW 10. Lex-Gate Valley</a> | AOR 542-4-71 | The Last Gate, Lex-Gate Valley, Sanctum | The Children of Lex, The Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood/" class="internal-link">MOTFW 09. The Battle of Blood</a> | AOR 542-4-70 | The Pillar | The Last Hope, Suckers |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar/" class="internal-link">MOTFW 08. Siege on the Pillar</a> | AOR 542-4-70 | The Pillar | The Last Hope, Suckers |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic/" class="internal-link">MOTFW 07. Dark City, Dark magic</a> | AOR 542-4-64 | The Last Gate | The Last Hope, Suckers |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/" class="internal-link">MOTFW 06. The Weaver Nest</a> | AOR 542-4-61 | Beetle-Kind Fortress, Sanctum, Weaver Nest | The Last Hope, Weavers |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest/" class="internal-link">MOTFW 05. The Fungal Forest</a> | AOR 542-4-53 | The Fungal Forest, Sanctum, Scorpion-Kind Fortress | Fungal-Folk, The Last Hope, Scorpion-Kind |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope/" class="internal-link">MOTFW 04. Befriending the Last Hope</a> | AOR 542-4-50 | Beetle-Kind Fortress, the Crumbling Well, Sanctum | Beetle-Kind, The Last Hope |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a> | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |

@@ -50,7 +50,7 @@ During the night, they were ambushed by a Mouse-Kin, and Rat-Kin, and two Sect. 
 
 ---
 
-#### Next Session: MOTFW  04. Befriending the Last Hope
+#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope/" class="internal-link">MOTFW  04. Befriending the Last Hope</a>
 
 ---
 

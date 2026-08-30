@@ -1,0 +1,63 @@
+# The Fungal Forest
+### <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 5
+
+---
+
+#### Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope/" class="internal-link">MOTFW 04. Befriending the Last Hope</a>
+
+
+---
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-4-53 to 60</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2024‑12-8</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Fungal-Folk, The Last Hope, Scorpion-Kind</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Ahgythah, Ton</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Jack, Perry, Serqet</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Crumbling Labyrinth</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Fungal Forest, Sanctum, Scorpion-Kind Fortress</span></div>
+  </div>
+</div>
+
+
+
+##### AOR 542-4-53 to  56*
+
+The party spent these four days recovering from their injuries at the hands of Sanctum's chief healer, Ahgythah, a Sheep-Kin old enough to remember the world before the First Firefall.
+
+##### AOR 542-4-57
+
+The party set out for the Fungal Forest with Ton and twelve warriors from Sanctum. A river separated the forest from the rest of the Labyrinth with the only safe passing point being a crumbling fort built around an equally crumbling bridge. Wary of what may have taken up residence in the structure, the party snuck inside and discovered that a colony of scorpion-like Sect was sleeping within. Not wishing to fight unless they had to, the party search for another way to cross the river but were unable to find one. Reluctantly, they snuck back into the fort and launched a sneak attack, killing several before they even woke. The fight was brief, but many many injuries were sustained by the party and their allies with one of the warriors from Sanctum perishing. The party decided to hold up in the fort to heal from their wounds before continuing to the Fungal Forest.
+
+##### AOR 542-4-58 & 59
+
+The next two days were spent recovering from their wounds.
+
+##### AOR 542-4-60
+
+Once recovered enough to continue, the party resumed their journey to the Fungal Forest. It took only an hour to reach the edge of the gloomy and glowing forest. Tendrils of turquoise fog flowed across the ground and strange creatures called from towering mushrooms. Once inside, they quickly located most of the ingredients Ton would need to craft the explosive, but the key ingredient, a purple crystalline fungus, still eluded them. 
+
+After an hour of searching, they came across what appeared to be islands in a pond of the turquoise fog. Sitting on one of the islands was a cluster of the purple fungus they needed. Cautiously, the party crept forward. Halfway there, they noticed that there seemed to be strange figures moving through the fog. After a bit of experimenting, it seemed as if the figures were blind and only responded to sound, so Perry and Ton carefully made their way towards the purple fungus while the rest of the group readied for combat. Seemingly aware that something was amiss, several of the figures climbed out of the fog, revealing themselves to be strange being compose of Various kinds of plant matter, seemingly to be more flora than fauna.
+
+Just as Perry and Ton finished gathering enough of the purple fungus, one of the figures wandered close enough to the group to hear their panicked breathing and let out a wail that attracted the rest of them. Combat ensued and the party quickly realized that these foes were too strong and too numerous to stand a fight, so they prepared to flee. As they did, Perry stumbled and fell into the fog. It wasn't very deep and he was able to quickly climb out without inhaling too much of the fog, which was greatly to his benefit as even just a few lungful's began to induce confusion and hallucinations. A large twisted mass of branches and roots began to climb out of the fog behind him, sending the entire group into a mad sprint back towards Sanctum.
+
+When the party emerged from the forest, fatigued and frightened, they realized that they had lost two more warriors of Sanctum. Too injured and too tired to launch what was most likely a body-recovery mission, they returned to Sanctum to heal from their wounds and prepare for the next mission. Ton immediately began work on the explosive, determined to not let the warriors' sacrifices be in vain.
+
+---
+
+#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/" class="internal-link">MOTFW  06. The Weaver Nest</a>
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOTFW 07. Dark City, Dark magic — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Dark City, Dark Magic</h1>
+<h3><a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 7</h3>
+<hr>
+<h4>Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/" class="internal-link">MOTFW 06. The Weaver Nest</a></h4>
+<hr>
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-4-64 to 69</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2025-01-19</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>The Last Hope, Suckers</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>The Hermit, Rasat</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Jack, Perry</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling City</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Last Gate</span></div>
+  </div>
+</div>
+<h5>AOR 542-4-64 to 66</h5>
+<p>These three days were spent recovering from their battle with the Weaver. While they did so, Rasat flew ahead to scout out the new part of the Labyrinth, which was dominated by the ruins of an ancient city center with a central pillar rising from the Labyrinth’s floor to its ceiling. While the recent seismic activity had not changed the layout of the area much, many of the bridges had collapsed and new crevasses had opened, significantly reducing the number of routes leading to the city’s main entrance. By the end of the three days, he had identified a reliable but very indirect route through the ruins. He also noted that there was little to no activity in the area, which was in stark contrast to what he had seen when he surveyed the region prior to the seismic activity.</p>
+<h5>AOR 542-4-67</h5>
+<p>Recovered and armed with more the information Rasat had gathered over the past three days and an alchemical torch with which to signal for him, the party set out through the Crumbling City. As Rasat had observed, there were no signs of life. They would occasionally come across decaying corpses, but they appeared to have been there for quite some time. About halfway through the day, the party came across something that caught their attention. It was another group of corpses, but the disturbed earth and tracks suggested that one of the larger bodies had stood up and walked away towards the central pillar. Unsettled by this discovery, they began to search the surrounding area for any clues.</p>
+<p>While searching, Perry spotted a strange creature lurking in the shadows. Moving closer to investigate, the creature flashes brightly and runs off. Intrigued, Perry excitedly told the rest of the party About the creature, describing it as best he could. Ahgythah recognized the creature as a Mimic, a rare creature with numerous color-changing tentacles that allow it to take on nearly any shape it desires. She urged the party to be cautious About what they come in contact with as the Mimic’s skin secreted a toxin that made its victims susceptible to being led into a a trap where it could kill and feed on them.</p>
+<p>Shortly afterward, Perry spotted a really pretty rock in the middle of the path. Not heeding Ahgythah’s warning, he picks it up and is instantly exposed to the Mimic’s toxin and is unable to resist following it into a narrow alley. Fortunately, Perry still had enough of his wits to defend himself when the Mimic attacked, injuring it enough to force it to retreat. Knowing that the toxin would likely last for another hour or two, Ahgythah suggested the party take refuge in a nearby structure and keep a close eye on Perry and be careful not to touch anything they hadn’t already poked with a weapon to avoid further contamination.</p>
+<p>As they waited for the toxin to ware off of Perry, the party spotted several winged Sect flying overhead, almost as if they were searching for something in the ruins. Feeling that their current shelter wouldn’t be a safe place to camp for the night, the party cautiously pressed on, being extra vigilant of their surroundings and attempting to avoid traveling in the open whenever possible. As night fell, they found a structure where the roof had partially collapsed, providing enough shelter for their small group while still allowing for quick escape if they were spotted and attacked.</p>
+<h5>AOR 542-4-68</h5>
+<p>To their surprise, the night passed without incident, but the moment the sunlight entered the Labyrinth, a dozen mosquito-like Sect descend upon them and attack. They were small but quick, jabbing at the party with claws and blades while dancing just out of reach of their attacks. The fight proved challenging, but the party was able to cut most of them down, forcing the rest to turn in retreat.</p>
+<p>As the remainder of the Sect fled, they were caught up in a magical blaze that burnt them to ash in seconds. A strange hooded figure slowly appRoached the group, scanning them with Magic so potent even the members of the party with no magical inclination could feel it. Unsure of whether this new being was a friend or foe, the party remained on guard.</p>
+<p>After several minutes, the being communicated with their through their thoughts, introducing himself as the Hermit and telling them that he had been watched them for quite some time and believed them to be of no threat to it. It further explained that the Sect that had attacked them, often referred to as Suckers, were part of a hive practicing dark Magic within the central pillar of the city. An ancient being, similar to itself, had allied with the Sect to reanimate deceased creatures as Husks to serve as a limitless source of blood as well as a formidable soldier. The party had proven they were proficient in combat, so it offered to gift them with knowledge in exchange for their help in cleansing the pillar of the abominations and their creator.</p>
+<p>Understanding that Sanctum would likely not stand against an army of reanimated corpses, the party agreed to help and used the alchemical torch to signal for Rasat. Near mid-day, he reached them, reporting that the sky was now filled with Sect patrols. The party filled him in on the danger that lurked within the central pillar of the city and that they needed to lay siege to it. Rasat was skeptical of this course of action as the Last Hope already had many warriors still recovering from their injuries, but the Hermit was able to convince him that its Magic would more than make up for any lack of numbers or strength. Unsure as to whether or not the leaders of the Last Hope would agree to mobilize all their remaining warriors for a siege on the pillar, Rasat requested that the Hermit meet them at the passage between the two regions of the Labyrinth to make its case. The Hermit agreed, telling the party the it would join the Last Hope in laying siege to the main entrance of the pillar so that the party could sneak into one of the side entrances. Without waiting for a response, the Hermit headed off to meet with the leaders of the Last Hope.</p>
+<p>Unsure of what they had just gotten themselves involved with, the party spent the rest of the day scouting for ways into the pillar before retreating to a far more secure location to spend the night.</p>
+<h5>AOR 542-4-69</h5>
+<p>The party spent the whole day scouting the pillar for additional entrances and identified several potential points of entry. The entrances had all been blocked off, but some had little enough rubble that the party believed they could gain entry quite easily and without being detected. That evening, Rasat visited them and informed them that the main assault would being at first light the following morning, giving the party the opportunity to sneak into the pillar and do whatever damage they could, ideally slaying the hive’s rulers and discovering the location of the mage sharing its dark Magic with them.</p>
+<hr>
+<h4>Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar/" class="internal-link">MOTFW  08. Siege on the Pillar</a></h4>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world","title":"Mantle of the Fallen World"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest","title":"MOTFW 06. The Weaver Nest"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar","title":"MOTFW 08. Siege on the Pillar"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

@@ -115,6 +115,13 @@
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
       "nature/fauna/sapients/dryn",
       "world_of_aroka"
     ],
@@ -122,7 +129,14 @@
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
-      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley"
     ]
   },
   "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
@@ -162,11 +176,98 @@
   "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope"
     ],
     "in": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
+      "nature/fauna/sapients/dryn"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
+      "nature/fauna/sapients/dryn"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley"
+    ]
+  },
+  "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
+      "nature/fauna/sapients/dryn"
+    ],
+    "in": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood"
     ]
   },
   "characters/boris": {
@@ -258,6 +359,9 @@
     "in": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/scourge"
     ]
