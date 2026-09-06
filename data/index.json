@@ -133,6 +133,111 @@
       "isFolder": false,
       "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley/"
     },
+    "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth": {
+      "title": "MOTFW 11. Return to the Labyrinth",
+      "slug": "motfw_11_return_to_the_labyrinth",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar": {
+      "title": "MOTFW 12. Beneath the Pillar",
+      "slug": "motfw_12_beneath_the_pillar",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers": {
+      "title": "MOTFW 13. The Reapers",
+      "slug": "motfw_13_the_reapers",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley": {
+      "title": "MOTFW 14. Return to Lex-Gate Valley",
+      "slug": "motfw_14_return_to_lex_gate_valley",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns": {
+      "title": "MOTFW 15. The Lex-Gate Caverns",
+      "slug": "motfw_15_the_lex_gate_caverns",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition": {
+      "title": "MOTFW 16. Nobody Expects the Inquisition",
+      "slug": "motfw_16_nobody_expects_the_inquisition",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea": {
+      "title": "MOTFW 17. The Sunless Sea",
+      "slug": "motfw_17_the_sunless_sea",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights": {
+      "title": "MOTFW 18. The Isle of Lights",
+      "slug": "motfw_18_the_isle_of_lights",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light": {
+      "title": "MOTFW 19. The Temple of the Dying Light",
+      "slug": "motfw_19_the_temple_of_the_dying_light",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness": {
+      "title": "MOTFW 20. On the Edge of Darkness",
+      "slug": "motfw_20_on_the_edge_of_darkness",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns": {
+      "title": "MOTFW 21. The Whispering Caverns",
+      "slug": "motfw_21_the_whispering_caverns",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged": {
+      "title": "MOTFW 22. Outnumbered and Out-Legged",
+      "slug": "motfw_22_outnumbered_and_out_legged",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_23_revenge": {
+      "title": "MOTFW 23. Revenge",
+      "slug": "motfw_23_revenge",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_23_revenge/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork": {
+      "title": "MOTFW 24. The Final Fork",
+      "slug": "motfw_24_the_final_fork",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork/"
+    },
+    "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil": {
+      "title": "MOTFW 25. The Lesser Evil",
+      "slug": "motfw_25_the_lesser_evil",
+      "folderPath": "campaigns/mantle_of_the_fallen_world",
+      "isFolder": false,
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil/"
+    },
     "characters/boris": {
       "title": "Boris",
       "slug": "boris",
@@ -235,7 +340,22 @@
         "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
         "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
         "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
-        "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley"
+        "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
+        "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
+        "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
+        "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers",
+        "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
+        "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
+        "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
+        "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+        "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
+        "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
+        "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
+        "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
+        "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
+        "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
+        "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+        "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
       ]
     },
     "characters": {

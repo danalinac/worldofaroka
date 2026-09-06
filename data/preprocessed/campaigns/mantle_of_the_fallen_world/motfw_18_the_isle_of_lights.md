@@ -1,0 +1,62 @@
+# The Isle of Lights
+### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 18
+---
+
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2017.%20The%20Sunless%20Sea">MOTFW 17. The Sunless Sea</a>
+
+
+---
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-5-09 to 10</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2025-08-03</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Fortune Pursuit, Gruffwind Raiders</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Cloaked Stranger</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Athyna, Chapel, Jack, Perry, Tyche</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Sea of Light</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Lights, Sunless Shores</span></div>
+  </div>
+</div>
+
+
+
+##### AOR 542-5-09
+
+With the boat repaired, their rations replenished, and rested enough to continue on their journey, the party prepared to set to sea. However, they had singing echoing off of the cliffs. After several minutes, an odd figure could be seen skipping down the beach. It looked like a Horse-Kin with faded pink hair. Once she spotted the party, she shouted out in greeting asking if they had found any cool rocks or shells. She introduced herself as Chappel and explained that she had found herself in the Sunless Sea by following a trail of flowers, then mushrooms, then rocks, and then sea shells. Now, she was in search of something to redye her hair as her normally vibrant pink was now almost all washed out and returned to her natural white. She looked like she be good to have by your side in a fight, so the party offered to share their rations and help her look for a way to dye for hair in exchange for her accompanying them. She very eagerly agreed and the party was soon underway towards the Isle of Lights.
+
+As they neared the shore, a storm rolled in from the south. Their vessel was old and still damaged despite their efforts to repair it, so it began taking on water and came dangerously close to capsizing on several occasions. Just as they were About to make it aground, a massive wave caught them and through them into the sea. Fortunately, most of them could swim and those that couldn't clung to those that could and they all made it ashore and found shelter in a nearby cave. They immediately set to making a fire as the chilling water had soaked through their fur or hair and threatened so drain them of all warmth. With some effort as all their gear was also soaked, they were able to get a fire going using relatively dry debris and they began to dry themselves.
+
+When the storm passed, the party climbed up the hills along the shore and found themselves looking down upon a port city. The great artificial sun illuminated the streets and countless candles, lanterns, and torches could be seen lighting everywhere the sun couldn't reach. The party, still recovering from their battle with the storm, asked Tyche where they could find a place to rest. He led them to a small home that looked like it had been constructed from Various slabs of metal, stone, and wood. This was just one of many in a long line that sat on the edge of the city with their backs to the lone mountain of the island. Inside, they encountered a Bird-Kin that initially tried to fight them off until he realized just how outnumbered he was and then fled. The space was small, but the party was able to squeeze themselves in and promptly went to sleep.
+
+##### AOR 542-5-10
+
+The following day, Tyche went down to the docks while the rest of the party rested to see if he could procure a ship to Pallium. This would be difficult as traveling to Pallium required cross the deep straight that divided the Sea of Light from the Sea of Darkness, navigating the treacherous waters of the Sea of Darkness, and evading the still active defenses of the Lost City. If that weren't enough of an obstacle, nearly all vessels in the Sea of Light made a living by dredging for coral and seaweed, hunting local creatures rich in either blubber or ink, or transporting goods and personnel to and from the Various islands of the region. There was little money to be made risking a voyage to Pallium, so Tyche would need to either lie his way to an agreement or find a way to very quickly procure a large sum of coinage. 
+
+Fortunetly, he was very skilled at talking his way in and out of things and acquiring what he wanted through technically Legal but highly dubious means. Unfortunately, nearly everyone in the Sea of Light knew him and his reputation, so they would be wary of his schemes. That's how he ended up on the shores on the outer edge of the Sea of Lights in the first place. He had crossed one too many ship Helms and was betrayed by a crew that had lied About requiring his services and cast him overboard while underway. He had barely managed to make it to shore and likely would have remained an outcast if the party hadn't found him. Even now, he wasn't sure how safe he was back on the Isle of Lights and wished he could have brought some of the larger members of the party with him to protect him. He wasn't much of a fighter, preferring to pay or persuade Others to fight his battles for him.
+
+Tyche spoke with the Helm of the Gruffwind Raiders, one of the more agreeable crews in the Sea of Light. They agreed to take him and his crew to Pallium for 1,000 gold coins and the full cooperating of the party helping the crew and fending off any dangers. While a steep price, it was the best Tyche could ask for. The helm informed him that they were already chartered to transport fuel to one of the further lighthouses, but would be back at the Isle of Light in a couple days. Tyche hoped that would be enough time to acquire the funds.
+
+With the first obstacle overcome, Tyche now had to figure out how to make 1,000 gold in two days. Not sure how to accomplish this, he snuck around and listened in on as many conversation as he could, looking for any opportunity to make some quick money. He noticed that there was a hooded figure following him and had to duck into several side allies to lose him. More cautiously, he continued his search for an opportunity. 
+
+Eventually, he found a group of Cat-Kin complaining About how they were being paid less and less for their shipments to the Church of the Dying Light. Tyche introduced himself to them, offering to help them negotiate better payment from the Church. They were familiar with his work and offered to give him and the rest of his party passage to the Temple of the Dying Light and would pay them half of what he could convince the Church to pay in addition to their previous payment. Tyche agreed and was informed that their ship, the Fortune Pursuit, would set to sea the following morning. With a plan in place, Tyche returned to his home to inform the rest of the party and to prepare for their next journey.
+
+During the night, Ahgythah and Tyche snuck out, though Perry noticed and initially followed until he realized they were sneaking away to spend time alone. When Perry returned to the home, he was approached by a cloaked figure who began asking questions About Tyche and offering to pay Perry for his assistance in capturing him. Perry refused and informed the stranger that any move made against someone in their party would not end well for the aggressor. He then returned to the home and went back to sleep.
+
+---
+
+#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2019.%20The%20Temple%20of%20the%20Dying%20Light">MOTFW  19. The Temple of the Dying Light</a>
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

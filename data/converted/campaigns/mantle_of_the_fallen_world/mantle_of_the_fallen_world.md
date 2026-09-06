@@ -44,7 +44,22 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 <!-- BEGIN STATIC TABLE:MOTFW-Sessions -->
 | <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
 | --- | --- | --- | --- |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley/" class="internal-link">MOTFW 10. Lex-Gate Valley</a> | AOR 542-4-71 | The Last Gate, Lex-Gate Valley, Sanctum | The Children of Lex, The Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil/" class="internal-link">MOTFW 25. The Lesser Evil</a> | AOR 542-5-20 | Crab-Kin Temple, Palliums Core, VarYn Forward Lookout | Survivors of Pallium, VarYn |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork/" class="internal-link">MOTFW 24. The Final Fork</a> | AOR 542-5-20 | Isle of Echoes, Crab-Kin Temple | Crab-Kin Cultist, The Secret Quill |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_23_revenge/" class="internal-link">MOTFW 23. Revenge</a> | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged/" class="internal-link">MOTFW 22. Outnumbered and Out-Legged</a> | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/" class="internal-link">MOTFW 21. The Whispering Caverns</a> | AOR 542-5-15 | Isle of Echoes | Rippers, The Secret Quill |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness/" class="internal-link">MOTFW 20. On the Edge of Darkness</a> | AOR 542-5-13 | Edge of Light, Temple of the Dying Lights | Church of the Dying Light, Lightguard |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light/" class="internal-link">MOTFW 19. The Temple of the Dying Light</a> | AOR 542-5-11 | Isle of Lights, Temple of the Dying Lights | Church of the Dying Light, Fortune Pursuit |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/" class="internal-link">MOTFW 18. The Isle of Lights</a> | AOR 542-5-09 | Isle of Lights, Sunless Shores | Fortune Pursuit, Gruffwind Raiders |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea/" class="internal-link">MOTFW 17. The Sunless Sea</a> | AOR 542-5-03 | Sunless Shores | The Children of Lex, the Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/" class="internal-link">MOTFW 16. Nobody Expects the Inquisition</a> | AOR 542-5-01 | Lex-Gate Valley Gate | The Children of Lex, the Knights of the Scroll Inquisitors, the Last Hope, Mercenaries |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns/" class="internal-link">MOTFW 15. The Lex-Gate Caverns</a> | AOR 542-4-97 | <a href="/pages/nature/fauna/sapients/scourge/" class="internal-link">Scourge</a> Camp | The Children of Lex |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley/" class="internal-link">MOTFW 14. Return to Lex-Gate Valley</a> | AOR 542-4-89 | The Pillar | The Children of Lex, the Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers/" class="internal-link">MOTFW 13. The Reapers</a> | AOR 542-4-86 | The Pillar | The Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar/" class="internal-link">MOTFW 12. Beneath the Pillar</a> | AOR 542-4-84 | The Pillar | The Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth/" class="internal-link">MOTFW 11. Return to the Labyrinth</a> | AOR 542-4-80 | The Last Gate | The Children of Lex, The Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley/" class="internal-link">MOTFW 10. Lex-Gate Valley</a> | AOR 542-4-71 | The Last Gate, Lex-Gate, the Memory Stone, Sanctum | The Children of Lex, The Last Hope |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood/" class="internal-link">MOTFW 09. The Battle of Blood</a> | AOR 542-4-70 | The Pillar | The Last Hope, Suckers |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar/" class="internal-link">MOTFW 08. Siege on the Pillar</a> | AOR 542-4-70 | The Pillar | The Last Hope, Suckers |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic/" class="internal-link">MOTFW 07. Dark City, Dark magic</a> | AOR 542-4-64 | The Last Gate | The Last Hope, Suckers |

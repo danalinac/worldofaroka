@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOTFW 22. Outnumbered and Out-Legged — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Outnumbered and Out-Legged</h1>
+<h3><a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 22</h3>
+<hr>
+<h4>Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/" class="internal-link">MOTFW 21. The Whispering Caverns</a></h4>
+<hr>
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-5-16</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2025-10-05</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Pincers, The Secret Quill</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>The Guide</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Athyna, Chapel, Jack, Perry, Tyche</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Whispering Caverns</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Echoes, Pincer Cavern</span></div>
+  </div>
+</div>
+<h5>AOR 542-5-16</h5>
+<p>After treating their wounds and resting, the party asked how they could earn the Quill’s trust. They were informed that a nest of pincers deeper in the caverns was growing a bit too large. The Sects’ presence helped deter unwanted creatures and peoples from wandering through the Whispering Caverns, but if their numbers began too great, they would start to attack members of the Quill. If the party could prune their numbers, the Quill would be willing to share some more information with them.</p>
+<p>It didn’t the party long to reach the pincers’ cave. However, they were not prepared for how aggressive they were and were pushed back. They spent the rest of the day tending to their wounds and developing a new plan of attack.</p>
+<hr>
+<h4>Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_23_revenge/" class="internal-link">MOTFW  23. Revenge</a></h4>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world","title":"Mantle of the Fallen World"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns","title":"MOTFW 21. The Whispering Caverns"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_23_revenge","title":"MOTFW 23. Revenge"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

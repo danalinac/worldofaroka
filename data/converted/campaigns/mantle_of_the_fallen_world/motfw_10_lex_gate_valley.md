@@ -1,5 +1,5 @@
 # Lex-Gate Valley
-### <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 1-
+### <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 10
 ---
 
 #### Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood/" class="internal-link">MOTFW 09. The Battle of Blood</a>
@@ -23,8 +23,8 @@
     <h6>Locations</h6>
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
-    <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling City</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Last Gate, Lex-Gate Valley, Sanctum</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling, Lex-Gate Valley</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Last Gate, Lex-Gate, the Memory Stone, Sanctum</span></div>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Perry, curious About this deity, asked if he could attempt to listen to Lex. Arc
 
 While Perry sat, the others began to look around the Halo. Athyna was approached by Bren Aron, the Caretaker of the Halo. She told her that she was the most likely of their group to hear the voice of Lex as she was a <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a>. Hesitant at first and not wanting to correct Bren that she was Ahedyn (which are commonly misidentified as <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a>), Athyna did try to listen once Perry had finished trying. She was also not able to hear Lex's voice but was able to detect fluctuations in the vibrations within the Halo, synchronizing at the pedestal. The vibrations intensified when light from the suns broke through the clouds overhead and illuminated the Halo, but she was still unable to hear a voice.
 
-Their curiosities About Lex as sated as they could currently be, the party made their way towards the Gravestone. Upon reaching it, Augustus, Devyn, Helianth, and Perry elected to make their way to the village instead, having lost interest in the Gravestone as soon as they reached it. The four-meter tall obelisk sat on the edge of a cliff looking down over the valley the party had been in the day before. Sitting near the cliffs edge was a woman, talking to herself as if she were reciting a story. She took no notice of the party at first, so they investigated the Gravestone. None of them were able to read the symbols carved into it, but they were able to notice a shift in style and even components of the symbols as they traveled further up the obelisk, suggesting that their written language had evolved somewhat over time.
+Their curiosities About Lex as sated as they could currently be, the party made their way towards the Memory Stone. Upon reaching it, Augustus, Devyn, Helianth, and Perry elected to make their way to the village instead, having lost interest in the Gravestone as soon as they reached it. The four-meter tall obelisk sat on the edge of a cliff looking down over the valley the party had been in the day before. Sitting near the cliffs edge was a woman, talking to herself as if she were reciting a story. She took no notice of the party at first, so they investigated the Gravestone. None of them were able to read the symbols carved into it, but they were able to notice a shift in style and even components of the symbols as they traveled further up the obelisk, suggesting that their written language had evolved somewhat over time.
 
 Shortly thereafter, the woman noticed the party and approached them. She introduced herself as Vera Sal, the Historian. It was her duty to memorize, recite, and pass on the oral History of their people. She was able to give the party a more complete account of their History. The earliest kept History of her people was from when they dwelt in the caverns beneath the mountain because the world's surface was covered in ice and snow. When warmth returned to the world, they emerged from the caverns and into the valley, finding the Halo and Lex. She did not know where the Halo came from or how long it had been there, but the condition they found it in suggested that it had been subject to some degree of Destruction apart from the ice and snow. Much of the structure was beyond repair and had to be repurposed, leaving the most intact parts as the current structure.
 
@@ -92,7 +92,7 @@ While not the arrangement the girl would have preferred, it was better than noth
 
 ---
 
-#### Next Session: MOTFW  11. Return to the Labyrinth
+#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth/" class="internal-link">MOTFW  11. Return to the Labyrinth</a>
 
 
 ---

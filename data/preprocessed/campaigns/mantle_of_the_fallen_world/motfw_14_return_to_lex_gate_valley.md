@@ -1,0 +1,62 @@
+# Return to Lex-Gate Valley
+### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 14
+---
+
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2013.%20The%20Reapers">MOTFW 13. The Reapers</a>
+
+
+---
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-4-89 to 97</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2025-05-18</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>The Children of Lex, the Last Hope</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>Cas Twyn</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Athyna, Jack, Perry</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling City, Lex-Gate Valley</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Pillar</span></div>
+  </div>
+</div>
+
+
+
+##### AOR 542-4-89 to 93 
+
+Following the Destruction of the pillar, the party accompanied those that survived back to Sanctum where they spent four days recovering from their injuries. During this time, they discussed the future of the Last Hope. The Destruction of the pillar had Destabilized the entirety of the Crumbling City. The sounds of crumbled earth echoed throughout the Labyrinth nearly nonstop as both the ceiling and floor of the region around where the pillar once stood broke away and disappeared into the ever-growing chasms below. How far this Destruction would spread was unknown, but it was clear that the Labyrinth was far more dangerous than it had ever been before, even with it being devoid of the Deep-Folk Sect, and Others monsters that once dominated it.
+
+While a small group within Sanctum wished to remain there and try their luck, most believed that departing the Labyrinth was the best course of action. The party had already agreed to fulfill their contract with the [[Dryn]] of Lex-Gate Valley by returning Cas Twyn and what remained of her escort to their home. Ton also desired to return with them, seeing the Gate as a new opportunity to expand her knowledge and test her skills. An additional twenty members of the Last Hope elected to travel with them, understanding that the [[Dryn]] of Lex-Gate would likely treat them as outsiders for quite some time. The remainder of the population began to make plans for leaving the Labyrinth through one of the many possible exits, hoping to escape the Lost Mountains entirely.
+
+##### AOR 542-4-94
+
+Once all preparations were made, the party left with their company, making camp for the night before entering the portion of the Labyrinth that was actively crumbling. As they settled down, they spotted a trail of smoke rising from a nearby ruin. Investigating, they found a group of traveling merchants that had recently entered the Labyrinth in search of Sanctum, hoping to set up a market for adventurers traveling through the region. They were disheartened to hear that Sanctum was likely not going to be a good place to set up shop but were intrigued by Lex-Gate Valley and the possibilities for trade it posed. They asked to join the party in exchange for a valuable item that the leader of the merchants was not willing to reveal until they arrived.
+
+##### AOR 542-4-95
+
+The night was uneventful, but the company had to wake up earlier than expected as the ceiling above them began to collapse. This resulted in a scramble through a shower of rocks and boulders that killed one and critically injured another. Pressing on, the company carefully navigated the crumbling floor of the Labyrinth, being careful to keep their distance for the growing chasms around them.
+
+Around mid-day, the ground beneath them began to crumble. While the majority were able to rush to solid ground, three fell into the depths. It was clear time was running out, and they had to escape the Labyrinth as quickly as possible. They pushed on, going past the time they would normally stop for the night, fighting through another shower of rocks and boulders, though they were better prepared this time, resulting in only one serious injury.
+
+##### AOR 542-4-96 to 97
+
+The next two days were uneventful as the company completed their journey to Lex-Gate Valley. The [[Dryn]] were welcomed with open arms, but the [[Anthropes]] had to set up their camp away from their main village and would be under the watch of a dedicated guard. This was expected, and the hope was that the relations would smooth out quickly, allowing the community to thrive. As promised, the merchants gave the party a necklace with a pendant capable of storing magical energy.
+
+The party had to determine what to do next. They had held up their end of the bargain and were given a map of the caverns that led beneath the mountains and, hopefully, closer to Pallium. There was also the opportunity to help integrate the refugees from Sanctum into the Lex-Gate community as well as investigate the Nature of Lex and the Gate. They also had the issue of the segment of the [[Dryn]] population that seemed intent on leaving the valley and seeking out the outside world. Undecided, the party elected to take some time to think and replenish their supplies.
+
+---
+
+#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2015.%20The%20Lex-Gate%20Caverns">MOTFW  15. The Lex-Gate Caverns</a>
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.

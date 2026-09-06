@@ -1,0 +1,57 @@
+# The Whispering Caverns
+### <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> Session 21
+---
+
+#### Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness/" class="internal-link">MOTFW 20. On the Edge of Darkness</a>
+
+
+---
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542-5-15</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2025-09-21</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Participants</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Rippers, The Secret Quill</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>The Guide</span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Athyna, Chapel, Jack, Perry, Tyche</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Locations</h6>
+    <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Whispering Caverns</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Echoes</span></div>
+  </div>
+</div>
+
+
+
+##### AOR 542-5-15
+
+As soon as the Edge Tower was light, the Guide directed the boat at full speed along the cliffs to the left and towards the Whispering Caverns. It didn't take long for the waters withing range of the Edge Tower's light to start stirring as the aquatic creatures were drawn to it. For several minutes, all the nearby creatures only closed in on The Light, but some began to take notice of the party's boat. With nothing left to hide, the Guide told the party they should light theirs torches and wayfinders so that they could fight off the creatures pursuing them. They wouldn't be able to outrun most of them, but they could hold off the larger ones until they made it the caverns where only the smaller ones could follow.
+
+As the first of the creatures neared, the party used ranged attacks to try and ward them off, but they eventually caught up and the party and they had to fight  them off as they tried to either capsize the boat or punch enough holes in it to sink. Just as the larger of the creatures was drawing near, the boat slid into the entrance of the Whispering Caverns, limiting all but the smallest of creatures to follow. The majority of them were flying serpents, capable of launching themselves out of the water a gliding with their large cobra-like hoods. Thankfully, the limited space within the Caverns made it easy for the party to quickly dispatch them. Ahgythah managed to catch hold of one of the flying serpents, butchering it for rations and using it's skeleton as a sash.
+
+The next few hours were spent navigating the Whispering Caverns. As advertised, the party heard the faint sound of echoing whispers barely audible above the lapping of the waves against the walls and dripping in the distance, though none of them could hear it well enough to make out what was being said or even what language it was in. The Guide was only familiar with a few of the side passages, having mostly used the Caverns to bypass the more treacherous waters of the Sea of Darkness. If the party saw a passage that caught their interest, they could explore it, but they would have to exercise caution as many things had made their home in the Whispering Caverns.
+
+Eventually, the party spotted a passage with a suspicious amount of bones on its narrow shores. This intrigued the party, so they cautiously proceeded. After the first bend in the passage, the shores were bare of bones. This further intrigued the party, so they pressed on. After a few more turns, they spotted something in the water ahead. Augustus and Perry dove into the water to investigate, finding a simple lever holding down a series of ropes and nets designed to flip any boats that passed through and crash their occupants against the ceiling. Augustus took a rope, looped it around the lever, swam out of range of the trap, and pulled the rope to trigger it. With the trap safely disarmed, Augustus and Perry got back on the boat and they continued down the passage.
+
+After a few more turns, the cavern opened up into larger space with an island at its center with an ancient stronghold sitting on it. A flock of Bird-Kin circled above with bows and spears in hand. The party, realizing how outnumbered they were, did all they could to not appear threatening. The Bird-Kin directed them to land ashore and stand where the water met the sand. They complied and were met by regally-adored Bird-Kin. He questioned how the party had made it past their trap and who had sent them. After several minutes of awkward questioning, the Bird-Kin was satisfied that the party did not seek them out intentionally and had ill will towards them, though it did seem like they were seeking information, which is what the Bird-Kin specialized in. So, he offered the party a trade: they would help the Bird-Kin deal with a nest of carnivores that had made a home in the tunnels near the top of the cavern walls. The party agreed, curious as to what such a large group of Bird-Kin could be doing in the Whispering Caverns.
+
+The party asked for assistance in scaling the cliff, but the Bird-Kin said that was part of the test for them. After several minutes of brainstorming, they decided to attach a rope to Augustus and throw him as far up the cliff as they could. Fortunetly, Augustus grabbed hold of the cliff most of the way, allowing him to easily climb to the tunnel entrance and use a piton to fix the rope to the wall. Before long all of the party except for the Guide and Tyche were at the tunnel entrance and proceeded inside.
+
+It didn't take the party long to locate the den and were promptly ambushed by a half dozen Rippers very similar to the ones they encountered when they first entered the Lost Mountains (<a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a>). They quickly eliminated most of the these and followed the survivors back to where the rest of them were lying in wait. There were two dozen Rippers standing between the party and an enormous den mother. The fight was tough, but the party persevered and cleared out the den, keeping one of the pups as a pet, though they anticipated some difficult taming it as Rippers were notoriously aggressive and difficult to domesticate.
+
+Upon returning to the tunnel and entrance and using the rope to descend to their boat, they returned to the island. Several Bird-Kin scouts were sent to confirm that the Rippers had been eliminated. When the scouts returned, the Bird-Kin that had served as the liaison to the party introduced himself as Fen Fith, the head of security for the Secret Quill. The Quill's mission was to use tamed birds and Bird-Kin to spy on the inhabitants of the Sunless Sea and intervene where necessary to maintain the wellbeing of the region. The tunnels the party had cleared allowed them to travel between the Sea of Light and the Whispering Caverns with ease. Though the party had proved themselves useful, the Quill was still not convinced that they could fully be trusted, so they would need to make themselves of more use to earn more information, especially regarding Pallium. However, Fen was willing to answer a few questions, informing the party the Pallium was inhabited by creatures and peoples made of metal that defend the city relentlessly. 
+
+---
+
+#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged/" class="internal-link">MOTFW  22. Outnumbered and Out-Legged</a>
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.
