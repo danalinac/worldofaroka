@@ -1,0 +1,42 @@
+#  Light of Truth
+
+
+---
+
+
+<div class=infobox>
+  <div class=infobox-section>
+    <h6>Dates</h6>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>Around AOR 542</span></div>
+    <div class=infobox-row><span class=label>Real‑World:</span><span class=value>Late 2022 to Early 2023</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Key Players</h6>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Morydal's Braided Tribes, Cogys' Eternal Library, Ohedyn's Fountain of Purity, Torchbearers, Tryvyum Trade Consortium (TTC), TTC Coalition, TTC Consort</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value></span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value>Jax, Merys, Rowan</span></div>
+  </div>
+  <div class=infobox-section>
+    <h6>Key Locations</h6>
+    <div class=infobox-row><span class=label>Continent:</span><span class=value>Tryvyum Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Okanu</span></div>
+    <div class=infobox-row><span class=label>Territory:</span><span class=value>Amyhra, Yova Bay</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Amyhran Agriculture District, Amyhran Central District, Amyhran Industrial District, Baypass, Dest, Floatdocks, Floodswamps, Underwave Black Market Yran Ruins</span></div>
+  </div>
+</div>
+
+
+The Light of Truth campaign was the first one set in the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> and used the heavily-modified d20-based dice system that eventually evolved into the 3dX Dice System. Beginning with the small party of the Bear-Kin Merys, the Cat-Kin Jax, and the Rhino-Kin Rowan finding themselves stuck in the Morydal colony of Dest along the southern coast of Okanu as one of the Tryvyum Sea's violent storms neared. Instead of waiting for the storm to pass, they elected to travel on foot to Baypass and board another ship from there to cross the Yova Bay and reach the city of Amyhra, the capital of the Tryvum Trade Consortium. 
+
+This journey took them through the jungles where they can across various dangerous wildlife as well as treacherous terrain that tested their survival skills. It also revealed how the use of magic, while incredibly useful, often garnered distrust and even hostility that only grew as they neared the domain of the Consortium, where magic use, outside of extremely regulated and state-approved uses, was banned. 
+
+Upon reaching Baypass, they boarded another vessel and traveled to the Floatdocks. From there, they used the elevator system powered by the Rushall Facility to reach the city of Amyhra. Here, they found themselves in the company of a new adventuring group seeking to make a name for themselves called the Torchbearers. With this group, they braved the jungles yet again to delve into ancient Yran ruins, aide Sea-Folk with herding their aquatic livestock and retrieving those that got lost from the infamous Floodswamps, and investigating the activities of a strange group known as the Crimson Cult.
+
+In 2023, I moved across the country, so this campaign came to an end before it could hit its stride. The plan was for the Torchbearers to get caught up in the international politics of the Consortium, uncover the plots of secret organizations, and delve into ancient ruins in search of great riches and powerful artifacts. The Tryvyum Sea would have served as an excellent sandbox for them as they could have explored the diverse biomes of the island of Okanu, the dense forests and jungles of Ohedyn to the west, the partially-restored technological cities of Cogys to the north, and the ruins buried beneath the ever-shifting Sandsea beyond Morydal to the south. I hope that future campaigns will flush out these regions in even greater detail.
+
+---
+
+
+---
+
+<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> are original creations protected under U.S. and international copyright law.

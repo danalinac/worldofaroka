@@ -7,7 +7,7 @@
 <div class=infobox>
   <div class=infobox-section>
     <h6>Dates</h6>
-    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542‑5‑76 to AOR 542‑6‑05 (Ongoing)</span></div>
+    <div class=infobox-row><span class=label>In‑World:</span><span class=value>AOR 542‑5‑76 to AOR 542‑6‑05</span></div>
     <div class=infobox-row><span class=label>Real‑World:</span><span class=value>2026‑01‑11 to 2026‑05‑03 (Ongoing)</span></div>
   </div>
   <div class=infobox-section>
@@ -21,7 +21,7 @@
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit OutpostShort Beginnings, Tower of Knowledge Ruins</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit Outpost, Short Beginnings, Tower of Knowledge Ruins</span></div>
   </div>
 </div>
 

@@ -49,6 +49,13 @@
       "isFolder": false,
       "url": "/pages/campaigns/echoes_of_the_empire/eote_postmortem/"
     },
+    "campaigns/light_of_truth/light_of_truth": {
+      "title": "Light of Truth",
+      "slug": "light_of_truth",
+      "folderPath": "campaigns/light_of_truth",
+      "isFolder": false,
+      "url": "/pages/campaigns/light_of_truth/light_of_truth/"
+    },
     "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
       "title": "Mantle of the Fallen World",
       "slug": "mantle_of_the_fallen_world",
@@ -238,6 +245,13 @@
       "isFolder": false,
       "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil/"
     },
+    "campaigns/remnants_of_hope/remnants_of_hope": {
+      "title": "Remnants of Hope",
+      "slug": "remnants_of_hope",
+      "folderPath": "campaigns/remnants_of_hope",
+      "isFolder": false,
+      "url": "/pages/campaigns/remnants_of_hope/remnants_of_hope/"
+    },
     "characters/boris": {
       "title": "Boris",
       "slug": "boris",
@@ -311,7 +325,9 @@
       "hubpage": null,
       "children": [
         "campaigns/echoes_of_the_empire",
-        "campaigns/mantle_of_the_fallen_world"
+        "campaigns/light_of_truth",
+        "campaigns/mantle_of_the_fallen_world",
+        "campaigns/remnants_of_hope"
       ]
     },
     "campaigns/echoes_of_the_empire": {
@@ -325,6 +341,11 @@
         "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
         "campaigns/echoes_of_the_empire/eote_postmortem"
       ]
+    },
+    "campaigns/light_of_truth": {
+      "title": "Light of Truth",
+      "hubpage": "campaigns/light_of_truth/light_of_truth",
+      "children": []
     },
     "campaigns/mantle_of_the_fallen_world": {
       "title": "Mantle of the Fallen World",
@@ -357,6 +378,11 @@
         "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
         "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
       ]
+    },
+    "campaigns/remnants_of_hope": {
+      "title": "Remnants of Hope",
+      "hubpage": "campaigns/remnants_of_hope/remnants_of_hope",
+      "children": []
     },
     "characters": {
       "title": "Characters",

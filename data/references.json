@@ -109,6 +109,12 @@
       "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends"
     ]
   },
+  "campaigns/light_of_truth/light_of_truth": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": []
+  },
   "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
@@ -167,7 +173,8 @@
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
-      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
+      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "campaigns/remnants_of_hope/remnants_of_hope"
     ]
   },
   "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
@@ -492,6 +499,15 @@
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork"
     ]
   },
+  "campaigns/remnants_of_hope/remnants_of_hope": {
+    "out": [
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/dryn",
+      "world_of_aroka"
+    ],
+    "in": []
+  },
   "characters/boris": {
     "out": [
       "characters/ione",
@@ -571,6 +587,7 @@
     "in": [
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/remnants_of_hope/remnants_of_hope",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/scourge"
     ]
@@ -592,6 +609,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "campaigns/remnants_of_hope/remnants_of_hope",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/scourge"
     ]
@@ -617,7 +635,9 @@
     ],
     "in": [
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world"
+      "campaigns/light_of_truth/light_of_truth",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/remnants_of_hope/remnants_of_hope"
     ]
   }
 }
