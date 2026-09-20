@@ -1,5 +1,47 @@
 {
   "pages": {
+    "3dx_dice_system/3dx_core_rules": {
+      "title": "3dX Core Rules",
+      "slug": "3dx_core_rules",
+      "folderPath": "3dx_dice_system",
+      "isFolder": false,
+      "url": "/pages/3dx_dice_system/3dx_core_rules/"
+    },
+    "about_3dx_and_aroka/about_3dx_and_aroka": {
+      "title": "About 3dX and Aroka",
+      "slug": "about_3dx_and_aroka",
+      "folderPath": "about_3dx_and_aroka",
+      "isFolder": false,
+      "url": "/pages/about_3dx_and_aroka/about_3dx_and_aroka/"
+    },
+    "about_3dx_and_aroka/my_inspirations": {
+      "title": "My Inspirations",
+      "slug": "my_inspirations",
+      "folderPath": "about_3dx_and_aroka",
+      "isFolder": false,
+      "url": "/pages/about_3dx_and_aroka/my_inspirations/"
+    },
+    "about_3dx_and_aroka/on_ai_use": {
+      "title": "On AI Use",
+      "slug": "on_ai_use",
+      "folderPath": "about_3dx_and_aroka",
+      "isFolder": false,
+      "url": "/pages/about_3dx_and_aroka/on_ai_use/"
+    },
+    "about_3dx_and_aroka/page_history": {
+      "title": "Page History",
+      "slug": "page_history",
+      "folderPath": "about_3dx_and_aroka",
+      "isFolder": false,
+      "url": "/pages/about_3dx_and_aroka/page_history/"
+    },
+    "about_3dx_and_aroka/support_the_project": {
+      "title": "Support the Project",
+      "slug": "support_the_project",
+      "folderPath": "about_3dx_and_aroka",
+      "isFolder": false,
+      "url": "/pages/about_3dx_and_aroka/support_the_project/"
+    },
     "campaigns/echoes_of_the_empire/echoes_of_the_empire": {
       "title": "Echoes of the Empire",
       "slug": "echoes_of_the_empire",
@@ -314,10 +356,29 @@
       "title": "",
       "hubpage": null,
       "children": [
+        "3dx_dice_system",
+        "about_3dx_and_aroka",
         "campaigns",
         "characters",
         "nature",
         "world_of_aroka"
+      ]
+    },
+    "3dx_dice_system": {
+      "title": "3dX Dice System",
+      "hubpage": null,
+      "children": [
+        "3dx_dice_system/3dx_core_rules"
+      ]
+    },
+    "about_3dx_and_aroka": {
+      "title": "About 3dX and Aroka",
+      "hubpage": "about_3dx_and_aroka/about_3dx_and_aroka",
+      "children": [
+        "about_3dx_and_aroka/my_inspirations",
+        "about_3dx_and_aroka/on_ai_use",
+        "about_3dx_and_aroka/page_history",
+        "about_3dx_and_aroka/support_the_project"
       ]
     },
     "campaigns": {

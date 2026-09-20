@@ -1,4 +1,101 @@
 {
+  "3dx_dice_system/3dx_core_rules": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "about_3dx_and_aroka/about_3dx_and_aroka": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "about_3dx_and_aroka/my_inspirations": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "about_3dx_and_aroka/on_ai_use": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "about_3dx_and_aroka/page_history": {
+    "out": [
+      "3dx_dice_system/3dx_core_rules",
+      "about_3dx_and_aroka/about_3dx_and_aroka",
+      "about_3dx_and_aroka/my_inspirations",
+      "about_3dx_and_aroka/on_ai_use",
+      "about_3dx_and_aroka/page_history",
+      "about_3dx_and_aroka/support_the_project",
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
+      "campaigns/echoes_of_the_empire/eote_04_down_the_river",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+      "campaigns/echoes_of_the_empire/eote_postmortem",
+      "campaigns/light_of_truth/light_of_truth",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
+      "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
+      "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
+      "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
+      "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
+      "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers",
+      "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
+      "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
+      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
+      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
+      "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
+      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
+      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
+      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
+      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "campaigns/remnants_of_hope/remnants_of_hope",
+      "characters/boris",
+      "characters/ione",
+      "characters/jonesie",
+      "characters/kagbar",
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/scourge",
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "about_3dx_and_aroka/support_the_project": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
   "campaigns/echoes_of_the_empire/echoes_of_the_empire": {
     "out": [
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
@@ -14,6 +111,7 @@
       "world_of_aroka"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
@@ -34,6 +132,7 @@
       "nature/fauna/sapients/scourge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_02_survival_101"
     ]
@@ -50,6 +149,7 @@
       "nature/fauna/sapients/scourge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch"
@@ -66,6 +166,7 @@
       "characters/kagbar"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "campaigns/echoes_of_the_empire/eote_04_down_the_river"
@@ -82,6 +183,7 @@
       "characters/kagbar"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch"
     ]
@@ -96,6 +198,7 @@
       "nature/fauna/sapients/scourge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_04_down_the_river"
     ]
@@ -105,6 +208,7 @@
       "campaigns/echoes_of_the_empire/echoes_of_the_empire"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends"
     ]
@@ -113,7 +217,9 @@
     "out": [
       "world_of_aroka"
     ],
-    "in": []
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
   },
   "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
     "out": [
@@ -148,6 +254,7 @@
       "world_of_aroka"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
@@ -183,6 +290,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf"
     ]
@@ -194,6 +302,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
@@ -206,6 +315,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
@@ -218,6 +328,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
@@ -232,6 +343,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest"
@@ -244,6 +356,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
       "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest"
@@ -256,6 +369,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
       "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic"
@@ -268,6 +382,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
       "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar"
@@ -281,6 +396,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
       "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood"
@@ -293,6 +409,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
       "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley"
@@ -306,6 +423,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
       "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth"
@@ -319,6 +437,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar"
@@ -331,6 +450,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers"
@@ -344,6 +464,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley"
@@ -358,6 +479,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns"
@@ -372,6 +494,7 @@
       "nature/fauna/sapients/scourge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition"
@@ -384,6 +507,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"
@@ -398,6 +522,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights"
@@ -410,6 +535,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light"
@@ -422,6 +548,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness"
@@ -434,6 +561,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
       "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns"
@@ -447,6 +575,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged"
@@ -459,6 +588,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge"
@@ -471,6 +601,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork"
@@ -483,6 +614,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
@@ -495,6 +627,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork"
     ]
@@ -506,7 +639,9 @@
       "nature/fauna/sapients/dryn",
       "world_of_aroka"
     ],
-    "in": []
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
   },
   "characters/boris": {
     "out": [
@@ -516,6 +651,7 @@
       "nature/fauna/sapients/scourge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
@@ -534,6 +670,7 @@
       "characters/kagbar"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
@@ -551,6 +688,7 @@
       "characters/kagbar"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
@@ -569,6 +707,7 @@
       "characters/jonesie"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
@@ -585,6 +724,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
       "campaigns/remnants_of_hope/remnants_of_hope",
@@ -598,6 +738,7 @@
       "nature/fauna/sapients/scourge"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
@@ -620,6 +761,7 @@
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
@@ -631,9 +773,33 @@
   },
   "world_of_aroka": {
     "out": [
+      "3dx_dice_system/3dx_core_rules",
+      "about_3dx_and_aroka/about_3dx_and_aroka",
+      "about_3dx_and_aroka/my_inspirations",
+      "about_3dx_and_aroka/on_ai_use",
+      "about_3dx_and_aroka/page_history",
+      "about_3dx_and_aroka/support_the_project",
+      "campaigns/light_of_truth/light_of_truth",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
+      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
+      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
+      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
+      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
+      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "campaigns/remnants_of_hope/remnants_of_hope",
       "nature/fauna/sapients/dryn"
     ],
     "in": [
+      "3dx_dice_system/3dx_core_rules",
+      "about_3dx_and_aroka/about_3dx_and_aroka",
+      "about_3dx_and_aroka/my_inspirations",
+      "about_3dx_and_aroka/on_ai_use",
+      "about_3dx_and_aroka/page_history",
+      "about_3dx_and_aroka/support_the_project",
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",

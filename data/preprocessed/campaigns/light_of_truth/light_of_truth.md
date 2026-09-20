@@ -26,7 +26,7 @@
 </div>
 
 
-The Light of Truth campaign was the first one set in the [[World of Aroka]] and used the heavily-modified d20-based dice system that eventually evolved into the 3dX Dice System. Beginning with the small party of the Bear-Kin Merys, the Cat-Kin Jax, and the Rhino-Kin Rowan finding themselves stuck in the Morydal colony of Dest along the southern coast of Okanu as one of the Tryvyum Sea's violent storms neared. Instead of waiting for the storm to pass, they elected to travel on foot to Baypass and board another ship from there to cross the Yova Bay and reach the city of Amyhra, the capital of the Tryvum Trade Consortium. 
+The Light of Truth campaign was the first one set in the [[World of Aroka]] and used the heavily-modified d20 dice system that eventually evolved into the 3dX Dice System. It began with the small party of the Bear-Kin Merys, the Cat-Kin Jax, and the Rhino-Kin Rowan finding themselves stuck in the Morydal colony of Dest along the southern coast of Okanu as one of the Tryvyum Sea's violent storms neared. Instead of waiting for the storm to pass, they elected to travel on foot to Baypass and board another ship from there to cross the Yova Bay and reach the city of Amyhra, the capital of the Tryvum Trade Consortium. 
 
 This journey took them through the jungles where they can across various dangerous wildlife as well as treacherous terrain that tested their survival skills. It also revealed how the use of magic, while incredibly useful, often garnered distrust and even hostility that only grew as they neared the domain of the Consortium, where magic use, outside of extremely regulated and state-approved uses, was banned. 
 
