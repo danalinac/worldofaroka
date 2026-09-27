@@ -1,14 +1,23 @@
 {
-  "3dx_dice_system/3dx_core_rules": {
+  "3dx_dice_system/3dx_dice_system": {
     "out": [
       "world_of_aroka"
     ],
     "in": [
-      "about_3dx_and_aroka/page_history"
+      "about_3dx_and_aroka/about_3dx_and_aroka",
+      "about_3dx_and_aroka/my_inspirations",
+      "about_3dx_and_aroka/on_ai_use",
+      "about_3dx_and_aroka/page_history",
+      "about_3dx_and_aroka/support_the_project",
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/light_of_truth/light_of_truth",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/remnants_of_hope/remnants_of_hope"
     ]
   },
   "about_3dx_and_aroka/about_3dx_and_aroka": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "world_of_aroka"
     ],
     "in": [
@@ -17,6 +26,7 @@
   },
   "about_3dx_and_aroka/my_inspirations": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "world_of_aroka"
     ],
     "in": [
@@ -25,6 +35,7 @@
   },
   "about_3dx_and_aroka/on_ai_use": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "world_of_aroka"
     ],
     "in": [
@@ -33,7 +44,7 @@
   },
   "about_3dx_and_aroka/page_history": {
     "out": [
-      "3dx_dice_system/3dx_core_rules",
+      "3dx_dice_system/3dx_dice_system",
       "about_3dx_and_aroka/about_3dx_and_aroka",
       "about_3dx_and_aroka/my_inspirations",
       "about_3dx_and_aroka/on_ai_use",
@@ -79,9 +90,15 @@
       "characters/ione",
       "characters/jonesie",
       "characters/kagbar",
+      "nature/fauna/creatures/bloodbreath",
+      "nature/fauna/creatures/ripper",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/scourge",
+      "nature/phenomena/gaunt",
+      "nature/phenomena/layers_of_aroka",
+      "nature/phenomena/shadows_of_the_ancients",
+      "technology/doom_knights",
       "world_of_aroka"
     ],
     "in": [
@@ -90,6 +107,7 @@
   },
   "about_3dx_and_aroka/support_the_project": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "world_of_aroka"
     ],
     "in": [
@@ -98,6 +116,7 @@
   },
   "campaigns/echoes_of_the_empire/echoes_of_the_empire": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "campaigns/echoes_of_the_empire/eote_01_short_beginnings",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "campaigns/echoes_of_the_empire/eote_03_never_fall_asleep_on_watch",
@@ -215,6 +234,7 @@
   },
   "campaigns/light_of_truth/light_of_truth": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "world_of_aroka"
     ],
     "in": [
@@ -223,6 +243,7 @@
   },
   "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
@@ -249,8 +270,10 @@
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "nature/fauna/creatures/ripper",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/scourge",
+      "nature/phenomena/gaunt",
       "world_of_aroka"
     ],
     "in": [
@@ -287,7 +310,8 @@
   "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf"
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "nature/phenomena/gaunt"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -325,7 +349,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
-      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope"
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "nature/fauna/creatures/ripper"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -572,7 +597,8 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
-      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged"
+      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
+      "nature/fauna/creatures/ripper"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -634,9 +660,11 @@
   },
   "campaigns/remnants_of_hope/remnants_of_hope": {
     "out": [
+      "3dx_dice_system/3dx_dice_system",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
+      "nature/phenomena/gaunt",
       "world_of_aroka"
     ],
     "in": [
@@ -719,6 +747,21 @@
       "characters/jonesie"
     ]
   },
+  "nature/fauna/creatures/bloodbreath": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "nature/fauna/creatures/ripper": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns"
+    ]
+  },
   "nature/fauna/sapients/anthropes": {
     "out": [
       "nature/fauna/sapients/dryn"
@@ -771,9 +814,38 @@
       "nature/fauna/sapients/dryn"
     ]
   },
+  "nature/phenomena/gaunt": {
+    "out": [
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/remnants_of_hope/remnants_of_hope"
+    ]
+  },
+  "nature/phenomena/layers_of_aroka": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "nature/phenomena/shadows_of_the_ancients": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/doom_knights": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
   "world_of_aroka": {
     "out": [
-      "3dx_dice_system/3dx_core_rules",
+      "3dx_dice_system/3dx_dice_system",
       "about_3dx_and_aroka/about_3dx_and_aroka",
       "about_3dx_and_aroka/my_inspirations",
       "about_3dx_and_aroka/on_ai_use",
@@ -781,20 +853,20 @@
       "about_3dx_and_aroka/support_the_project",
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
-      "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
-      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
       "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
-      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
-      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
       "campaigns/remnants_of_hope/remnants_of_hope",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/creatures/bloodbreath",
+      "nature/fauna/creatures/ripper",
+      "nature/fauna/sapients/dryn",
+      "nature/phenomena/gaunt",
+      "nature/phenomena/layers_of_aroka",
+      "nature/phenomena/shadows_of_the_ancients",
+      "technology/doom_knights"
     ],
     "in": [
-      "3dx_dice_system/3dx_core_rules",
+      "3dx_dice_system/3dx_dice_system",
       "about_3dx_and_aroka/about_3dx_and_aroka",
       "about_3dx_and_aroka/my_inspirations",
       "about_3dx_and_aroka/on_ai_use",
@@ -803,7 +875,8 @@
       "campaigns/echoes_of_the_empire/echoes_of_the_empire",
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/remnants_of_hope/remnants_of_hope"
+      "campaigns/remnants_of_hope/remnants_of_hope",
+      "nature/phenomena/gaunt"
     ]
   }
 }

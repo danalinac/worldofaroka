@@ -11,7 +11,13 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
-| <a href="/pages/3dx_dice_system/3dx_core_rules/" class="internal-link">3dX Core Rules</a> | 2026-09-20 | 3dX Dice System |
+| <a href="/pages/nature/fauna/creatures/bloodbreath/" class="internal-link">Bloodbreath</a> | 2026-09-27 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/ripper/" class="internal-link">Ripper</a> | 2026-09-27 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> | 2026-09-27 | Nature, Phenomena |
+| <a href="/pages/nature/phenomena/layers_of_aroka/" class="internal-link">Layers of Aroka</a> | 2026-09-27 | Nature, Phenomena |
+| <a href="/pages/nature/phenomena/shadows_of_the_ancients/" class="internal-link">Shadows of the Ancients</a> | 2026-09-27 | Nature, Phenomena |
+| <a href="/pages/technology/doom_knights/" class="internal-link">Doom Knights</a> | 2026-09-27 | Technology |
+| <a href="/pages/3dx_dice_system/3dx_dice_system/" class="internal-link">3dX Dice System</a> | 2026-09-20 | <a href="/pages/3dx_dice_system/3dx_dice_system/" class="internal-link">3dX Dice System</a> |
 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
 | <a href="/pages/about_3dx_and_aroka/my_inspirations/" class="internal-link">My Inspirations</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
 | <a href="/pages/about_3dx_and_aroka/on_ai_use/" class="internal-link">On AI Use</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
@@ -66,4 +72,4 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> are original creations protected under U.S. and international copyright law.
+<center> © 2026 Daniel J. Leitch. All rights reserved. The <a href="/pages/3dx_dice_system/3dx_dice_system/" class="internal-link">3dX Dice System</a> and the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> are original creations protected under U.S. and international copyright law.

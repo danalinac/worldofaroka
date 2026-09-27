@@ -48,7 +48,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | [[MOTFW 24. The Final Fork]] | AOR 542-5-20 | Isle of Echoes, Crab-Kin Temple | Crab-Kin Cultist, The Secret Quill |
 | [[MOTFW 23. Revenge]] | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
 | [[MOTFW 22. Outnumbered and Out-Legged]] | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
-| [[MOTFW 21. The Whispering Caverns]] | AOR 542-5-15 | Isle of Echoes | Rippers, The Secret Quill |
+| [[MOTFW 21. The Whispering Caverns]] | AOR 542-5-15 | Isle of Echoes | [[Ripper|Rippers]], The Secret Quill |
 | [[MOTFW 20. On the Edge of Darkness]] | AOR 542-5-13 | Edge of Light, Temple of the Dying Lights | Church of the Dying Light, Lightguard |
 | [[MOTFW 19. The Temple of the Dying Light]] | AOR 542-5-11 | Isle of Lights, Temple of the Dying Lights | Church of the Dying Light, Fortune Pursuit |
 | [[MOTFW 18. The Isle of Lights]] | AOR 542-5-09 | Isle of Lights, Sunless Shores | Fortune Pursuit, Gruffwind Raiders |
@@ -69,10 +69,10 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | [[MOTFW 03. The Crumbling Labyrinth]] | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
 | [[MOTFW 02. Into the Lost Mountains]] | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees |
 | [[MOTFW 01. Welcome to the Warf]] | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
-| [[MOTFW 00. Race for the Lost City]] | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | Gaunt |
+| [[MOTFW 00. Race for the Lost City]] | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | [[Gaunt]] |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.
+<center> © 2026 Daniel J. Leitch. All rights reserved. The <a href="obsidian://open?vault=Obsidian&file=3dX%20Dice%20System%2F3dX%20Dice%20System">3dX Dice System</a> and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.

@@ -11,7 +11,13 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
-| [[3dX Core Rules]] | 2026-09-20 | 3dX Dice System |
+| [[Bloodbreath]] | 2026-09-27 | Nature, Fauna, Creatures |
+| [[Ripper]] | 2026-09-27 | Nature, Fauna, Creatures |
+| [[Gaunt]] | 2026-09-27 | Nature, Phenomena |
+| [[Layers of Aroka]] | 2026-09-27 | Nature, Phenomena |
+| [[Shadows of the Ancients]] | 2026-09-27 | Nature, Phenomena |
+| [[Doom Knights]] | 2026-09-27 | Technology |
+| [[3dX Dice System]] | 2026-09-20 | [[3dX Dice System]] |
 | [[About 3dX and Aroka]] | 2026-09-17 | [[About 3dX and Aroka]] |
 | [[My Inspirations]] | 2026-09-17 | [[About 3dX and Aroka]] |
 | [[On AI Use]] | 2026-09-17 | [[About 3dX and Aroka]] |
@@ -66,4 +72,4 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.
+<center> © 2026 Daniel J. Leitch. All rights reserved. The <a href="obsidian://open?vault=Obsidian&file=3dX%20Dice%20System%2F3dX%20Dice%20System">3dX Dice System</a> and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.

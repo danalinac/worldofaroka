@@ -1,0 +1,12 @@
+# Ripper
+
+---
+
+
+
+Rippers are a quadrupedal species adept at covering ground quickly as well as climbing. They maws consists of three separate jaws that allow them to grab a hold of their prey and rip flesh from bone and limb from body. They are found in almost every biome of Aroka, including underground, and often live in packs ranging in size from ten to fifty Rippers. They also seem to never stop growing, allowing them to range in size from just a half meter in length to nearly ten meters. Fortunetly, it seems that packs will often band together to kill their largest member when they grow so large that there is no longer enough prey to feed the entire pack. However, there are instances where the largest Ripper survives this and consumes their pack instead, allowing them to grow to enormous sizes and wander around as a lone Ripper. These are the most dangerous as are often incredibly aggressive due to not having a pack to help hunt for food and protect them.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

@@ -22,4 +22,4 @@ While these three franchises hold the majority of the influence and inspiration 
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.
+<center> © 2026 Daniel J. Leitch. All rights reserved. The <a href="obsidian://open?vault=Obsidian&file=3dX%20Dice%20System%2F3dX%20Dice%20System">3dX Dice System</a> and the <a href="obsidian://open?vault=Obsidian&file=World%20of%20Aroka">World of Aroka</a> are original creations protected under U.S. and international copyright law.

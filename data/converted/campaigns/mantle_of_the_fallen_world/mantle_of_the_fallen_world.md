@@ -48,7 +48,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork/" class="internal-link">MOTFW 24. The Final Fork</a> | AOR 542-5-20 | Isle of Echoes, Crab-Kin Temple | Crab-Kin Cultist, The Secret Quill |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_23_revenge/" class="internal-link">MOTFW 23. Revenge</a> | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged/" class="internal-link">MOTFW 22. Outnumbered and Out-Legged</a> | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/" class="internal-link">MOTFW 21. The Whispering Caverns</a> | AOR 542-5-15 | Isle of Echoes | Rippers, The Secret Quill |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/" class="internal-link">MOTFW 21. The Whispering Caverns</a> | AOR 542-5-15 | Isle of Echoes | <a href="/pages/nature/fauna/creatures/ripper/" class="internal-link">Rippers</a>, The Secret Quill |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness/" class="internal-link">MOTFW 20. On the Edge of Darkness</a> | AOR 542-5-13 | Edge of Light, Temple of the Dying Lights | Church of the Dying Light, Lightguard |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light/" class="internal-link">MOTFW 19. The Temple of the Dying Light</a> | AOR 542-5-11 | Isle of Lights, Temple of the Dying Lights | Church of the Dying Light, Fortune Pursuit |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/" class="internal-link">MOTFW 18. The Isle of Lights</a> | AOR 542-5-09 | Isle of Lights, Sunless Shores | Fortune Pursuit, Gruffwind Raiders |
@@ -69,10 +69,10 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a> | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | Gaunt |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 
 
 ---
 
-<center> © 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> are original creations protected under U.S. and international copyright law.
+<center> © 2026 Daniel J. Leitch. All rights reserved. The <a href="/pages/3dx_dice_system/3dx_dice_system/" class="internal-link">3dX Dice System</a> and the <a href="/pages/world_of_aroka/" class="internal-link">World of Aroka</a> are original creations protected under U.S. and international copyright law.

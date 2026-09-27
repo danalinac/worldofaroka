@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadows of the Ancients — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Shadows of the Ancients</h1>
+<hr>
+<p>Cogys is considered a land of enlightenment, knowledge, and wisdom, but even the most learned can fall victim to the things that live in our imagination. Though far from fully explored, the ancient ruins atop which their civilization is built have become a safe haven for the delver and scholar alike. The cobwebs and dust of past ages have been cleared and a thriving society now walks the halls of ancestors lost to time.</p>
+<p>However, not every corner can be lit at all times and it is common to hear reports of figures dashing through the shadows. The same Phenomena has been recorded by delvers throughout the Consortium and beyond, leading to the creation of many beliefs and superstitions. The Eternal Library, of course, dismisses these as tricks of the light and mind, blaming uneased explorers and sleep-deprived sages for letting their nerves get the best of them. This narrative does little to stifle the rumors and tales of those that wander the dark halls as only those that have dwelt in them for ages could. Strange events frequently occur in close proximity to sightings, often revealing previously undiscovered compartments, chambers, and even whole sections of ruin. As very few injuries have been suffered in association with these events, it is believed that the shadows seek to reveal the secrets of the ancients, sparking beliefs that the shadows are perhaps a lingering essence of their ancestors trying to pass on their knowledge.</p>
+<p>The term “Shadows of the Ancients” was adopted by the Eternal Library to refer to their unyielding efforts to rise to the gory of the civilizations that came before, but making the term common vernacular does not distract most from the secrets lurking in the shadows and the curiosity, as well as fear, they instill.</p>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.&quot;</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"about_3dx_and_aroka/page_history","title":"Page History"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"nature/phenomena/shadows_of_the_ancients"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloodbreath — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Bloodbreath</h1>
+<hr>
+<p>A Bloodbreath is a hulking beast that dwells in shallow caves and caverns as well as ancient ruins, lying in wait for its unsuspecting prey or biding time until night falls so it can seek out its next meal. The creature has long, heavy arms that it uses to bludgeon its victims unconscious so it can suck them dry of blood with its needle-like mouth surrounded by small, barbed tentacles.</p>
+<p>Despite its size, it is surprisingly silent and can easily detect vibrations in enclosed spaces such as in its caves, making it nearly impossible to spot first. It’s grey skin also blends effortlessly into the stone around it. Outside their den, they use their bioluminescent eyes to substitute their reduced vibration sensitivity in the open air. To the keen observer, this is displayed as two faintly glowing red orbs, though the Bloodbreath isn’t foolish and will often close its eyes when its prey gets close, relying on its vibration sensitivity at the closer range before striking.</p>
+<p>The Bloodbreath gets its name from the red mist that sometimes wafts from the gills on the sides of its neck. This is, in fact, gaseous blood being ejected from its body after its nutrients have been absorbed. In extreme cases, the Bloodbreath will spray a dense cloud of gaseous blood from its lungs, obscuring its surroundings. This is usually reserved for when the Bloodbreath is about to flee or believes it can take down its prey more easily from within the mist.</p>
+<p>Adventurers and delvers are the Bloodbreath’s most common victim, lying in wait or stalking their prey deep into the ruins before striking. Few that venture too deep into a cave or ruin without detecting their stalker escape. Some call them the guardians of the ancient world, protecting the knowledge and treasures kept in the depths of ruins from ages past.</p>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.&quot;</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"about_3dx_and_aroka/page_history","title":"Page History"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"nature/fauna/creatures/bloodbreath"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

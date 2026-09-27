@@ -11,7 +11,7 @@
   </div>
   <div class=infobox-section>
     <h6>Participants</h6>
-    <div class=infobox-row><span class=label>Factions:</span><span class=value>Gaunt</span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value><a href="obsidian://open?vault=Obsidian&file=Nature%2FPhenomena%2FGaunt">Gaunt</a></span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Unidentified Old World Deity</span></div>
     <div class=infobox-row><span class=label>PCs:</span><span class=value>Jack, Perry, Serqet</span></div>
   </div>
@@ -37,9 +37,9 @@ Near the end of the 541st year of the Age of Reclamation when word of a comparat
 
 Jack, a Hare-Kin from Ohedyn, had spent the Dark Days at Gravestone and immediately chartered a Skyfarer to explore a remote set of ruins on the eastern edge of the Sandsea, so he was unaware of this news at first. He and his crew of independent adventurers and delvers hired Serqet, a Scorpion-Kin local and guide familiar with the ruins, to lead their expedition. What exactly transpired in the ruins is unclear, but only Jack and Serqet resurfaced and Jack was carrying a flail-like decanter emitting and strange blue glow. 
 
-From there, the two took the Skyfarer across the Sandsea, through Morydal, and across the Tryvyum Sea to Amyhra. Here, they heard of the race for the Lost City of Pallium and immediately chartered a Seafarer to sail north through the Shattered Straight. The Seafarer rarely braved the waters around the Gauntlet, so they set out to continue their journey on foot with a planned stop at Westguard. However, when they arrived, they found that the littoral stronghold had been Destroyed with no apparent survivors. Additionally, Gaunt stalked the area and seemed to be attracted to the caravan. 
+From there, the two took the Skyfarer across the Sandsea, through Morydal, and across the Tryvyum Sea to Amyhra. Here, they heard of the race for the Lost City of Pallium and immediately chartered a Seafarer to sail north through the Shattered Straight. The Seafarer rarely braved the waters around the Gauntlet, so they set out to continue their journey on foot with a planned stop at Westguard. However, when they arrived, they found that the littoral stronghold had been Destroyed with no apparent survivors. Additionally, [[Gaunt]] stalked the area and seemed to be attracted to the caravan. 
 
-Not wishing to linger in Gaunt-infested territory, the caravan hurried on. The following night, they were attacked by a particularly large Gaunt and were saved by a Platypus-Kin warrior named Perry, the lone survivor of Westguard. With no home to return to and the hope that Pallium may contain ancient weapons that could Destroy the Gaunt once and for all, he agreed to join Jack and Serqet on their quest. 
+Not wishing to linger in [[Gaunt]]-infested territory, the caravan hurried on. The following night, they were attacked by a particularly large [[Gaunt]] and were saved by a Platypus-Kin warrior named Perry, the lone survivor of Westguard. With no home to return to and the hope that Pallium may contain ancient weapons that could Destroy the [[Gaunt]] once and for all, he agreed to join Jack and Serqet on their quest. 
 
 The rest of the journey to Sol and then Kendathyl Warf at the northern end of the Lost Mountains was uneventful, arriving on the 39th day of the fourth month of the 542nd year of the Age of Reclamation. Here, they would make their final preparations before venturing into the treacherous Lost Mountains and brave whatever dangers it contained.
 

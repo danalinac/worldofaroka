@@ -1,11 +1,11 @@
 {
   "pages": {
-    "3dx_dice_system/3dx_core_rules": {
-      "title": "3dX Core Rules",
-      "slug": "3dx_core_rules",
+    "3dx_dice_system/3dx_dice_system": {
+      "title": "3dX Dice System",
+      "slug": "3dx_dice_system",
       "folderPath": "3dx_dice_system",
       "isFolder": false,
-      "url": "/pages/3dx_dice_system/3dx_core_rules/"
+      "url": "/pages/3dx_dice_system/3dx_dice_system/"
     },
     "about_3dx_and_aroka/about_3dx_and_aroka": {
       "title": "About 3dX and Aroka",
@@ -322,6 +322,20 @@
       "isFolder": false,
       "url": "/pages/characters/kagbar/"
     },
+    "nature/fauna/creatures/bloodbreath": {
+      "title": "Bloodbreath",
+      "slug": "bloodbreath",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/bloodbreath/"
+    },
+    "nature/fauna/creatures/ripper": {
+      "title": "Ripper",
+      "slug": "ripper",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/ripper/"
+    },
     "nature/fauna/sapients/anthropes": {
       "title": "Anthropes",
       "slug": "anthropes",
@@ -343,6 +357,34 @@
       "isFolder": false,
       "url": "/pages/nature/fauna/sapients/scourge/"
     },
+    "nature/phenomena/gaunt": {
+      "title": "Gaunt",
+      "slug": "gaunt",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/gaunt/"
+    },
+    "nature/phenomena/layers_of_aroka": {
+      "title": "Layers of Aroka",
+      "slug": "layers_of_aroka",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/layers_of_aroka/"
+    },
+    "nature/phenomena/shadows_of_the_ancients": {
+      "title": "Shadows of the Ancients",
+      "slug": "shadows_of_the_ancients",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/shadows_of_the_ancients/"
+    },
+    "technology/doom_knights": {
+      "title": "Doom Knights",
+      "slug": "doom_knights",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/doom_knights/"
+    },
     "world_of_aroka": {
       "title": "World of Aroka",
       "slug": "world_of_aroka",
@@ -361,15 +403,14 @@
         "campaigns",
         "characters",
         "nature",
+        "technology",
         "world_of_aroka"
       ]
     },
     "3dx_dice_system": {
       "title": "3dX Dice System",
-      "hubpage": null,
-      "children": [
-        "3dx_dice_system/3dx_core_rules"
-      ]
+      "hubpage": "3dx_dice_system/3dx_dice_system",
+      "children": []
     },
     "about_3dx_and_aroka": {
       "title": "About 3dX and Aroka",
@@ -459,14 +500,24 @@
       "title": "Nature",
       "hubpage": null,
       "children": [
-        "nature/fauna"
+        "nature/fauna",
+        "nature/phenomena"
       ]
     },
     "nature/fauna": {
       "title": "Fauna",
       "hubpage": null,
       "children": [
+        "nature/fauna/creatures",
         "nature/fauna/sapients"
+      ]
+    },
+    "nature/fauna/creatures": {
+      "title": "Creatures",
+      "hubpage": null,
+      "children": [
+        "nature/fauna/creatures/bloodbreath",
+        "nature/fauna/creatures/ripper"
       ]
     },
     "nature/fauna/sapients": {
@@ -476,6 +527,22 @@
         "nature/fauna/sapients/anthropes",
         "nature/fauna/sapients/dryn",
         "nature/fauna/sapients/scourge"
+      ]
+    },
+    "nature/phenomena": {
+      "title": "Phenomena",
+      "hubpage": null,
+      "children": [
+        "nature/phenomena/gaunt",
+        "nature/phenomena/layers_of_aroka",
+        "nature/phenomena/shadows_of_the_ancients"
+      ]
+    },
+    "technology": {
+      "title": "Technology",
+      "hubpage": null,
+      "children": [
+        "technology/doom_knights"
       ]
     }
   }
