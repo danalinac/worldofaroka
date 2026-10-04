@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shard — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Shard</h1>
+<hr>
+<p>Shard are one of the most precious substances in the Consortium. These crystals can be found underground, especially near heat sources in volcanically active Areas, though it has been found in much less energy-rich Locations. Due to its location and how it plays a significant role in the structural integrity of the earth around it, excavating it is expensive and risky. The crystal itself is very tough and difficult to break, requiring heavy tools to dislodge it. The process as a whole is very prone to cave-ins. Additionally, creatures known as Scalebeast are most often encountered near large concentrations of Shard. There also seems to be a connection between Shard and the Var’Yn, though how is unclear.</p>
+<p>All these risks seem to be worthwhile, however, since Shard can be used in just About anything and is even the backing of the Tryvyum economy. It can be refined into glass, jewelry, optical lenses, technological components, and is even believed to have magical properties. It is also an excellent absorber or energy, though the only way to extract the energy is to break the Shard, so they aren’t used as batteries but do see some use heat stones. Due to the preciousness of this material, it is heavily monitored, using coins made of far less precious metals to represent it as currency.</p>
+<h3>Personal Note:</h3>
+<p>Any similarities between the Shards of Aroka and Shards found in other literature, such as the Cosmere by Brandon Sanderson, is purely coincidental. The Shards of Aroka was a concept I have come up with before I had read any of his books; in fact, one of my players suggested I read his books after Shards were introduced in the game.</p>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.&quot;</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"about_3dx_and_aroka/page_history","title":"Page History"},{"slug":"technology/seafarer","title":"Seafarer"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"nature/phenomena/shard"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

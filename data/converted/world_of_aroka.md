@@ -26,6 +26,12 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-10-04 | Nature, Phenomena |
+| <a href="/pages/technology/seafarer/" class="internal-link">Seafarer</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/the_decanter/" class="internal-link">The Decanter</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/torchblade/" class="internal-link">Torchblade</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/veil_sight_device/" class="internal-link">Veil-Sight Device</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/waveroot/" class="internal-link">Waveroot</a> | 2026-10-04 | Technology |
 | <a href="/pages/nature/fauna/creatures/bloodbreath/" class="internal-link">Bloodbreath</a> | 2026-09-27 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/ripper/" class="internal-link">Ripper</a> | 2026-09-27 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> | 2026-09-27 | Nature, Phenomena |
@@ -37,12 +43,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <a href="/pages/about_3dx_and_aroka/my_inspirations/" class="internal-link">My Inspirations</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
 | <a href="/pages/about_3dx_and_aroka/on_ai_use/" class="internal-link">On AI Use</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
 | <a href="/pages/about_3dx_and_aroka/page_history/" class="internal-link">Page History</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
-| <a href="/pages/about_3dx_and_aroka/support_the_project/" class="internal-link">Support the Project</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
-| <a href="/pages/campaigns/light_of_truth/light_of_truth/" class="internal-link">Light of Truth</a> | 2026-09-12 | Campaigns, <a href="/pages/campaigns/light_of_truth/light_of_truth/" class="internal-link">Light of Truth</a> |
-| <a href="/pages/campaigns/remnants_of_hope/remnants_of_hope/" class="internal-link">Remnants of Hope</a> | 2026-09-12 | Campaigns, <a href="/pages/campaigns/remnants_of_hope/remnants_of_hope/" class="internal-link">Remnants of Hope</a> |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/" class="internal-link">MOTFW 21. The Whispering Caverns</a> | 2026-09-06 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged/" class="internal-link">MOTFW 22. Outnumbered and Out-Legged</a> | 2026-09-06 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_23_revenge/" class="internal-link">MOTFW 23. Revenge</a> | 2026-09-06 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

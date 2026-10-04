@@ -98,7 +98,13 @@
       "nature/phenomena/gaunt",
       "nature/phenomena/layers_of_aroka",
       "nature/phenomena/shadows_of_the_ancients",
+      "nature/phenomena/shard",
       "technology/doom_knights",
+      "technology/seafarer",
+      "technology/the_decanter",
+      "technology/torchblade",
+      "technology/veil_sight_device",
+      "technology/waveroot",
       "world_of_aroka"
     ],
     "in": [
@@ -311,7 +317,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
-      "nature/phenomena/gaunt"
+      "nature/phenomena/gaunt",
+      "technology/seafarer"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -323,7 +330,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains"
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "technology/the_decanter"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -336,7 +344,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
-      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "technology/the_decanter"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -529,7 +538,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "technology/the_decanter"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -544,7 +554,8 @@
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
       "nature/fauna/sapients/anthropes",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/sapients/dryn",
+      "technology/the_decanter"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -837,10 +848,60 @@
       "about_3dx_and_aroka/page_history"
     ]
   },
+  "nature/phenomena/shard": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "technology/seafarer"
+    ]
+  },
   "technology/doom_knights": {
     "out": [],
     "in": [
       "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/seafarer": {
+    "out": [
+      "nature/phenomena/shard",
+      "technology/waveroot",
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "technology/waveroot"
+    ]
+  },
+  "technology/the_decanter": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"
+    ]
+  },
+  "technology/torchblade": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/veil_sight_device": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/waveroot": {
+    "out": [
+      "technology/seafarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "technology/seafarer"
     ]
   },
   "world_of_aroka": {
@@ -850,20 +911,19 @@
       "about_3dx_and_aroka/my_inspirations",
       "about_3dx_and_aroka/on_ai_use",
       "about_3dx_and_aroka/page_history",
-      "about_3dx_and_aroka/support_the_project",
-      "campaigns/light_of_truth/light_of_truth",
-      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
-      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
-      "campaigns/remnants_of_hope/remnants_of_hope",
       "nature/fauna/creatures/bloodbreath",
       "nature/fauna/creatures/ripper",
       "nature/fauna/sapients/dryn",
       "nature/phenomena/gaunt",
       "nature/phenomena/layers_of_aroka",
       "nature/phenomena/shadows_of_the_ancients",
-      "technology/doom_knights"
+      "nature/phenomena/shard",
+      "technology/doom_knights",
+      "technology/seafarer",
+      "technology/the_decanter",
+      "technology/torchblade",
+      "technology/veil_sight_device",
+      "technology/waveroot"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",
@@ -876,7 +936,8 @@
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/remnants_of_hope/remnants_of_hope",
-      "nature/phenomena/gaunt"
+      "nature/phenomena/gaunt",
+      "technology/seafarer"
     ]
   }
 }

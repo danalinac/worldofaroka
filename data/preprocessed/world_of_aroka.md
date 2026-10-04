@@ -26,6 +26,12 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Shard]] | 2026-10-04 | Nature, Phenomena |
+| [[Seafarer]] | 2026-10-04 | Technology |
+| [[The Decanter]] | 2026-10-04 | Technology |
+| [[Torchblade]] | 2026-10-04 | Technology |
+| [[Veil-Sight Device]] | 2026-10-04 | Technology |
+| [[Waveroot]] | 2026-10-04 | Technology |
 | [[Bloodbreath]] | 2026-09-27 | Nature, Fauna, Creatures |
 | [[Ripper]] | 2026-09-27 | Nature, Fauna, Creatures |
 | [[Gaunt]] | 2026-09-27 | Nature, Phenomena |
@@ -37,12 +43,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[My Inspirations]] | 2026-09-17 | [[About 3dX and Aroka]] |
 | [[On AI Use]] | 2026-09-17 | [[About 3dX and Aroka]] |
 | [[Page History]] | 2026-09-17 | [[About 3dX and Aroka]] |
-| [[Support the Project]] | 2026-09-17 | [[About 3dX and Aroka]] |
-| [[Light of Truth]] | 2026-09-12 | Campaigns, [[Light of Truth]] |
-| [[Remnants of Hope]] | 2026-09-12 | Campaigns, [[Remnants of Hope]] |
-| [[MOTFW 21. The Whispering Caverns]] | 2026-09-06 | Campaigns, [[Mantle of the Fallen World]] |
-| [[MOTFW 22. Outnumbered and Out-Legged]] | 2026-09-06 | Campaigns, [[Mantle of the Fallen World]] |
-| [[MOTFW 23. Revenge]] | 2026-09-06 | Campaigns, [[Mantle of the Fallen World]] |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

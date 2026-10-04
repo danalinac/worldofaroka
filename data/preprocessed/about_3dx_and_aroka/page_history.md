@@ -11,6 +11,12 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Shard]] | 2026-10-04 | Nature, Phenomena |
+| [[Seafarer]] | 2026-10-04 | Technology |
+| [[The Decanter]] | 2026-10-04 | Technology |
+| [[Torchblade]] | 2026-10-04 | Technology |
+| [[Veil-Sight Device]] | 2026-10-04 | Technology |
+| [[Waveroot]] | 2026-10-04 | Technology |
 | [[Bloodbreath]] | 2026-09-27 | Nature, Fauna, Creatures |
 | [[Ripper]] | 2026-09-27 | Nature, Fauna, Creatures |
 | [[Gaunt]] | 2026-09-27 | Nature, Phenomena |

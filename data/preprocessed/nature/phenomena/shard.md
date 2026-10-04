@@ -1,0 +1,17 @@
+# Shard
+
+---
+
+
+
+Shard are one of the most precious substances in the Consortium. These crystals can be found underground, especially near heat sources in volcanically active Areas, though it has been found in much less energy-rich Locations. Due to its location and how it plays a significant role in the structural integrity of the earth around it, excavating it is expensive and risky. The crystal itself is very tough and difficult to break, requiring heavy tools to dislodge it. The process as a whole is very prone to cave-ins. Additionally, creatures known as Scalebeast are most often encountered near large concentrations of Shard. There also seems to be a connection between Shard and the Var'Yn, though how is unclear.
+
+All these risks seem to be worthwhile, however, since Shard can be used in just About anything and is even the backing of the Tryvyum economy. It can be refined into glass, jewelry, optical lenses, technological components, and is even believed to have magical properties. It is also an excellent absorber or energy, though the only way to extract the energy is to break the Shard, so they aren't used as batteries but do see some use heat stones. Due to the preciousness of this material, it is heavily monitored, using coins made of far less precious metals to represent it as currency.
+
+### Personal Note:
+Any similarities between the Shards of Aroka and Shards found in other literature, such as the Cosmere by Brandon Sanderson, is purely coincidental. The Shards of Aroka was a concept I have come up with before I had read any of his books; in fact, one of my players suggested I read his books after Shards were introduced in the game.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

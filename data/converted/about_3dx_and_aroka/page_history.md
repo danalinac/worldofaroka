@@ -11,6 +11,12 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-10-04 | Nature, Phenomena |
+| <a href="/pages/technology/seafarer/" class="internal-link">Seafarer</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/the_decanter/" class="internal-link">The Decanter</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/torchblade/" class="internal-link">Torchblade</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/veil_sight_device/" class="internal-link">Veil-Sight Device</a> | 2026-10-04 | Technology |
+| <a href="/pages/technology/waveroot/" class="internal-link">Waveroot</a> | 2026-10-04 | Technology |
 | <a href="/pages/nature/fauna/creatures/bloodbreath/" class="internal-link">Bloodbreath</a> | 2026-09-27 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/ripper/" class="internal-link">Ripper</a> | 2026-09-27 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> | 2026-09-27 | Nature, Phenomena |

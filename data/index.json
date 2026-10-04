@@ -378,12 +378,54 @@
       "isFolder": false,
       "url": "/pages/nature/phenomena/shadows_of_the_ancients/"
     },
+    "nature/phenomena/shard": {
+      "title": "Shard",
+      "slug": "shard",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/shard/"
+    },
     "technology/doom_knights": {
       "title": "Doom Knights",
       "slug": "doom_knights",
       "folderPath": "technology",
       "isFolder": false,
       "url": "/pages/technology/doom_knights/"
+    },
+    "technology/seafarer": {
+      "title": "Seafarer",
+      "slug": "seafarer",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/seafarer/"
+    },
+    "technology/the_decanter": {
+      "title": "The Decanter",
+      "slug": "the_decanter",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/the_decanter/"
+    },
+    "technology/torchblade": {
+      "title": "Torchblade",
+      "slug": "torchblade",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/torchblade/"
+    },
+    "technology/veil_sight_device": {
+      "title": "Veil-Sight Device",
+      "slug": "veil_sight_device",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/veil_sight_device/"
+    },
+    "technology/waveroot": {
+      "title": "Waveroot",
+      "slug": "waveroot",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/waveroot/"
     },
     "world_of_aroka": {
       "title": "World of Aroka",
@@ -535,14 +577,20 @@
       "children": [
         "nature/phenomena/gaunt",
         "nature/phenomena/layers_of_aroka",
-        "nature/phenomena/shadows_of_the_ancients"
+        "nature/phenomena/shadows_of_the_ancients",
+        "nature/phenomena/shard"
       ]
     },
     "technology": {
       "title": "Technology",
       "hubpage": null,
       "children": [
-        "technology/doom_knights"
+        "technology/doom_knights",
+        "technology/seafarer",
+        "technology/the_decanter",
+        "technology/torchblade",
+        "technology/veil_sight_device",
+        "technology/waveroot"
       ]
     }
   }
