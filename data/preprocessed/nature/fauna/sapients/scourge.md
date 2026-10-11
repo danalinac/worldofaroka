@@ -5,7 +5,7 @@
 
 
 
-Scourge are a feared and bewildering people whose forms and temperaments vary so wildly that few believe they are even a single ancestry, much less related to [[Dryn]]. They are the embodiment of survival in its harshest form — shaped by the land, hardened by conflict, and driven by instincts that often eclipse reason. Some stand less than a meter tall, quick and wiry, while others tower three or four meters tall with strength to match. Their bodies adapt rapidly to whatever environment they inhabit: thick hides in cold regions, powerful limbs in mountainous terrain, and hardened features in places where survival demands brutality.
+Scourge are a feared and bewildering people whose forms and temperaments vary so wildly that few believe they are even a single ancestry, much less related to Nature/Fauna/Sapients/[[Dryn]]. They are the embodiment of survival in its harshest form — shaped by the land, hardened by conflict, and driven by instincts that often eclipse reason. Some stand less than a meter tall, quick and wiry, while others tower three or four meters tall with strength to match. Their bodies adapt rapidly to whatever environment they inhabit: thick hides in cold regions, powerful limbs in mountainous terrain, and hardened features in places where survival demands brutality.
 
 Their speech is limited, often broken into fragments of language mixed with growls and gestures. Their intelligence ranges from simple cunning to surprising cleverness, though few exhibit sustained reasoning or long‑term planning. They are capable hunters, fierce warriors, and relentless survivors, driven more by instinct and necessity than by culture or tradition.
 
@@ -13,7 +13,7 @@ Scourge tribes are chaotic and ever‑shifting. They form from bloodlines, tempo
 
 True magical ability among Scourge is exceedingly rare and often dangerous. Those who display it do so unpredictably, their power flaring in violent bursts, making Scourge mages feared above all others.
 
-To most [[Anthropes]], Scourge are the fully fallen form of a once‑whole people — the end of a curse that [[Dryn]] merely resisted. Scourge themselves hold no such stories. They live in the present, shaped by the land and by the endless struggle to survive, caring little for myths or origins. They are a people defined not by what they were, but by what the world has forced them to become.
+To most Nature/Fauna/Sapients/[[Anthropes]], Scourge are the fully fallen form of a once‑whole people — the end of a curse that Nature/Fauna/Sapients/[[Dryn]] merely resisted. Scourge themselves hold no such stories. They live in the present, shaped by the land and by the endless struggle to survive, caring little for myths or origins. They are a people defined not by what they were, but by what the world has forced them to become.
 
 
 ---

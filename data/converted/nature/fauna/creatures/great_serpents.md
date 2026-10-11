@@ -1,0 +1,14 @@
+# Great Serpents
+
+---
+
+
+
+The Great Serpents are a group of large snakes ranging from a half-dozen meters in length to gargantuan creatures that strike terror into all the even glimpse them. As expert burrowers, they typically live in Regions with soft earth or sand, creating deep underground dens in which to mate and lay their eggs. They are sensitive to vibration and will burrow beneath their prey before launching themselves upward, ideally catching one or more target in their jaws on the way up and a few more on the way down as they dive back into the earth. Those fortunate enough to dodge the first attack will have to repeat this feat until they reach a rocky outcropping or cave that the serpent can't burrow through. Unless its a colossal serpent, your best hope is that it will be fed up with your comrades and decide to let the rest of you live another day. Though primarily land-based, some serpents have adapted to life near the shore, swimming through coastal waters and sand beaches with ease. Some even report encountering subterranean Variants dwelling in waters beneath the earth. 
+
+One of the most feared Variants of Great Serpents is the Sky Snake, which has a large hood ideal for gliding short distances. This terror will burrow beneath its prey and then quickly launch itself into the sky, catching the air on its hood and gliding over its horrified prey. This gives it an opportunity to determine which will likely provide the most nutrients before diving down upon it and burrowing back into the earth.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

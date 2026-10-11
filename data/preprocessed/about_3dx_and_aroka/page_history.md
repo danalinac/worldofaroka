@@ -11,6 +11,16 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Great Serpents]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Lumberclaw]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Needleback]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Skimmer]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Skullhound]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Weaver]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Chokevine]] | 2026-10-11 | Nature, Flora |
+| [[Pureroot]] | 2026-10-11 | Nature, Flora |
+| [[Treehome]] | 2026-10-11 | Nature, Flora |
+| [[Soulrot]] | 2026-10-11 | Nature, Phenomena |
 | [[Shard]] | 2026-10-04 | Nature, Phenomena |
 | [[Seafarer]] | 2026-10-04 | Technology |
 | [[The Decanter]] | 2026-10-04 | Technology |
@@ -50,7 +60,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | [[MOTFW 10. Lex-Gate Valley]] | 2026-08-25 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 04. Befriending the Last Hope]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 05. The Fungal Forest]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
-| [[MOTFW 06. The Weaver Nest]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
+| [[MOTFW 06. The [[Weaver]] Nest]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 07. Dark City, Dark magic]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 08. Siege on the Pillar]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 02. Into the Lost Mountains]] | 2026-08-23 | Campaigns, [[Mantle of the Fallen World]] |

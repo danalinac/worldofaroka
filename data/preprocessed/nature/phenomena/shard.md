@@ -8,9 +8,6 @@ Shard are one of the most precious substances in the Consortium. These crystals 
 
 All these risks seem to be worthwhile, however, since Shard can be used in just About anything and is even the backing of the Tryvyum economy. It can be refined into glass, jewelry, optical lenses, technological components, and is even believed to have magical properties. It is also an excellent absorber or energy, though the only way to extract the energy is to break the Shard, so they aren't used as batteries but do see some use heat stones. Due to the preciousness of this material, it is heavily monitored, using coins made of far less precious metals to represent it as currency.
 
-### Personal Note:
-Any similarities between the Shards of Aroka and Shards found in other literature, such as the Cosmere by Brandon Sanderson, is purely coincidental. The Shards of Aroka was a concept I have come up with before I had read any of his books; in fact, one of my players suggested I read his books after Shards were introduced in the game.
-
 
 ---
 

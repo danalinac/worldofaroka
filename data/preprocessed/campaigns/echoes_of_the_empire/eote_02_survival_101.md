@@ -54,7 +54,7 @@ That night, they kept the fire a bit dimmer than normal. The nightly rustling in
 
 ##### AOR 542-5-85
 
-The journey back to the Fishing Pit was as uneventful as the journey from it except for a distant blast to the north at the same time they had heard it the day before. There had been no signs of [[Scourge]] and they were running low on rations. Not feeling ready to face whatever lurked in the waters of the Fishing Pit, they determined that they would need to hunt for game in the surrounding forest and hope they weren't hunted back.
+The journey back to the Fishing Pit was as uneventful as the journey from it except for a distant blast to the north at the same time they had heard it the day before. There had been no signs of Nature/Fauna/Sapients/[[Scourge]] and they were running low on rations. Not feeling ready to face whatever lurked in the waters of the Fishing Pit, they determined that they would need to hunt for game in the surrounding forest and hope they weren't hunted back.
 
 That night, despite not having encountered Echoes when they had camped there two nights prior, multiple ghostly figures were spotted floating between the trees just beyond the reach of the fire.
 

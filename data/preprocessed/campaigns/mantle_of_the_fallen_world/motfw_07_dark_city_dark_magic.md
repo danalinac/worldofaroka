@@ -2,7 +2,7 @@
 ### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 7
 ---
 
-#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2006.%20The%20Weaver%20Nest">MOTFW 06. The Weaver Nest</a>
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2006.%20The%20Weaver%20Nest">MOTFW 06. The <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weaver</a> Nest</a>
 
 
 ---
@@ -32,7 +32,7 @@
 
 ##### AOR 542-4-64 to 66
 
-These three days were spent recovering from their battle with the Weaver. While they did so, Rasat flew ahead to scout out the new part of the Labyrinth, which was dominated by the ruins of an ancient city center with a central pillar rising from the Labyrinth's floor to its ceiling. While the recent seismic activity had not changed the layout of the area much, many of the bridges had collapsed and new crevasses had opened, significantly reducing the number of routes leading to the city's main entrance. By the end of the three days, he had identified a reliable but very indirect route through the ruins. He also noted that there was little to no activity in the area, which was in stark contrast to what he had seen when he surveyed the region prior to the seismic activity.
+These three days were spent recovering from their battle with the [[Weaver]]. While they did so, Rasat flew ahead to scout out the new part of the Labyrinth, which was dominated by the ruins of an ancient city center with a central pillar rising from the Labyrinth's floor to its ceiling. While the recent seismic activity had not changed the layout of the area much, many of the bridges had collapsed and new crevasses had opened, significantly reducing the number of routes leading to the city's main entrance. By the end of the three days, he had identified a reliable but very indirect route through the ruins. He also noted that there was little to no activity in the area, which was in stark contrast to what he had seen when he surveyed the region prior to the seismic activity.
 
 ##### AOR 542-4-67
 

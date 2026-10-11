@@ -1,4 +1,4 @@
-# The Weaver Nest
+# The <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weaver</a> Nest
 ### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 6
 
 ---
@@ -16,7 +16,7 @@
   </div>
   <div class=infobox-section>
     <h6>Participants</h6>
-    <div class=infobox-row><span class=label>Factions:</span><span class=value>The Last Hope, Weavers</span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>The Last Hope, <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weavers</a></span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Arxst, Ton</span></div>
     <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Jack, Perry</span></div>
   </div>
@@ -25,7 +25,7 @@
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Crumbling Labyrinth</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Beetle-Kind Fortress, Sanctum, Weaver Nest</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Beetle-Kind Fortress, Sanctum, <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weaver</a> Nest</span></div>
   </div>
 </div>
 
@@ -39,9 +39,9 @@ The party spend two days recovering from their venture to the Fungal Forest. See
 
 Once recovered, the party set out with Arxst, Ton, and fifteen warriors of Sanctum to the former Beetle-Kind Fortress. They met no resistance on the way and placed Ton's new explosive in the mouth of the collapsed tunnel. Standing well clear, Ton detonated the explosive, shaking the foundation of the fortress and echoing throughout the Labyrinth. When the dust settle and the ringing in their eyes faded, the party proceeded forward, ready to take on the second half of the Battle-Kind.
 
-However, the passage seemed to empty. There were no signs of the Beetle-Kind. Uneasy, they continued into the darkness. After coming to a three-way work in the passage, the party cautiously split to explore the first Section of each path to determine which one to take. Almost immediately, they encountered walls of thick webbing. Before they could fall back and regroup, a colony of Weaver ambushed them from the shadows. The vast majority of them are too small to do much damage or even pierce their armor, but the bigger ones pose a real threat as their fangs inject a sedating venom with each bite. Many warriors fall still from the venom as the rest retreat back to the entrance of the tunnel to use it as a bottleneck. 
+However, the passage seemed to empty. There were no signs of the Beetle-Kind. Uneasy, they continued into the darkness. After coming to a three-way work in the passage, the party cautiously split to explore the first Section of each path to determine which one to take. Almost immediately, they encountered walls of thick webbing. Before they could fall back and regroup, a colony of [[Weaver]] ambushed them from the shadows. The vast majority of them are too small to do much damage or even pierce their armor, but the bigger ones pose a real threat as their fangs inject a sedating venom with each bite. Many warriors fall still from the venom as the rest retreat back to the entrance of the tunnel to use it as a bottleneck. 
 
-Just as the Weaver' numbers seemed to be thinning, a colossal Weaver emerged from tunnel, taking up the entirety of the space and delivering powerful strikes with its legs as well as it massive fangs. With their wounds accumulating rapidly, the party had to choose between cutting their losses or fighting to the end. They chose the latter and barely managed to bring down the colossal Weaver. Thanks to Ahgythah's quick actions and centuries or healing experience, she was able to revive all but three of the warriors from Sanctum, though the remainder would not even be ready for the walk back to Sanctum for quite some time. Pushing forward, they found the fort at the other end of the passage empty, so they sent for reinforcements from Sanctum to secure the passage between the two major Sections of the Labyrinth.
+Just as the [[Weaver]]' numbers seemed to be thinning, a colossal [[Weaver]] emerged from tunnel, taking up the entirety of the space and delivering powerful strikes with its legs as well as it massive fangs. With their wounds accumulating rapidly, the party had to choose between cutting their losses or fighting to the end. They chose the latter and barely managed to bring down the colossal [[Weaver]]. Thanks to Ahgythah's quick actions and centuries or healing experience, she was able to revive all but three of the warriors from Sanctum, though the remainder would not even be ready for the walk back to Sanctum for quite some time. Pushing forward, they found the fort at the other end of the passage empty, so they sent for reinforcements from Sanctum to secure the passage between the two major Sections of the Labyrinth.
 
 ---
 

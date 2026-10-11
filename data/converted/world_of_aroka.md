@@ -6,7 +6,7 @@
 
 Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
-Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
+Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the Nature/Fauna/Sapients/<a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
 
 To explore Aroka is to stand at the edge of the unknown. Every expedition uncovers forgotten truths. Every alliance carries risk. Every choice has the potential to reshape the future. Whether you seek ancient secrets, survival in hostile lands, or stories forged through collaboration, Aroka invites you to leave your mark on a story still being written.
 
@@ -26,6 +26,16 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/fauna/creatures/great_serpents/" class="internal-link">Great Serpents</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/lumberclaw/" class="internal-link">Lumberclaw</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/needleback/" class="internal-link">Needleback</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/skimmer/" class="internal-link">Skimmer</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/skullhound/" class="internal-link">Skullhound</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/weaver/" class="internal-link">Weaver</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/flora/chokevine/" class="internal-link">Chokevine</a> | 2026-10-11 | Nature, Flora |
+| <a href="/pages/nature/flora/pureroot/" class="internal-link">Pureroot</a> | 2026-10-11 | Nature, Flora |
+| <a href="/pages/nature/flora/treehome/" class="internal-link">Treehome</a> | 2026-10-11 | Nature, Flora |
+| <a href="/pages/nature/phenomena/soulrot/" class="internal-link">Soulrot</a> | 2026-10-11 | Nature, Phenomena |
 | <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-10-04 | Nature, Phenomena |
 | <a href="/pages/technology/seafarer/" class="internal-link">Seafarer</a> | 2026-10-04 | Technology |
 | <a href="/pages/technology/the_decanter/" class="internal-link">The Decanter</a> | 2026-10-04 | Technology |
@@ -33,16 +43,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <a href="/pages/technology/veil_sight_device/" class="internal-link">Veil-Sight Device</a> | 2026-10-04 | Technology |
 | <a href="/pages/technology/waveroot/" class="internal-link">Waveroot</a> | 2026-10-04 | Technology |
 | <a href="/pages/nature/fauna/creatures/bloodbreath/" class="internal-link">Bloodbreath</a> | 2026-09-27 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/fauna/creatures/ripper/" class="internal-link">Ripper</a> | 2026-09-27 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> | 2026-09-27 | Nature, Phenomena |
-| <a href="/pages/nature/phenomena/layers_of_aroka/" class="internal-link">Layers of Aroka</a> | 2026-09-27 | Nature, Phenomena |
-| <a href="/pages/nature/phenomena/shadows_of_the_ancients/" class="internal-link">Shadows of the Ancients</a> | 2026-09-27 | Nature, Phenomena |
-| <a href="/pages/technology/doom_knights/" class="internal-link">Doom Knights</a> | 2026-09-27 | Technology |
-| <a href="/pages/3dx_dice_system/3dx_dice_system/" class="internal-link">3dX Dice System</a> | 2026-09-20 | <a href="/pages/3dx_dice_system/3dx_dice_system/" class="internal-link">3dX Dice System</a> |
-| <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
-| <a href="/pages/about_3dx_and_aroka/my_inspirations/" class="internal-link">My Inspirations</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
-| <a href="/pages/about_3dx_and_aroka/on_ai_use/" class="internal-link">On AI Use</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
-| <a href="/pages/about_3dx_and_aroka/page_history/" class="internal-link">Page History</a> | 2026-09-17 | <a href="/pages/about_3dx_and_aroka/about_3dx_and_aroka/" class="internal-link">About 3dX and Aroka</a> |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

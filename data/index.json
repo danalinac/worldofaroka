@@ -329,12 +329,54 @@
       "isFolder": false,
       "url": "/pages/nature/fauna/creatures/bloodbreath/"
     },
+    "nature/fauna/creatures/great_serpents": {
+      "title": "Great Serpents",
+      "slug": "great_serpents",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/great_serpents/"
+    },
+    "nature/fauna/creatures/lumberclaw": {
+      "title": "Lumberclaw",
+      "slug": "lumberclaw",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/lumberclaw/"
+    },
+    "nature/fauna/creatures/needleback": {
+      "title": "Needleback",
+      "slug": "needleback",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/needleback/"
+    },
     "nature/fauna/creatures/ripper": {
       "title": "Ripper",
       "slug": "ripper",
       "folderPath": "nature/fauna/creatures",
       "isFolder": false,
       "url": "/pages/nature/fauna/creatures/ripper/"
+    },
+    "nature/fauna/creatures/skimmer": {
+      "title": "Skimmer",
+      "slug": "skimmer",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/skimmer/"
+    },
+    "nature/fauna/creatures/skullhound": {
+      "title": "Skullhound",
+      "slug": "skullhound",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/skullhound/"
+    },
+    "nature/fauna/creatures/weaver": {
+      "title": "Weaver",
+      "slug": "weaver",
+      "folderPath": "nature/fauna/creatures",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/creatures/weaver/"
     },
     "nature/fauna/sapients/anthropes": {
       "title": "Anthropes",
@@ -356,6 +398,27 @@
       "folderPath": "nature/fauna/sapients",
       "isFolder": false,
       "url": "/pages/nature/fauna/sapients/scourge/"
+    },
+    "nature/flora/chokevine": {
+      "title": "Chokevine",
+      "slug": "chokevine",
+      "folderPath": "nature/flora",
+      "isFolder": false,
+      "url": "/pages/nature/flora/chokevine/"
+    },
+    "nature/flora/pureroot": {
+      "title": "Pureroot",
+      "slug": "pureroot",
+      "folderPath": "nature/flora",
+      "isFolder": false,
+      "url": "/pages/nature/flora/pureroot/"
+    },
+    "nature/flora/treehome": {
+      "title": "Treehome",
+      "slug": "treehome",
+      "folderPath": "nature/flora",
+      "isFolder": false,
+      "url": "/pages/nature/flora/treehome/"
     },
     "nature/phenomena/gaunt": {
       "title": "Gaunt",
@@ -384,6 +447,13 @@
       "folderPath": "nature/phenomena",
       "isFolder": false,
       "url": "/pages/nature/phenomena/shard/"
+    },
+    "nature/phenomena/soulrot": {
+      "title": "Soulrot",
+      "slug": "soulrot",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/soulrot/"
     },
     "technology/doom_knights": {
       "title": "Doom Knights",
@@ -543,6 +613,7 @@
       "hubpage": null,
       "children": [
         "nature/fauna",
+        "nature/flora",
         "nature/phenomena"
       ]
     },
@@ -559,7 +630,13 @@
       "hubpage": null,
       "children": [
         "nature/fauna/creatures/bloodbreath",
-        "nature/fauna/creatures/ripper"
+        "nature/fauna/creatures/great_serpents",
+        "nature/fauna/creatures/lumberclaw",
+        "nature/fauna/creatures/needleback",
+        "nature/fauna/creatures/ripper",
+        "nature/fauna/creatures/skimmer",
+        "nature/fauna/creatures/skullhound",
+        "nature/fauna/creatures/weaver"
       ]
     },
     "nature/fauna/sapients": {
@@ -571,6 +648,15 @@
         "nature/fauna/sapients/scourge"
       ]
     },
+    "nature/flora": {
+      "title": "Flora",
+      "hubpage": null,
+      "children": [
+        "nature/flora/chokevine",
+        "nature/flora/pureroot",
+        "nature/flora/treehome"
+      ]
+    },
     "nature/phenomena": {
       "title": "Phenomena",
       "hubpage": null,
@@ -578,7 +664,8 @@
         "nature/phenomena/gaunt",
         "nature/phenomena/layers_of_aroka",
         "nature/phenomena/shadows_of_the_ancients",
-        "nature/phenomena/shard"
+        "nature/phenomena/shard",
+        "nature/phenomena/soulrot"
       ]
     },
     "technology": {

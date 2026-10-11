@@ -11,6 +11,16 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/fauna/creatures/great_serpents/" class="internal-link">Great Serpents</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/lumberclaw/" class="internal-link">Lumberclaw</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/needleback/" class="internal-link">Needleback</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/skimmer/" class="internal-link">Skimmer</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/skullhound/" class="internal-link">Skullhound</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/fauna/creatures/weaver/" class="internal-link">Weaver</a> | 2026-10-11 | Nature, Fauna, Creatures |
+| <a href="/pages/nature/flora/chokevine/" class="internal-link">Chokevine</a> | 2026-10-11 | Nature, Flora |
+| <a href="/pages/nature/flora/pureroot/" class="internal-link">Pureroot</a> | 2026-10-11 | Nature, Flora |
+| <a href="/pages/nature/flora/treehome/" class="internal-link">Treehome</a> | 2026-10-11 | Nature, Flora |
+| <a href="/pages/nature/phenomena/soulrot/" class="internal-link">Soulrot</a> | 2026-10-11 | Nature, Phenomena |
 | <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-10-04 | Nature, Phenomena |
 | <a href="/pages/technology/seafarer/" class="internal-link">Seafarer</a> | 2026-10-04 | Technology |
 | <a href="/pages/technology/the_decanter/" class="internal-link">The Decanter</a> | 2026-10-04 | Technology |
@@ -50,7 +60,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley/" class="internal-link">MOTFW 10. Lex-Gate Valley</a> | 2026-08-25 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope/" class="internal-link">MOTFW 04. Befriending the Last Hope</a> | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest/" class="internal-link">MOTFW 05. The Fungal Forest</a> | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/" class="internal-link">MOTFW 06. The Weaver Nest</a> | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
+| MOTFW 06. The [[Weaver Nest]] | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic/" class="internal-link">MOTFW 07. Dark City, Dark magic</a> | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar/" class="internal-link">MOTFW 08. Siege on the Pillar</a> | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | 2026-08-23 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |

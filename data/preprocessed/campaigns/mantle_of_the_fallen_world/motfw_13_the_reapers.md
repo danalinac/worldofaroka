@@ -46,7 +46,7 @@ The following morning, the party hurried back to Sanctum, bringing with them the
 
 ##### AOR 542-4-88
 
-Just before first light, the party set out with thirty-nine Other warriors, including a few of the [[Dryn]] from Lex-Gate Valley. They managed to fit into the large cellar the party had taken refuge in two nights before, though it was barely large enough to house them all. However, this did allow them to rest just outside of the pillar without having to contend with the Reapers. As soon as the first rays of light graced the Crumbling City and the Reapers retreated into the darkness to rest, they would sneak into the dungeon beneath the pillar, place the explosive near the hole to the depths, and detonate it, bringing down the entire Pillar.
+Just before first light, the party set out with thirty-nine Other warriors, including a few of the Nature/Fauna/Sapients/[[Dryn]] from Lex-Gate Valley. They managed to fit into the large cellar the party had taken refuge in two nights before, though it was barely large enough to house them all. However, this did allow them to rest just outside of the pillar without having to contend with the Reapers. As soon as the first rays of light graced the Crumbling City and the Reapers retreated into the darkness to rest, they would sneak into the dungeon beneath the pillar, place the explosive near the hole to the depths, and detonate it, bringing down the entire Pillar.
 
 ##### AOR 542-4-89
 
@@ -58,7 +58,7 @@ Running out of time and with many having already fallen, the party finally made 
 
 Ton had set a five-minute fuse on the bomb, giving the group little time to get clear of the pillar and whatever Destruction might follow. After getting as far away as they could within that time, the Crumbling Labyrinth reverberated with a deafening blast and fire erupted from every opening of the pillar. Then, for a moment, everything was silent before the foundation beneath the pillar gave way. Large Sections of the surrounding area crumbled as both the floor and ceiling of the Crumbling City around the pillar crumbled, resulting in a enormous mound of earth and stone where it once stood. Whatever Reapers had risen up from the depths were undoubtedly killed and it was unlikely they would be able to dig through so much debris to hunt in the Labyrinth again anytime soon.
 
-Taking account of the survivors, they realized that twenty of their number had perished, five among them being [[Dryn]] from Lex-Gate Valley. Of those that remained, many were wounded, and nearly all had gained a very deep and real fear of the depths of the earth and what lurked within the darkness.
+Taking account of the survivors, they realized that twenty of their number had perished, five among them being Nature/Fauna/Sapients/[[Dryn]] from Lex-Gate Valley. Of those that remained, many were wounded, and nearly all had gained a very deep and real fear of the depths of the earth and what lurked within the darkness.
 
 ---
 

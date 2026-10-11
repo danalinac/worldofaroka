@@ -1,0 +1,12 @@
+# Treehome
+
+---
+
+
+
+The majority of Ohedyn communities are built around a Treehome. These trees are capable of rapidly growing incredibly large with dense, widespread branches. For many species, both sentient and not, these tree serve as homes as nests, hammocks, and even structures can be easily built within its branches. However, it is not common for these tree to grow to their full potential if the habitations built within it are not managed. The people of Ohedyn solved this issue by the use of their special brand of Magic which is focused on coaxing Nature to grow in a way that benefits both themselves and the natural environment. By influencing the growth of Treehome to form natural pathways, structures, and even furnishings within its branches without compromising its integrity or ability to collect water and sunlight, they can build entire communities and city centers in them. There are nine Treehome that belong to the nation of Ohedyn. Eight are in their homeland and a younger one is in their settlement town of Okar on Okanu.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

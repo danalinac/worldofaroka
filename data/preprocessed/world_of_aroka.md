@@ -6,7 +6,7 @@
 
 Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
-Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the [[Dryn]] and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
+Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface—mysterious beings like the Nature/Fauna/Sapients/[[Dryn]] and Var’Yn, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded Dark Days. The world’s past is not dead; it is just waiting for the right time to return.
 
 To explore Aroka is to stand at the edge of the unknown. Every expedition uncovers forgotten truths. Every alliance carries risk. Every choice has the potential to reshape the future. Whether you seek ancient secrets, survival in hostile lands, or stories forged through collaboration, Aroka invites you to leave your mark on a story still being written.
 
@@ -26,6 +26,16 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Great Serpents]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Lumberclaw]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Needleback]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Skimmer]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Skullhound]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Weaver]] | 2026-10-11 | Nature, Fauna, Creatures |
+| [[Chokevine]] | 2026-10-11 | Nature, Flora |
+| [[Pureroot]] | 2026-10-11 | Nature, Flora |
+| [[Treehome]] | 2026-10-11 | Nature, Flora |
+| [[Soulrot]] | 2026-10-11 | Nature, Phenomena |
 | [[Shard]] | 2026-10-04 | Nature, Phenomena |
 | [[Seafarer]] | 2026-10-04 | Technology |
 | [[The Decanter]] | 2026-10-04 | Technology |
@@ -33,16 +43,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Veil-Sight Device]] | 2026-10-04 | Technology |
 | [[Waveroot]] | 2026-10-04 | Technology |
 | [[Bloodbreath]] | 2026-09-27 | Nature, Fauna, Creatures |
-| [[Ripper]] | 2026-09-27 | Nature, Fauna, Creatures |
-| [[Gaunt]] | 2026-09-27 | Nature, Phenomena |
-| [[Layers of Aroka]] | 2026-09-27 | Nature, Phenomena |
-| [[Shadows of the Ancients]] | 2026-09-27 | Nature, Phenomena |
-| [[Doom Knights]] | 2026-09-27 | Technology |
-| [[3dX Dice System]] | 2026-09-20 | [[3dX Dice System]] |
-| [[About 3dX and Aroka]] | 2026-09-17 | [[About 3dX and Aroka]] |
-| [[My Inspirations]] | 2026-09-17 | [[About 3dX and Aroka]] |
-| [[On AI Use]] | 2026-09-17 | [[About 3dX and Aroka]] |
-| [[Page History]] | 2026-09-17 | [[About 3dX and Aroka]] |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 
