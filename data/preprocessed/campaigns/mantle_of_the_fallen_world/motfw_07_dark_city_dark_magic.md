@@ -2,7 +2,7 @@
 ### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 7
 ---
 
-#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2006.%20The%20Weaver%20Nest">MOTFW 06. The <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weaver</a> Nest</a>
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2006.%20Webs%20and%20Shadows">MOTFW 06. Webs and Shadows</a>
 
 
 ---

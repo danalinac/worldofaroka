@@ -1,4 +1,4 @@
-# The <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weaver</a> Nest
+# Webs and Shadows
 ### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 6
 
 ---

@@ -63,7 +63,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | [[MOTFW 09. The Battle of Blood]] | AOR 542-4-70 | The Pillar | The Last Hope, Suckers |
 | [[MOTFW 08. Siege on the Pillar]] | AOR 542-4-70 | The Pillar | The Last Hope, Suckers |
 | [[MOTFW 07. Dark City, Dark magic]] | AOR 542-4-64 | The Last Gate | The Last Hope, Suckers |
-| [[MOTFW 06. The [[Weaver]] Nest]] | AOR 542-4-61 | Beetle-Kind Fortress, Sanctum, [[Weaver]] Nest | The Last Hope, [[Weaver|Weavers]] |
+| [[MOTFW 06. Webs and Shadows]] | AOR 542-4-61 | Beetle-Kind Fortress, Sanctum, [[Weaver]] Nest | The Last Hope, [[Weaver|Weavers]] |
 | [[MOTFW 05. The Fungal Forest]] | AOR 542-4-53 | The Fungal Forest, Sanctum, Scorpion-Kind Fortress | Fungal-Folk, The Last Hope, Scorpion-Kind |
 | [[MOTFW 04. Befriending the Last Hope]] | AOR 542-4-50 | Beetle-Kind Fortress, the Crumbling Well, Sanctum | Beetle-Kind, The Last Hope |
 | [[MOTFW 03. The Crumbling Labyrinth]] | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |

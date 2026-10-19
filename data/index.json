@@ -147,12 +147,12 @@
       "isFolder": false,
       "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest/"
     },
-    "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest": {
-      "title": "MOTFW 06. The Weaver Nest",
-      "slug": "motfw_06_the_weaver_nest",
+    "campaigns/mantle_of_the_fallen_world/motfw_06_webs_and_shadows": {
+      "title": "MOTFW 06. Webs and Shadows",
+      "slug": "motfw_06_webs_and_shadows",
       "folderPath": "campaigns/mantle_of_the_fallen_world",
       "isFolder": false,
-      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/"
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_06_webs_and_shadows/"
     },
     "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic": {
       "title": "MOTFW 07. Dark City, Dark magic",
@@ -620,7 +620,7 @@
         "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
         "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
         "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
-        "campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest",
+        "campaigns/mantle_of_the_fallen_world/motfw_06_webs_and_shadows",
         "campaigns/mantle_of_the_fallen_world/motfw_07_dark_city_dark_magic",
         "campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar",
         "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",

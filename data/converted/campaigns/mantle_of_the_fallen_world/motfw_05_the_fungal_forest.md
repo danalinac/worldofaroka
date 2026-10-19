@@ -55,7 +55,7 @@ When the party emerged from the forest, fatigued and frightened, they realized t
 
 ---
 
-#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_the_weaver_nest/" class="internal-link">MOTFW  06. The <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FCreatures%2FWeaver">Weaver</a> Nest</a>
+#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_06_webs_and_shadows/" class="internal-link">MOTFW  06. Webs and Shadows</a>
 
 
 ---

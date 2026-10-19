@@ -67,7 +67,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | [[MOTFW 10. Lex-Gate Valley]] | 2026-08-25 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 04. Befriending the Last Hope]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 05. The Fungal Forest]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
-| [[MOTFW 06. The [[Weaver]] Nest]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
+| [[MOTFW 06. Webs and Shadows]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 07. Dark City, Dark magic]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 08. Siege on the Pillar]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 02. Into the Lost Mountains]] | 2026-08-23 | Campaigns, [[Mantle of the Fallen World]] |
