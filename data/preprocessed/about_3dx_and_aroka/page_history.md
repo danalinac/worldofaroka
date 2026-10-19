@@ -11,6 +11,13 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Blastbow]] | 2026-10-19 | Technology |
+| [[Bowsling]] | 2026-10-19 | Technology |
+| [[Landfarer]] | 2026-10-19 | Technology |
+| [[Oceanfarer]] | 2026-10-19 | Technology |
+| [[Ridgecloak]] | 2026-10-19 | Technology |
+| [[Scoutskin]] | 2026-10-19 | Technology |
+| [[Skyfarer]] | 2026-10-19 | Technology |
 | [[Great Serpents]] | 2026-10-11 | Nature, Fauna, Creatures |
 | [[Lumberclaw]] | 2026-10-11 | Nature, Fauna, Creatures |
 | [[Needleback]] | 2026-10-11 | Nature, Fauna, Creatures |

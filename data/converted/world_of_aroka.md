@@ -26,6 +26,13 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/technology/blastbow/" class="internal-link">Blastbow</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/bowsling/" class="internal-link">Bowsling</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/landfarer/" class="internal-link">Landfarer</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/oceanfarer/" class="internal-link">Oceanfarer</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/ridgecloak/" class="internal-link">Ridgecloak</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/scoutskin/" class="internal-link">Scoutskin</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/skyfarer/" class="internal-link">Skyfarer</a> | 2026-10-19 | Technology |
 | <a href="/pages/nature/fauna/creatures/great_serpents/" class="internal-link">Great Serpents</a> | 2026-10-11 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/lumberclaw/" class="internal-link">Lumberclaw</a> | 2026-10-11 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/needleback/" class="internal-link">Needleback</a> | 2026-10-11 | Nature, Fauna, Creatures |
@@ -36,13 +43,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <a href="/pages/nature/flora/pureroot/" class="internal-link">Pureroot</a> | 2026-10-11 | Nature, Flora |
 | <a href="/pages/nature/flora/treehome/" class="internal-link">Treehome</a> | 2026-10-11 | Nature, Flora |
 | <a href="/pages/nature/phenomena/soulrot/" class="internal-link">Soulrot</a> | 2026-10-11 | Nature, Phenomena |
-| <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-10-04 | Nature, Phenomena |
-| <a href="/pages/technology/seafarer/" class="internal-link">Seafarer</a> | 2026-10-04 | Technology |
-| <a href="/pages/technology/the_decanter/" class="internal-link">The Decanter</a> | 2026-10-04 | Technology |
-| <a href="/pages/technology/torchblade/" class="internal-link">Torchblade</a> | 2026-10-04 | Technology |
-| <a href="/pages/technology/veil_sight_device/" class="internal-link">Veil-Sight Device</a> | 2026-10-04 | Technology |
-| <a href="/pages/technology/waveroot/" class="internal-link">Waveroot</a> | 2026-10-04 | Technology |
-| <a href="/pages/nature/fauna/creatures/bloodbreath/" class="internal-link">Bloodbreath</a> | 2026-09-27 | Nature, Fauna, Creatures |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

@@ -26,6 +26,13 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Blastbow]] | 2026-10-19 | Technology |
+| [[Bowsling]] | 2026-10-19 | Technology |
+| [[Landfarer]] | 2026-10-19 | Technology |
+| [[Oceanfarer]] | 2026-10-19 | Technology |
+| [[Ridgecloak]] | 2026-10-19 | Technology |
+| [[Scoutskin]] | 2026-10-19 | Technology |
+| [[Skyfarer]] | 2026-10-19 | Technology |
 | [[Great Serpents]] | 2026-10-11 | Nature, Fauna, Creatures |
 | [[Lumberclaw]] | 2026-10-11 | Nature, Fauna, Creatures |
 | [[Needleback]] | 2026-10-11 | Nature, Fauna, Creatures |
@@ -36,13 +43,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Pureroot]] | 2026-10-11 | Nature, Flora |
 | [[Treehome]] | 2026-10-11 | Nature, Flora |
 | [[Soulrot]] | 2026-10-11 | Nature, Phenomena |
-| [[Shard]] | 2026-10-04 | Nature, Phenomena |
-| [[Seafarer]] | 2026-10-04 | Technology |
-| [[The Decanter]] | 2026-10-04 | Technology |
-| [[Torchblade]] | 2026-10-04 | Technology |
-| [[Veil-Sight Device]] | 2026-10-04 | Technology |
-| [[Waveroot]] | 2026-10-04 | Technology |
-| [[Bloodbreath]] | 2026-09-27 | Nature, Fauna, Creatures |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

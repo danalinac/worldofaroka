@@ -455,6 +455,20 @@
       "isFolder": false,
       "url": "/pages/nature/phenomena/soulrot/"
     },
+    "technology/blastbow": {
+      "title": "Blastbow",
+      "slug": "blastbow",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/blastbow/"
+    },
+    "technology/bowsling": {
+      "title": "Bowsling",
+      "slug": "bowsling",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/bowsling/"
+    },
     "technology/doom_knights": {
       "title": "Doom Knights",
       "slug": "doom_knights",
@@ -462,12 +476,47 @@
       "isFolder": false,
       "url": "/pages/technology/doom_knights/"
     },
+    "technology/landfarer": {
+      "title": "Landfarer",
+      "slug": "landfarer",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/landfarer/"
+    },
+    "technology/oceanfarer": {
+      "title": "Oceanfarer",
+      "slug": "oceanfarer",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/oceanfarer/"
+    },
+    "technology/ridgecloak": {
+      "title": "Ridgecloak",
+      "slug": "ridgecloak",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/ridgecloak/"
+    },
+    "technology/scoutskin": {
+      "title": "Scoutskin",
+      "slug": "scoutskin",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/scoutskin/"
+    },
     "technology/seafarer": {
       "title": "Seafarer",
       "slug": "seafarer",
       "folderPath": "technology",
       "isFolder": false,
       "url": "/pages/technology/seafarer/"
+    },
+    "technology/skyfarer": {
+      "title": "Skyfarer",
+      "slug": "skyfarer",
+      "folderPath": "technology",
+      "isFolder": false,
+      "url": "/pages/technology/skyfarer/"
     },
     "technology/the_decanter": {
       "title": "The Decanter",
@@ -672,8 +721,15 @@
       "title": "Technology",
       "hubpage": null,
       "children": [
+        "technology/blastbow",
+        "technology/bowsling",
         "technology/doom_knights",
+        "technology/landfarer",
+        "technology/oceanfarer",
+        "technology/ridgecloak",
+        "technology/scoutskin",
         "technology/seafarer",
+        "technology/skyfarer",
         "technology/the_decanter",
         "technology/torchblade",
         "technology/veil_sight_device",

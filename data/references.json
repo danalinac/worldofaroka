@@ -108,8 +108,15 @@
       "nature/phenomena/shadows_of_the_ancients",
       "nature/phenomena/shard",
       "nature/phenomena/soulrot",
+      "technology/blastbow",
+      "technology/bowsling",
       "technology/doom_knights",
+      "technology/landfarer",
+      "technology/oceanfarer",
+      "technology/ridgecloak",
+      "technology/scoutskin",
       "technology/seafarer",
+      "technology/skyfarer",
       "technology/the_decanter",
       "technology/torchblade",
       "technology/veil_sight_device",
@@ -327,7 +334,8 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
       "nature/phenomena/gaunt",
-      "technology/seafarer"
+      "technology/seafarer",
+      "technology/skyfarer"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -872,7 +880,8 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "characters/boris",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/sapients/dryn",
+      "technology/scoutskin"
     ]
   },
   "nature/flora/chokevine": {
@@ -929,8 +938,50 @@
       "about_3dx_and_aroka/page_history"
     ]
   },
+  "technology/blastbow": {
+    "out": [
+      "technology/seafarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/bowsling": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
   "technology/doom_knights": {
     "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/landfarer": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/oceanfarer": {
+    "out": [
+      "technology/seafarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/ridgecloak": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "technology/scoutskin": {
+    "out": [
+      "nature/fauna/sapients/scourge"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history"
     ]
@@ -944,7 +995,16 @@
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "technology/blastbow",
+      "technology/oceanfarer",
       "technology/waveroot"
+    ]
+  },
+  "technology/skyfarer": {
+    "out": [],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city"
     ]
   },
   "technology/the_decanter": {
@@ -981,7 +1041,6 @@
   "world_of_aroka": {
     "out": [
       "3dx_dice_system/3dx_dice_system",
-      "nature/fauna/creatures/bloodbreath",
       "nature/fauna/creatures/great_serpents",
       "nature/fauna/creatures/lumberclaw",
       "nature/fauna/creatures/needleback",
@@ -992,13 +1051,14 @@
       "nature/flora/chokevine",
       "nature/flora/pureroot",
       "nature/flora/treehome",
-      "nature/phenomena/shard",
       "nature/phenomena/soulrot",
-      "technology/seafarer",
-      "technology/the_decanter",
-      "technology/torchblade",
-      "technology/veil_sight_device",
-      "technology/waveroot"
+      "technology/blastbow",
+      "technology/bowsling",
+      "technology/landfarer",
+      "technology/oceanfarer",
+      "technology/ridgecloak",
+      "technology/scoutskin",
+      "technology/skyfarer"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",

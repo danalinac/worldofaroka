@@ -1,0 +1,12 @@
+# Landfarer
+
+---
+
+
+
+Though rare, some communities have either constructed or salvage land vehicles large enough to serve as mobile bunkers, homes, or shops. Few placed on Aroka have terrain that can accommodate vehicles of such size, but where it does, those with Landfarers dominate as long they maintain control of the rare resources needed to sustain them.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

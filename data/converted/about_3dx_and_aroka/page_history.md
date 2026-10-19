@@ -11,6 +11,13 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/technology/blastbow/" class="internal-link">Blastbow</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/bowsling/" class="internal-link">Bowsling</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/landfarer/" class="internal-link">Landfarer</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/oceanfarer/" class="internal-link">Oceanfarer</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/ridgecloak/" class="internal-link">Ridgecloak</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/scoutskin/" class="internal-link">Scoutskin</a> | 2026-10-19 | Technology |
+| <a href="/pages/technology/skyfarer/" class="internal-link">Skyfarer</a> | 2026-10-19 | Technology |
 | <a href="/pages/nature/fauna/creatures/great_serpents/" class="internal-link">Great Serpents</a> | 2026-10-11 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/lumberclaw/" class="internal-link">Lumberclaw</a> | 2026-10-11 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/needleback/" class="internal-link">Needleback</a> | 2026-10-11 | Nature, Fauna, Creatures |

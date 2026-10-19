@@ -1,0 +1,14 @@
+# Oceanfarer
+
+---
+
+
+
+Even the most advanced [[Seafarer|Seafarers]] are vulnerable in the vast oceans of Aroka. If the incredible waves don't crack their hulls, the tremendous sea monsters will. Even [[Seafarer]] designed to avoid the tossing of the waves by traveling beneath them must use all their talents and no small amount of luck to not get caught in the jaws of the leviathans of the depths. 
+
+The only vessels that can reliably make the passage across an ocean are the Oceanfarer. Functionally floating cities, these colossal vessels transported large amounts of animals, goods, and persons from one continent group to another. Due to the immense cost of operating and maintaining these behemoths, each Oceanfarer has a dedicated route across the ocean, making the passage only when enough cargo or passengers have chartered them to make it worth their while. There is little to no competition between Oceanfarer crews as there are few enough of them to charge whatever price they deem worth their efforts. This also resorts in only a few trips made per year, requiring those that wish to cross an ocean to plan far in advance and likely live in the cities that have formed around Oceanfarer ports while waiting for their voyage to begin.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."
