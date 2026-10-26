@@ -23,6 +23,8 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 ## Recently Added Pages
 
 
+I apologize, but I have did not upload any pages this week (20261025). I am in the middle of moving and have been absolutely swamped. I also have a few major overhauls to the World of Aroka I have been working on, but that are taking longer than anticipated. Once the move is complete in a couple weeks, I plan to significantly expand upon this site, both in terms of updating existing content as well as adding new content.
+
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
