@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age of Divinity — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Age of Divinity</h1>
+<hr>
+<p>Exactly when the gods revealed themselves to the inhabitants of Aroka and brought them into the Age of Divinity is unknown, but it marked yet another turning point for the world. With the gods walking among the mortals and exceptional mortals able to ascend to godhood, Aroka emerged from the <a href="/pages/history/ages/age_of_healing/" class="internal-link">Age of Healing</a> and entered a golden age where Magic, Technologies, and prosperity reached new heights.</p>
+<p>This prosperity came to an abrupt end when Aroka’s moon exploded, showering the world in flaming earth and blotting out the suns with ash and smoke. The event, called the Firefall, also marked the silence of the gods as all attempts to call for their aid yielded no reply.</p>
+<p>From the ashes rose multiple armies with Technologies far in advance of anything they had seen before, seemingly using the fundamental forces of Nature itself as weaponry. This was called the War of Ashes. The survivors of the Firefall spoke of monstrous machines of war floating through the skies, rumbling across the earth, and churning the Seas, firing multicolored blasts of energy at each other. Many described their battles as terrible thunderstorms where flashes of lights emanated from clouds of ash and smoke, accompanied by the booming of incredible explosions. These conflicts seemed to take no heed to the Arokan survivors, focusing their efforts on destroying the opposing armies, uncaring of the countless Arokans caught in the crossfire.</p>
+<p>A handful of the splintered Organizations of Arokan survivors attempted to at least protect themselves from the war, but they rarely succeeded, not even gaining the attention of the armies as they leveled already crumbling cities that just happened to be caught between two or more of the armies. Tales of weapons that may have stood a chance circulated among the survivors, but it seems that none of these were used, leading many in the modern age to seek them out in hopes that they are still functional after hundreds of years of lying dormant.</p>
+<p>Just as quickly as the War of Ashes began, it ended. The armies disappeared and the world fell silent. Not long after, the ash and smoke had blotted out the suns and snow began to dominate landscapes and bodies of water froze. The War of Ashes was over, but the world was no less safe. Those that were still alive retreated beneath the earth or inside what little infrastructure remained to escape the cold, beginning the <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a>.</p>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.&quot;</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"history/ages/age_of_healing","title":"Age of Healing"},{"slug":"history/ages/age_of_ice","title":"Age of Ice"},{"slug":"technology/doom_knights","title":"Doom Knights"},{"slug":"campaigns/echoes_of_the_empire/echoes_of_the_empire","title":"Echoes of the Empire"},{"slug":"campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends","title":"EOTE 05. Strange Foes and Friends"},{"slug":"campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world","title":"Mantle of the Fallen World"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city","title":"MOTFW 00. Race for the Lost City"},{"slug":"about_3dx_and_aroka/page_history","title":"Page History"},{"slug":"technology/skyfarer","title":"Skyfarer"},{"slug":"technology/torchblade","title":"Torchblade"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"history/ages/age_of_divinity"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

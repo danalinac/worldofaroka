@@ -28,7 +28,7 @@
 
 The campaign began in desperation, not destiny. Four unlikely companions — [[Boris]] the Boar‑Kin bounty hunter, [[Ione]] the Fennec Fox‑Kin thief, [[Jonesie]] the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and [[Kagbar]] the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the Eastern Echoes. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
 
-As they ventured deeper into the Wild West, they encountered the strange phenomena the region was known for: Echoes, spectral remnants of the Age of Divinity. Multiple encounters at the Fishing Pit force the party to adapt, exposing both the danger of power & the cost of exhaustion.
+As they ventured deeper into the Wild West, they encountered the strange phenomena the region was known for: Echoes, spectral remnants of the [[Age of Divinity]]. Multiple encounters at the Fishing Pit force the party to adapt, exposing both the danger of power & the cost of exhaustion.
 
 Their return to civilization offered no respite. Short Beginnings was teetering on collapse, its lifeline stolen along the Dynisin River by organized bandits. Investigation leaded to a dangerous entanglement with the very criminals they sought to stop, culminating in an uneasy alliance, brutal tests of worth, & a descent into ancient ruins swarmed in Echoes.
 

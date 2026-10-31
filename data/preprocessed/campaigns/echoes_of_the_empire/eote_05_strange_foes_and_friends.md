@@ -35,7 +35,7 @@
 
 ###### AOR 542-6-01
 
-Trapped and outnumbered, the party had to think quick. [[Jonesie]] decided to try and convince the bandits to join his cult of Pan-Da. While not directly converting the bandits, it did get them to hear the party out. Unbeknownst to the party, the Bandits had been investigating a nearby ruin where Echo activity was unusually high and they believed it to have something to do with the god that had called that area home during the Age of Divinity. [[Jonesie|Jonesies]] claimed to be in a tune with a deity that would prove useful in this investigation.
+Trapped and outnumbered, the party had to think quick. [[Jonesie]] decided to try and convince the bandits to join his cult of Pan-Da. While not directly converting the bandits, it did get them to hear the party out. Unbeknownst to the party, the Bandits had been investigating a nearby ruin where Echo activity was unusually high and they believed it to have something to do with the god that had called that area home during the [[Age of Divinity]]. [[Jonesie|Jonesies]] claimed to be in a tune with a deity that would prove useful in this investigation.
 
 However, there was another obstacle they would have to overcome. There were three Nature/Fauna/Sapients/[[Scourge]] among the Bandits, which [[Boris]] could not tolerate. As a test, the Bandit leader, Aryus, said that if [[Boris]] could singlehandedly defeat the three Nature/Fauna/Sapients/[[Scourge]], this would be a sign that Pan-Da was real and had enough power to grant its champions victory over unfavorable odds. The party agreed, hoping [[Boris]] was up to the task.
 
@@ -47,7 +47,7 @@ Impressed, the Bandits agreed to work with them, though the party assumed they w
 
 Over the next two days, the party accompanied nine of the Bandits towards the ruins, doing their best to not irritate their new allies, though [[Kagbar]] seemed to be trying to deliberately irritate them.
 
-Towards the evening of the second day of travel, they arrived at an area where the ruble of what looked like some sort of academic or political structure from the Age of Divinity stood. In the fading sunlight, they could just start to see the Echoes walking amongst the ruins, being far more visible than any Echoes they had encountered before. They spent the night watching the movements of the Echoes, trying to identify loops or patterns they could exploit to get towards the center of the ruins.
+Towards the evening of the second day of travel, they arrived at an area where the ruble of what looked like some sort of academic or political structure from the [[Age of Divinity]] stood. In the fading sunlight, they could just start to see the Echoes walking amongst the ruins, being far more visible than any Echoes they had encountered before. They spent the night watching the movements of the Echoes, trying to identify loops or patterns they could exploit to get towards the center of the ruins.
 
 ###### AOR 542-6-04
 

@@ -11,6 +11,12 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Age of Divinity]] | 2026-10-31 | History, Ages |
+| [[Age of Healing]] | 2026-10-31 | History, Ages |
+| [[Age of Ice]] | 2026-10-31 | History, Ages |
+| [[Age of Reclamation]] | 2026-10-31 | History, Ages |
+| [[Age of Tribulation]] | 2026-10-31 | History, Ages |
+| [[Age of War]] | 2026-10-31 | History, Ages |
 | [[Blastbow]] | 2026-10-19 | Technology |
 | [[Bowsling]] | 2026-10-19 | Technology |
 | [[Landfarer]] | 2026-10-19 | Technology |

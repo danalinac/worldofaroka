@@ -11,6 +11,12 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_healing/" class="internal-link">Age of Healing</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_reclamation/" class="internal-link">Age of Reclamation</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_tribulation/" class="internal-link">Age of Tribulation</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_war/" class="internal-link">Age of War</a> | 2026-10-31 | History, Ages |
 | <a href="/pages/technology/blastbow/" class="internal-link">Blastbow</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/bowsling/" class="internal-link">Bowsling</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/landfarer/" class="internal-link">Landfarer</a> | 2026-10-19 | Technology |

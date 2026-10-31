@@ -90,6 +90,12 @@
       "characters/ione",
       "characters/jonesie",
       "characters/kagbar",
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_healing",
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
+      "history/ages/age_of_tribulation",
+      "history/ages/age_of_war",
       "nature/fauna/creatures/bloodbreath",
       "nature/fauna/creatures/great_serpents",
       "nature/fauna/creatures/lumberclaw",
@@ -150,6 +156,7 @@
       "characters/ione",
       "characters/jonesie",
       "characters/kagbar",
+      "history/ages/age_of_divinity",
       "world_of_aroka"
     ],
     "in": [
@@ -237,6 +244,7 @@
       "characters/boris",
       "characters/jonesie",
       "characters/kagbar",
+      "history/ages/age_of_divinity",
       "nature/fauna/sapients/scourge"
     ],
     "in": [
@@ -293,6 +301,8 @@
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_reclamation",
       "nature/fauna/creatures/ripper",
       "nature/fauna/creatures/weaver",
       "nature/fauna/sapients/dryn",
@@ -335,6 +345,9 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
       "nature/phenomena/gaunt",
       "technology/seafarer",
       "technology/skyfarer"
@@ -378,6 +391,7 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "history/ages/age_of_ice",
       "nature/fauna/creatures/ripper"
     ],
     "in": [
@@ -779,6 +793,81 @@
       "characters/jonesie"
     ]
   },
+  "history/ages/age_of_divinity": {
+    "out": [
+      "history/ages/age_of_healing",
+      "history/ages/age_of_ice"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/echoes_of_the_empire/echoes_of_the_empire",
+      "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "history/ages/age_of_healing",
+      "technology/doom_knights",
+      "technology/skyfarer",
+      "technology/torchblade"
+    ]
+  },
+  "history/ages/age_of_healing": {
+    "out": [
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_war"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_war"
+    ]
+  },
+  "history/ages/age_of_ice": {
+    "out": [
+      "history/ages/age_of_reclamation"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_reclamation",
+      "technology/doom_knights"
+    ]
+  },
+  "history/ages/age_of_reclamation": {
+    "out": [
+      "history/ages/age_of_ice",
+      "nature/fauna/sapients/dryn"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "history/ages/age_of_ice",
+      "technology/doom_knights"
+    ]
+  },
+  "history/ages/age_of_tribulation": {
+    "out": [
+      "history/ages/age_of_war"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "history/ages/age_of_war"
+    ]
+  },
+  "history/ages/age_of_war": {
+    "out": [
+      "history/ages/age_of_healing",
+      "history/ages/age_of_tribulation"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "history/ages/age_of_healing",
+      "history/ages/age_of_tribulation",
+      "technology/doom_knights"
+    ]
+  },
   "nature/fauna/creatures/bloodbreath": {
     "out": [],
     "in": [
@@ -865,6 +954,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
       "campaigns/remnants_of_hope/remnants_of_hope",
+      "history/ages/age_of_reclamation",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/scourge"
     ]
@@ -955,7 +1045,12 @@
     ]
   },
   "technology/doom_knights": {
-    "out": [],
+    "out": [
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
+      "history/ages/age_of_war"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history"
     ]
@@ -1003,7 +1098,9 @@
     ]
   },
   "technology/skyfarer": {
-    "out": [],
+    "out": [
+      "history/ages/age_of_divinity"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city"
@@ -1020,7 +1117,9 @@
     ]
   },
   "technology/torchblade": {
-    "out": [],
+    "out": [
+      "history/ages/age_of_divinity"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history"
     ]
@@ -1043,17 +1142,17 @@
   "world_of_aroka": {
     "out": [
       "3dx_dice_system/3dx_dice_system",
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_healing",
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
+      "history/ages/age_of_tribulation",
+      "history/ages/age_of_war",
       "nature/fauna/creatures/great_serpents",
       "nature/fauna/creatures/lumberclaw",
       "nature/fauna/creatures/needleback",
       "nature/fauna/creatures/skimmer",
-      "nature/fauna/creatures/skullhound",
-      "nature/fauna/creatures/weaver",
       "nature/fauna/sapients/dryn",
-      "nature/flora/chokevine",
-      "nature/flora/pureroot",
-      "nature/flora/treehome",
-      "nature/phenomena/soulrot",
       "technology/blastbow",
       "technology/bowsling",
       "technology/landfarer",

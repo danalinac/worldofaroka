@@ -26,13 +26,13 @@
 </div>
 
 
-Mantle of the Fallen World was a 25‑session campaign centered on the search for the legendary Lost City of Pallium, believed to have been the technological capital of Aroka during the Age of Divinity. Ancient accounts described Pallium as a marvel of science and innovation — a city whose final days during the War of Ashes were marked by desperate attempts to create weapons capable of preventing the world’s destruction. Though those efforts ultimately failed, many believed that remnants of these creations still lay hidden within the city’s ruins.
+Mantle of the Fallen World was a 25‑session campaign centered on the search for the legendary Lost City of Pallium, believed to have been the technological capital of Aroka during the [[Age of Divinity]]. Ancient accounts described Pallium as a marvel of science and innovation — a city whose final days during the War of Ashes were marked by desperate attempts to create weapons capable of preventing the world’s destruction. Though those efforts ultimately failed, many believed that remnants of these creations still lay hidden within the city’s ruins.
 
-For centuries, the Lost Mountains remained too treacherous to traverse, preventing meaningful expeditions. Only in the 542nd year of the Age of Reclamation did a new path open, triggering a surge of adventurers, scholars, and representatives from powerful organizations to the Ruined Sea region.
+For centuries, the Lost Mountains remained too treacherous to traverse, preventing meaningful expeditions. Only in the 542nd year of the [[Age of Reclamation]] did a new path open, triggering a surge of adventurers, scholars, and representatives from powerful organizations to the Ruined Sea region.
 
 Among them were three unlikely companions — Jack, Serqet, and Perry — whose simple expedition into the mountains quickly escalated into a chain of crises. They were hunted through collapsing ruins, entangled in the struggles of Sanctum, drawn into the politics of a hidden Nature/Fauna/Sapients/[[Dryn]] valley, and cast into the depths of the Sunless Sea where ancient powers stirred.
 
-Their journey forced uneasy alliances, difficult sacrifices, and confrontations with forces far older than the Age of Reclamation. From the horrors buried beneath the Crumbling Labyrinth to the metallic guardians of Pallium itself, the party uncovered truths that challenged everything they believed about the past — and the future.
+Their journey forced uneasy alliances, difficult sacrifices, and confrontations with forces far older than the [[Age of Reclamation]]. From the horrors buried beneath the Crumbling Labyrinth to the metallic guardians of Pallium itself, the party uncovered truths that challenged everything they believed about the past — and the future.
 
 As factions clashed and long‑dormant powers awakened, the group faced choices that would determine whether Pallium’s legacy became salvation, ruin, or something far more complicated.
 

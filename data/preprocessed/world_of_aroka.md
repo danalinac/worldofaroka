@@ -28,6 +28,12 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Age of Divinity]] | 2026-10-31 | History, Ages |
+| [[Age of Healing]] | 2026-10-31 | History, Ages |
+| [[Age of Ice]] | 2026-10-31 | History, Ages |
+| [[Age of Reclamation]] | 2026-10-31 | History, Ages |
+| [[Age of Tribulation]] | 2026-10-31 | History, Ages |
+| [[Age of War]] | 2026-10-31 | History, Ages |
 | [[Blastbow]] | 2026-10-19 | Technology |
 | [[Bowsling]] | 2026-10-19 | Technology |
 | [[Landfarer]] | 2026-10-19 | Technology |
@@ -39,12 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | [[Lumberclaw]] | 2026-10-11 | Nature, Fauna, Creatures |
 | [[Needleback]] | 2026-10-11 | Nature, Fauna, Creatures |
 | [[Skimmer]] | 2026-10-11 | Nature, Fauna, Creatures |
-| [[Skullhound]] | 2026-10-11 | Nature, Fauna, Creatures |
-| [[Weaver]] | 2026-10-11 | Nature, Fauna, Creatures |
-| [[Chokevine]] | 2026-10-11 | Nature, Flora |
-| [[Pureroot]] | 2026-10-11 | Nature, Flora |
-| [[Treehome]] | 2026-10-11 | Nature, Flora |
-| [[Soulrot]] | 2026-10-11 | Nature, Phenomena |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

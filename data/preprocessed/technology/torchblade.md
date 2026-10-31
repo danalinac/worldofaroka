@@ -4,7 +4,7 @@
 
 
 
-A Torchbalde is one of the rarer tools carried by adventurers. Despite it's advanced design, it doesn't originate from Cogys, which has led many to believe it its from the Age of Divinity .
+A Torchbalde is one of the rarer tools carried by adventurers. Despite it's advanced design, it doesn't originate from Cogys, which has led many to believe it its from the [[Age of Divinity]] .
  
 At first glance, a Torchblade appears to be a small, decorative torch with a slot in its hilt. This slot is believe to hold a power cell of some sort. Tinkerers have managed to bridge the Technologies gap, using Various batteries or power sources to power the Torchblade, though many speculate this solution is far from sufficient to use its full potential.
  

@@ -28,6 +28,12 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_healing/" class="internal-link">Age of Healing</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_reclamation/" class="internal-link">Age of Reclamation</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_tribulation/" class="internal-link">Age of Tribulation</a> | 2026-10-31 | History, Ages |
+| <a href="/pages/history/ages/age_of_war/" class="internal-link">Age of War</a> | 2026-10-31 | History, Ages |
 | <a href="/pages/technology/blastbow/" class="internal-link">Blastbow</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/bowsling/" class="internal-link">Bowsling</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/landfarer/" class="internal-link">Landfarer</a> | 2026-10-19 | Technology |
@@ -39,12 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | <a href="/pages/nature/fauna/creatures/lumberclaw/" class="internal-link">Lumberclaw</a> | 2026-10-11 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/needleback/" class="internal-link">Needleback</a> | 2026-10-11 | Nature, Fauna, Creatures |
 | <a href="/pages/nature/fauna/creatures/skimmer/" class="internal-link">Skimmer</a> | 2026-10-11 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/fauna/creatures/skullhound/" class="internal-link">Skullhound</a> | 2026-10-11 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/fauna/creatures/weaver/" class="internal-link">Weaver</a> | 2026-10-11 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/flora/chokevine/" class="internal-link">Chokevine</a> | 2026-10-11 | Nature, Flora |
-| <a href="/pages/nature/flora/pureroot/" class="internal-link">Pureroot</a> | 2026-10-11 | Nature, Flora |
-| <a href="/pages/nature/flora/treehome/" class="internal-link">Treehome</a> | 2026-10-11 | Nature, Flora |
-| <a href="/pages/nature/phenomena/soulrot/" class="internal-link">Soulrot</a> | 2026-10-11 | Nature, Phenomena |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

@@ -1,0 +1,16 @@
+# Age of Ice
+
+---
+
+
+
+Following the Firefall and the War of Ashes, Aroka was plunged into the Age of Ice. Ash and smoke blotted out the Three Suns, snow dominated the globe, and the surface froze solid. The survivors of the beginning of the apocalypse weathered this new era by retreating beneath the earth, huddling inside what little infrastructure remained standing, or consolidated around the rare pockets of warmth, often in close proximity to geothermically active regions.
+
+Apart from the cold, the lack of resources and space also posed a significant threat as both creatures and people fought for what little remained. Even underground, where space was less of a concern, the creatures and peoples that already called the Depths their home did not take kindly to the refugees from the surface. 
+
+Finally, the suffocating canopy of ash and smoke was broken by masses of fire streaking across the sky. The Second Firefall did far less damage than the first and, shortly afterward, the light began to return and the world slowly but surely thawed. With the people of Arokan emerging from their shelters onto a new world, the [[Age of Reclamation]] began.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

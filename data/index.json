@@ -322,6 +322,48 @@
       "isFolder": false,
       "url": "/pages/characters/kagbar/"
     },
+    "history/ages/age_of_divinity": {
+      "title": "Age of Divinity",
+      "slug": "age_of_divinity",
+      "folderPath": "history/ages",
+      "isFolder": false,
+      "url": "/pages/history/ages/age_of_divinity/"
+    },
+    "history/ages/age_of_healing": {
+      "title": "Age of Healing",
+      "slug": "age_of_healing",
+      "folderPath": "history/ages",
+      "isFolder": false,
+      "url": "/pages/history/ages/age_of_healing/"
+    },
+    "history/ages/age_of_ice": {
+      "title": "Age of Ice",
+      "slug": "age_of_ice",
+      "folderPath": "history/ages",
+      "isFolder": false,
+      "url": "/pages/history/ages/age_of_ice/"
+    },
+    "history/ages/age_of_reclamation": {
+      "title": "Age of Reclamation",
+      "slug": "age_of_reclamation",
+      "folderPath": "history/ages",
+      "isFolder": false,
+      "url": "/pages/history/ages/age_of_reclamation/"
+    },
+    "history/ages/age_of_tribulation": {
+      "title": "Age of Tribulation",
+      "slug": "age_of_tribulation",
+      "folderPath": "history/ages",
+      "isFolder": false,
+      "url": "/pages/history/ages/age_of_tribulation/"
+    },
+    "history/ages/age_of_war": {
+      "title": "Age of War",
+      "slug": "age_of_war",
+      "folderPath": "history/ages",
+      "isFolder": false,
+      "url": "/pages/history/ages/age_of_war/"
+    },
     "nature/fauna/creatures/bloodbreath": {
       "title": "Bloodbreath",
       "slug": "bloodbreath",
@@ -563,6 +605,7 @@
         "about_3dx_and_aroka",
         "campaigns",
         "characters",
+        "history",
         "nature",
         "technology",
         "world_of_aroka"
@@ -655,6 +698,25 @@
         "characters/ione",
         "characters/jonesie",
         "characters/kagbar"
+      ]
+    },
+    "history": {
+      "title": "History",
+      "hubpage": null,
+      "children": [
+        "history/ages"
+      ]
+    },
+    "history/ages": {
+      "title": "Ages",
+      "hubpage": null,
+      "children": [
+        "history/ages/age_of_divinity",
+        "history/ages/age_of_healing",
+        "history/ages/age_of_ice",
+        "history/ages/age_of_reclamation",
+        "history/ages/age_of_tribulation",
+        "history/ages/age_of_war"
       ]
     },
     "nature": {
