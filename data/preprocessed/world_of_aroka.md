@@ -28,6 +28,9 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Altyrs]] | 2026-11-01 | Nature, Fauna, Sapients |
+| [[VarYn]] | 2026-11-01 | Nature, Fauna, Sapients |
+| [[The Void]] | 2026-11-01 | Nature, Phenomena |
 | [[Age of Divinity]] | 2026-10-31 | History, Ages |
 | [[Age of Healing]] | 2026-10-31 | History, Ages |
 | [[Age of Ice]] | 2026-10-31 | History, Ages |
@@ -42,9 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | [[Scoutskin]] | 2026-10-19 | Technology |
 | [[Skyfarer]] | 2026-10-19 | Technology |
 | [[Great Serpents]] | 2026-10-11 | Nature, Fauna, Creatures |
-| [[Lumberclaw]] | 2026-10-11 | Nature, Fauna, Creatures |
-| [[Needleback]] | 2026-10-11 | Nature, Fauna, Creatures |
-| [[Skimmer]] | 2026-10-11 | Nature, Fauna, Creatures |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

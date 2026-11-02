@@ -4,11 +4,11 @@
 
 
 
-While cultures throughout the ages have classified various aspects of the world differently, the most common system divides the world into layers based primarily on elevation above and depth below sea-level or the local average elevation. This results in the Void, the Peaks, the Heights, the Level, the Shallows, the Depths, the Underworld, and the Hearth.
+While cultures throughout the ages have classified various aspects of the world differently, the most common system divides the world into layers based primarily on elevation above and depth below sea-level or the local average elevation. This results in [[The Void|the Void]], the Peaks, the Heights, the Level, the Shallows, the Depths, the Underworld, and the Hearth.
 
-### The Void
+### <a href="obsidian://open?vault=Obsidian&file=Nature%2FPhenomena%2FThe%20Void">The Void</a>
 
-The Void is typically defined as higher than any flying creature can reach. It is where the the Voidgate and the Three Suns dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the Three Suns and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, the Void is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
+[[The Void]] is typically defined as higher than any flying creature can reach. It is where the the Voidgate and the Three Suns dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the Three Suns and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, [[The Void|the Void]] is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
 
 ### The Peaks
 
@@ -40,7 +40,7 @@ For those brave or foolish enough to venture well into the Depths and have the l
 
 There are no accredited reports of anyone venturing any deeper than the Underworld and returning, but those that claim to have braved the Underworld and lived to tell the tale speak of passages that burrow even deeper into the earth. The temperatures are often unbearable at this depth and those that have dared to even peer into these tunnels believe that they are not devoid of life, though none have been able to imagine what monsters would call burning heart of the world its home.
 
-Beliefs that hold the Void is the realm of the evil and wicked also hold the Hearth as the home of the benevolent and kind. They often claim that it is from here that the waters and nutrients the sustain life on Aroka's surface is created here and sent upward to care for the living. Upon death, followers of these faiths belief that the deeper a body can be laid to rest, the sooner the soul can descend into the Hearth and join their ancestors in sustaining the lives of their descendants.
+Beliefs that hold [[The Void|the Void]] is the realm of the evil and wicked also hold the Hearth as the home of the benevolent and kind. They often claim that it is from here that the waters and nutrients the sustain life on Aroka's surface is created here and sent upward to care for the living. Upon death, followers of these faiths belief that the deeper a body can be laid to rest, the sooner the soul can descend into the Hearth and join their ancestors in sustaining the lives of their descendants.
 
 
 ---

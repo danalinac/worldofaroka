@@ -44,7 +44,7 @@ Around noon of the third day, with the three suns high overhead, the party found
 
 With enough supplies to last a few more days, they continued traveling north.
 
-That night, not a single glimmer or glow punctuated the darkness, leaving their campfire as all that kept the void from swallowing them whole.
+That night, not a single glimmer or glow punctuated the darkness, leaving their campfire as all that kept [[The Void|the void]] from swallowing them whole.
 
 ##### AOR 542-5-84
 
@@ -70,7 +70,7 @@ However, their sleep that night was interrupted by a hulking creature lurking ju
 
 [[Ione]] and [[Jonesie]] did their best to distract the beast or drive it off, but to no avail. However, these efforts did have an effect: the Echoes took notice. The moment [[Jonesie]] tried to persuade the creature that their food was not worth its trouble, the Echoes immediately stopped, turned their gaze towards [[Ione]] and [[Jonesie]], then began to walk towards them with more appearing from deeper in the woods.
 
-[[Ione]] leapt out of the Echoes' Path and [[Jonesie]] scampered back. The Echoes kept walking towards [[Jonesie]], ignoring [[Ione]]. Unsure of what else to do, [[Jonesie]] ran past them and behind his allies as they stood against the beast, their shadows dancing against the trees and undergrowth. To his relief, the Echoes continued straight ahead and faded into the treeline. [[Jonesie]] didn’t try his trick again — not until he knew what in the Void had happened.
+[[Ione]] leapt out of the Echoes' Path and [[Jonesie]] scampered back. The Echoes kept walking towards [[Jonesie]], ignoring [[Ione]]. Unsure of what else to do, [[Jonesie]] ran past them and behind his allies as they stood against the beast, their shadows dancing against the trees and undergrowth. To his relief, the Echoes continued straight ahead and faded into the treeline. [[Jonesie]] didn’t try his trick again — not until he knew what in [[The Void|the Void]] had happened.
 
 The beast continued to ignore the many blows that chipped away at its bloodied, feathered hide while it ripped armor pieces and flesh from [[Boris]] and [[Kagbar]] with its powerful beak and claws. As a last resort, [[Boris]] snatched a bottle of liquor he had been saving and hurled it at the beast. It hit, though the creature seemed more annoyed than injured. However, [[Boris]] wasn't done. In a swift motion, he took hold of one of the logs in the fire and flung it towards the beast. An ear-piercing shriek resounded throughout the woods as the creature's feathers ignited. It took off towards the south, barreling through the underbrush and toppling saplings, screeching in terror the whole way.
 

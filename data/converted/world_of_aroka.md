@@ -28,6 +28,9 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
+| VarYn | 2026-11-01 | Nature, Fauna, Sapients |
+| <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> | 2026-11-01 | Nature, Phenomena |
 | <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> | 2026-10-31 | History, Ages |
 | <a href="/pages/history/ages/age_of_healing/" class="internal-link">Age of Healing</a> | 2026-10-31 | History, Ages |
 | <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a> | 2026-10-31 | History, Ages |
@@ -42,9 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | <a href="/pages/technology/scoutskin/" class="internal-link">Scoutskin</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/skyfarer/" class="internal-link">Skyfarer</a> | 2026-10-19 | Technology |
 | <a href="/pages/nature/fauna/creatures/great_serpents/" class="internal-link">Great Serpents</a> | 2026-10-11 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/fauna/creatures/lumberclaw/" class="internal-link">Lumberclaw</a> | 2026-10-11 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/fauna/creatures/needleback/" class="internal-link">Needleback</a> | 2026-10-11 | Nature, Fauna, Creatures |
-| <a href="/pages/nature/fauna/creatures/skimmer/" class="internal-link">Skimmer</a> | 2026-10-11 | Nature, Fauna, Creatures |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

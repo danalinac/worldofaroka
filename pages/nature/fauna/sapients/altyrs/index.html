@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Altyrs — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Altyrs</h1>
+<h2>The Misplaced</h2>
+<hr>
+<p>The people of Aroka are usually fit into broad yet defined groups: <a href="/pages/nature/fauna/sapients/anthropes/" class="internal-link">Anthropes</a>, <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a>, and <a href="/pages/nature/fauna/sapients/scourge/" class="internal-link">Scourge</a>. There are some outliers, such as the Bryd and Var’Yn, but even these can be argued to be a derivation or mix of the core three. However, there is a collection of rare peoples that cannot fit cleanly into any of the others and for one rather mundane reason: the number of limbs.</p>
+<p><a href="/pages/nature/fauna/sapients/anthropes/" class="internal-link">Anthropes</a>, Bryd, <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a>, <a href="/pages/nature/fauna/sapients/scourge/" class="internal-link">Scourge</a>, and most Var’Yn all have four limbs and sometimes a tail. However, the people grouped together as the Altyr usually have six. Such beings rarely interact with other Arokan populations and, in the few encounters that are recorded, they are often hostile with many maps marking areas where repeated attacks have occurred, often in tight groupings. Survivors or those with the sense to flee instead of fight described beings with an additional pair of arms, legs, wings, or one set of each.</p>
+<p>Reports are not detailed or numerous enough to draw any real conclusions apart from that these beings exist and are not mere animals as they are regularly clothed, communicated verbally, and use tools and weapons. Some scholars draw parallels to depictions of similar beings in ruins believed to predate even the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a>, but the body of evidence is too small for this to be anything beyond speculation.</p>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.&quot;</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"history/ages/age_of_divinity","title":"Age of Divinity"},{"slug":"nature/fauna/sapients/anthropes","title":"Anthropes"},{"slug":"nature/fauna/sapients/dryn","title":"Dryn"},{"slug":"about_3dx_and_aroka/page_history","title":"Page History"},{"slug":"nature/fauna/sapients/scourge","title":"Scourge"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"nature/fauna/sapients/altyrs"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

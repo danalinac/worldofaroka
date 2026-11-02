@@ -420,6 +420,13 @@
       "isFolder": false,
       "url": "/pages/nature/fauna/creatures/weaver/"
     },
+    "nature/fauna/sapients/altyrs": {
+      "title": "Altyrs",
+      "slug": "altyrs",
+      "folderPath": "nature/fauna/sapients",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/sapients/altyrs/"
+    },
     "nature/fauna/sapients/anthropes": {
       "title": "Anthropes",
       "slug": "anthropes",
@@ -440,6 +447,13 @@
       "folderPath": "nature/fauna/sapients",
       "isFolder": false,
       "url": "/pages/nature/fauna/sapients/scourge/"
+    },
+    "nature/fauna/sapients/var_yn": {
+      "title": "VarYn",
+      "slug": "var_yn",
+      "folderPath": "nature/fauna/sapients",
+      "isFolder": false,
+      "url": "/pages/nature/fauna/sapients/var_yn/"
     },
     "nature/flora/chokevine": {
       "title": "Chokevine",
@@ -496,6 +510,13 @@
       "folderPath": "nature/phenomena",
       "isFolder": false,
       "url": "/pages/nature/phenomena/soulrot/"
+    },
+    "nature/phenomena/the_void": {
+      "title": "The Void",
+      "slug": "the_void",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/the_void/"
     },
     "technology/blastbow": {
       "title": "Blastbow",
@@ -754,9 +775,11 @@
       "title": "Sapients",
       "hubpage": null,
       "children": [
+        "nature/fauna/sapients/altyrs",
         "nature/fauna/sapients/anthropes",
         "nature/fauna/sapients/dryn",
-        "nature/fauna/sapients/scourge"
+        "nature/fauna/sapients/scourge",
+        "nature/fauna/sapients/var_yn"
       ]
     },
     "nature/flora": {
@@ -776,7 +799,8 @@
         "nature/phenomena/layers_of_aroka",
         "nature/phenomena/shadows_of_the_ancients",
         "nature/phenomena/shard",
-        "nature/phenomena/soulrot"
+        "nature/phenomena/soulrot",
+        "nature/phenomena/the_void"
       ]
     },
     "technology": {

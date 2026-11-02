@@ -1,0 +1,18 @@
+# The Void
+
+---
+
+
+
+All that sits above Aroka is a vast, empty Void with only a handful of objects that punctuate its absolute darkness. The most prominent of these are the Three Voidlights: Valkena, Syrga, and Xaraka. These glowing white orbs provide light and warmth to the world during the day, moving at varying rates across the sky. It is not uncommon for them to pass each other, sometimes sitting so close together that they appear to be a single object. Their light is persistent apart from occasional events where they disappear behind a fourth object that is only visible when a sun nears it. 
+
+This object is called the Voidgate as many believe it is a means of reaching whatever lies beyond the Void. Some speculate that Aroka sits within a vast sphere and that the Voidgate grants passage to other spheres with other worlds that beings like the gods of the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> hailed from and where they fled to during the First Firefall. Ancient accounts, namely the handful preserved from the <a href="/pages/history/ages/age_of_war/" class="internal-link">Age of War</a> and even fewer remaining from the Age of Trials, report individuals that claimed to remember living on a world with a different set of Voidlights, where other planets were visible in the Void, or where the night was full of countless tiny Voidlights. These are often attributed to fraud or madness, but there are enough commonalities between the reports to make scholars wonder if there is at least some substance to them.
+
+The only other object visible in the sky is a faint fourth red Voidlight only visible at night and not even every night. Those that have studied this object, which is most commonly called Mera, will appear every night for a year or so before vanishing for many more. When close enough to Aroka, it causes Red Nights. Though the world isn't nearly as bright during the day, the red glow is sufficient to dispel the usual suffocating blackness. Strange events regularly occur during these nights, though the validity of these claims is often called into question due to how outlandish they are.
+
+Astute observers will also notice, when the first or last Voidlights of the day near the horizon, a silvery band arching from horizon to horizon. Whether this is the trick of the light or another object sitting within the void is debated, but the Voidarch is observed frequently enough to not be a figment of imagination. Some scholars point to records of a fifth Voidlight that moved entirely separate from the motion of the others and, on occasion, was visible even at night. Their theories suggest that the Voidarch is a trail left behind by fifth Voidlight, proposing that the other Voidlights leave similar trails that they would be too small to see due to their significantly smaller size.  All such records predate the First Firefall, so many assume that it was perhaps one of the gods that left through the Voidgate at the start of the apocalypse. This is partially affirmed by elderly scholars that claim to have been alive during the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a>, though they disagree that the fifth light was a god but rather a smaller barren planet that was destroyed during the First Firefall, leaving behind a trail of debris that now forms the Voidarch.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."
