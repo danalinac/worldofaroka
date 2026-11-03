@@ -19,14 +19,14 @@
   <div class=infobox-section>
     <h6>Key Locations</h6>
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Roa</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Eastern Echoes</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value><a href="obsidian://open?vault=Obsidian&file=Locations%2FRegions%2FEastern%20Echoes">Eastern Echoes</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Wild West</span></div>
     <div class=infobox-row><span class=label>Areas:</span><span class=value>Bandit Outpost, Short Beginnings, Tower of Knowledge Ruins</span></div>
   </div>
 </div>
 
 
-The campaign began in desperation, not destiny. Four unlikely companions — [[Boris]] the Boar‑Kin bounty hunter, [[Ione]] the Fennec Fox‑Kin thief, [[Jonesie]] the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and [[Kagbar]] the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the Eastern Echoes. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
+The campaign began in desperation, not destiny. Four unlikely companions — [[Boris]] the Boar‑Kin bounty hunter, [[Ione]] the Fennec Fox‑Kin thief, [[Jonesie]] the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and [[Kagbar]] the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the [[Eastern Echoes]]. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
 
 As they ventured deeper into the Wild West, they encountered the strange phenomena the region was known for: Echoes, spectral remnants of the [[Age of Divinity]]. Multiple encounters at the Fishing Pit force the party to adapt, exposing both the danger of power & the cost of exhaustion.
 

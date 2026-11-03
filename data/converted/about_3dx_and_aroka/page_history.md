@@ -11,6 +11,8 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/locations/regions/eastern_echoes/" class="internal-link">Eastern Echoes</a> | 2026-11-03 | Locations, Regions |
+| <a href="/pages/locations/islands/okanu/" class="internal-link">Okanu</a> | 2026-11-02 | Locations, Islands |
 | <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
 | VarYn | 2026-11-01 | Nature, Fauna, Sapients |
 | <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> | 2026-11-01 | Nature, Phenomena |

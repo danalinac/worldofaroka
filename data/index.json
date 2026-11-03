@@ -364,6 +364,20 @@
       "isFolder": false,
       "url": "/pages/history/ages/age_of_war/"
     },
+    "locations/islands/okanu": {
+      "title": "Okanu",
+      "slug": "okanu",
+      "folderPath": "locations/islands",
+      "isFolder": false,
+      "url": "/pages/locations/islands/okanu/"
+    },
+    "locations/regions/eastern_echoes": {
+      "title": "Eastern Echoes",
+      "slug": "eastern_echoes",
+      "folderPath": "locations/regions",
+      "isFolder": false,
+      "url": "/pages/locations/regions/eastern_echoes/"
+    },
     "nature/fauna/creatures/bloodbreath": {
       "title": "Bloodbreath",
       "slug": "bloodbreath",
@@ -627,6 +641,7 @@
         "campaigns",
         "characters",
         "history",
+        "locations",
         "nature",
         "technology",
         "world_of_aroka"
@@ -738,6 +753,28 @@
         "history/ages/age_of_reclamation",
         "history/ages/age_of_tribulation",
         "history/ages/age_of_war"
+      ]
+    },
+    "locations": {
+      "title": "Locations",
+      "hubpage": null,
+      "children": [
+        "locations/islands",
+        "locations/regions"
+      ]
+    },
+    "locations/islands": {
+      "title": "Islands",
+      "hubpage": null,
+      "children": [
+        "locations/islands/okanu"
+      ]
+    },
+    "locations/regions": {
+      "title": "Regions",
+      "hubpage": null,
+      "children": [
+        "locations/regions/eastern_echoes"
       ]
     },
     "nature": {

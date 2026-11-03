@@ -15,7 +15,7 @@
 
 
 
-Unfortunately, the <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> has ended prematurely due to half of the players no longer being able to attend. I have continued to flush out the details of the Eastern Echoes and the strange elements that would have played a role in this campaign in hopes that I will be able to start up a a game in this setting again and bring this place and time of Aroka to life.
+Unfortunately, the <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> has ended prematurely due to half of the players no longer being able to attend. I have continued to flush out the details of the <a href="/pages/locations/regions/eastern_echoes/" class="internal-link">Eastern Echoes</a> and the strange elements that would have played a role in this campaign in hopes that I will be able to start up a a game in this setting again and bring this place and time of Aroka to life.
 
 
 ---

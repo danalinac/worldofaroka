@@ -1,0 +1,18 @@
+# Okanu
+
+---
+
+
+
+In the center of the tumultuous Tryvyum Sea sits the jungle island of Okanu. Accredited as the only thing that allowed the nations of Cogys, Morydal, and Ohedyn to discover each other, it seemed only right to found the capital city of the Tryvyum Trade Consortium at its heart. While multiple other settlements and and strongholds have been set along its shores, Amyhra stands as a testament of cooperation and prosperity against the unrelenting wilderness and sea.
+
+While the security of Amyhra and the other populated footholds on the island is rarely contested, the same can not be said for the perilous wilds beyond the walls of civilization. The jungles are home to countless beasts and Feral Tribes that frequently inform outsiders that they are not welcome. Even on the cliffs and mountains the dense vegetation struggles to claim are prone to avalanches, rockslides, and hide their own flavor of creatures and beings hostile to newcomers. 
+
+One would think that the [[Seafarer|Seafarers]] and [[Waveroot|Waveroots]] that ship goods throughout the region would be safe as long as they kept far enough from shore, but even the waters pose their own threat. Apart from the aquatic creatures and peoples that call the depths and shallows home, the waters themselves are regularly churned by unyielding storms that have sent many crews to their doom. Only the Yova Bay in which Okanu is nestled provides any real safety for vessels traveling the Tryvyum Sea. As a vessel enters the island's shallows, it had best be wary of the shifting debris of past victims lying just beneath the surface.
+
+Despite its dangers, Okanu is still a symbol of diversity and prosperity as the rising civilizations of the [[Age of Reclamation]] strive to restore the wonders of old and call Aroka their home once again.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

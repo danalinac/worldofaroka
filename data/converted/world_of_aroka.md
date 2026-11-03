@@ -28,6 +28,8 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/locations/regions/eastern_echoes/" class="internal-link">Eastern Echoes</a> | 2026-11-03 | Locations, Regions |
+| <a href="/pages/locations/islands/okanu/" class="internal-link">Okanu</a> | 2026-11-02 | Locations, Islands |
 | <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
 | VarYn | 2026-11-01 | Nature, Fauna, Sapients |
 | <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> | 2026-11-01 | Nature, Phenomena |
@@ -43,8 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | <a href="/pages/technology/oceanfarer/" class="internal-link">Oceanfarer</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/ridgecloak/" class="internal-link">Ridgecloak</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/scoutskin/" class="internal-link">Scoutskin</a> | 2026-10-19 | Technology |
-| <a href="/pages/technology/skyfarer/" class="internal-link">Skyfarer</a> | 2026-10-19 | Technology |
-| <a href="/pages/nature/fauna/creatures/great_serpents/" class="internal-link">Great Serpents</a> | 2026-10-11 | Nature, Fauna, Creatures |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 
