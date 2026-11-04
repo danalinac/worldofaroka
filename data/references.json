@@ -98,6 +98,7 @@
       "history/ages/age_of_war",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
+      "locations/regions/ruined_lands",
       "nature/fauna/creatures/bloodbreath",
       "nature/fauna/creatures/great_serpents",
       "nature/fauna/creatures/lumberclaw",
@@ -722,6 +723,7 @@
     "out": [
       "3dx_dice_system/3dx_dice_system",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "locations/regions/ruined_lands",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
       "nature/phenomena/gaunt",
@@ -851,6 +853,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "history/ages/age_of_divinity",
       "history/ages/age_of_reclamation",
+      "locations/regions/ruined_lands",
       "nature/fauna/sapients/var_yn",
       "technology/doom_knights"
     ]
@@ -866,6 +869,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "history/ages/age_of_ice",
       "locations/islands/okanu",
+      "locations/regions/ruined_lands",
       "nature/fauna/sapients/var_yn",
       "technology/doom_knights"
     ]
@@ -920,6 +924,18 @@
       "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "campaigns/echoes_of_the_empire/eote_postmortem",
       "characters/kagbar"
+    ]
+  },
+  "locations/regions/ruined_lands": {
+    "out": [
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
+      "nature/phenomena/gaunt"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/remnants_of_hope/remnants_of_hope",
+      "nature/phenomena/gaunt"
     ]
   },
   "nature/fauna/creatures/bloodbreath": {
@@ -1079,13 +1095,15 @@
   },
   "nature/phenomena/gaunt": {
     "out": [
+      "locations/regions/ruined_lands",
       "world_of_aroka"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/remnants_of_hope/remnants_of_hope"
+      "campaigns/remnants_of_hope/remnants_of_hope",
+      "locations/regions/ruined_lands"
     ]
   },
   "nature/phenomena/layers_of_aroka": {
@@ -1251,6 +1269,7 @@
       "history/ages/age_of_war",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
+      "locations/regions/ruined_lands",
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
       "nature/phenomena/the_void",
@@ -1258,8 +1277,7 @@
       "technology/bowsling",
       "technology/landfarer",
       "technology/oceanfarer",
-      "technology/ridgecloak",
-      "technology/scoutskin"
+      "technology/ridgecloak"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",

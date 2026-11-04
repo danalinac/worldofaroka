@@ -19,7 +19,7 @@
   <div class=infobox-section>
     <h6>Key Locations</h6>
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, Ruined Lands, Undermount</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, <a href="/pages/locations/regions/ruined_lands/" class="internal-link">Ruined Lands</a>, Undermount</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Infested City, Lost Valley, Sanctuary, Sol, Solitude, Summit</span></div>
     <div class=infobox-row><span class=label>Areas:</span><span class=value>The Bastion, Lifespring Village, Deep Ruins</span></div>
   </div>

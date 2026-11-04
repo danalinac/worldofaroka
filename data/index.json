@@ -378,6 +378,13 @@
       "isFolder": false,
       "url": "/pages/locations/regions/eastern_echoes/"
     },
+    "locations/regions/ruined_lands": {
+      "title": "Ruined Lands",
+      "slug": "ruined_lands",
+      "folderPath": "locations/regions",
+      "isFolder": false,
+      "url": "/pages/locations/regions/ruined_lands/"
+    },
     "nature/fauna/creatures/bloodbreath": {
       "title": "Bloodbreath",
       "slug": "bloodbreath",
@@ -774,7 +781,8 @@
       "title": "Regions",
       "hubpage": null,
       "children": [
-        "locations/regions/eastern_echoes"
+        "locations/regions/eastern_echoes",
+        "locations/regions/ruined_lands"
       ]
     },
     "nature": {

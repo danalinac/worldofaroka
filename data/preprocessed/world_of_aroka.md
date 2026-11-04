@@ -28,6 +28,7 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Ruined Lands]] | 2026-11-04 | Locations, Regions |
 | [[Eastern Echoes]] | 2026-11-03 | Locations, Regions |
 | [[Okanu]] | 2026-11-02 | Locations, Islands |
 | [[Altyrs]] | 2026-11-01 | Nature, Fauna, Sapients |
@@ -44,7 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | [[Landfarer]] | 2026-10-19 | Technology |
 | [[Oceanfarer]] | 2026-10-19 | Technology |
 | [[Ridgecloak]] | 2026-10-19 | Technology |
-| [[Scoutskin]] | 2026-10-19 | Technology |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

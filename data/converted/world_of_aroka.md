@@ -28,6 +28,7 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/locations/regions/ruined_lands/" class="internal-link">Ruined Lands</a> | 2026-11-04 | Locations, Regions |
 | <a href="/pages/locations/regions/eastern_echoes/" class="internal-link">Eastern Echoes</a> | 2026-11-03 | Locations, Regions |
 | <a href="/pages/locations/islands/okanu/" class="internal-link">Okanu</a> | 2026-11-02 | Locations, Islands |
 | <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
@@ -44,7 +45,6 @@ I apologize, but I have did not upload any pages this week (20261025). I am in t
 | <a href="/pages/technology/landfarer/" class="internal-link">Landfarer</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/oceanfarer/" class="internal-link">Oceanfarer</a> | 2026-10-19 | Technology |
 | <a href="/pages/technology/ridgecloak/" class="internal-link">Ridgecloak</a> | 2026-10-19 | Technology |
-| <a href="/pages/technology/scoutskin/" class="internal-link">Scoutskin</a> | 2026-10-19 | Technology |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 
