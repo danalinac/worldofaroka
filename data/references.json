@@ -948,7 +948,6 @@
   "locations/regions/sandsea": {
     "out": [
       "nature/fauna/creatures/great_serpents",
-      "nature/fauna/creatures/skimmer",
       "technology/skyfarer"
     ],
     "in": [
@@ -1011,8 +1010,7 @@
       "locations/regions/sandsea"
     ],
     "in": [
-      "about_3dx_and_aroka/page_history",
-      "locations/regions/sandsea"
+      "about_3dx_and_aroka/page_history"
     ]
   },
   "nature/fauna/creatures/skullhound": {
