@@ -113,6 +113,7 @@
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/scourge",
+      "nature/fauna/sapients/var_yn",
       "nature/flora/chokevine",
       "nature/flora/pureroot",
       "nature/flora/treehome",
@@ -862,6 +863,7 @@
       "locations/regions/ruined_lands",
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/var_yn",
+      "nature/phenomena/shard",
       "technology/doom_knights"
     ]
   },
@@ -1107,7 +1109,9 @@
       "nature/fauna/sapients/scourge",
       "nature/phenomena/shard"
     ],
-    "in": []
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
   },
   "nature/flora/chokevine": {
     "out": [],
@@ -1157,7 +1161,9 @@
     ]
   },
   "nature/phenomena/shard": {
-    "out": [],
+    "out": [
+      "history/ages/age_of_ice"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "nature/fauna/sapients/var_yn",
@@ -1317,10 +1323,11 @@
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/var_yn",
+      "nature/phenomena/shard",
       "nature/phenomena/the_void",
       "technology/blastbow",
-      "technology/bowsling",
-      "technology/landfarer"
+      "technology/bowsling"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",

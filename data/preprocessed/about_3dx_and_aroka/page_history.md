@@ -11,13 +11,14 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Shard]] | 2026-11-06 | Nature, Phenomena |
 | [[Shadowed Sea]] | 2026-11-05 | Locations, Seas |
 | [[Ruined Lands]] | 2026-11-04 | Locations, Regions |
 | [[Sandsea]] | 2026-11-04 | Locations, Regions |
 | [[Eastern Echoes]] | 2026-11-03 | Locations, Regions |
 | [[Okanu]] | 2026-11-02 | Locations, Islands |
 | [[Altyrs]] | 2026-11-01 | Nature, Fauna, Sapients |
-| [[VarYn]] | 2026-11-01 | Nature, Fauna, Sapients |
+| [[Var-Yn]] | 2026-11-01 | Nature, Fauna, Sapients |
 | [[The Void]] | 2026-11-01 | Nature, Phenomena |
 | [[Age of Divinity]] | 2026-10-31 | History, Ages |
 | [[Age of Healing]] | 2026-10-31 | History, Ages |
@@ -42,7 +43,6 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | [[Pureroot]] | 2026-10-11 | Nature, Flora |
 | [[Treehome]] | 2026-10-11 | Nature, Flora |
 | [[Soulrot]] | 2026-10-11 | Nature, Phenomena |
-| [[Shard]] | 2026-10-04 | Nature, Phenomena |
 | [[Seafarer]] | 2026-10-04 | Technology |
 | [[The Decanter]] | 2026-10-04 | Technology |
 | [[Torchblade]] | 2026-10-04 | Technology |

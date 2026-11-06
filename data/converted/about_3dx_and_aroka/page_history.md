@@ -11,13 +11,14 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-11-06 | Nature, Phenomena |
 | <a href="/pages/locations/seas/shadowed_sea/" class="internal-link">Shadowed Sea</a> | 2026-11-05 | Locations, Seas |
 | <a href="/pages/locations/regions/ruined_lands/" class="internal-link">Ruined Lands</a> | 2026-11-04 | Locations, Regions |
 | <a href="/pages/locations/regions/sandsea/" class="internal-link">Sandsea</a> | 2026-11-04 | Locations, Regions |
 | <a href="/pages/locations/regions/eastern_echoes/" class="internal-link">Eastern Echoes</a> | 2026-11-03 | Locations, Regions |
 | <a href="/pages/locations/islands/okanu/" class="internal-link">Okanu</a> | 2026-11-02 | Locations, Islands |
 | <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
-| VarYn | 2026-11-01 | Nature, Fauna, Sapients |
+| <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a> | 2026-11-01 | Nature, Fauna, Sapients |
 | <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> | 2026-11-01 | Nature, Phenomena |
 | <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> | 2026-10-31 | History, Ages |
 | <a href="/pages/history/ages/age_of_healing/" class="internal-link">Age of Healing</a> | 2026-10-31 | History, Ages |
@@ -42,7 +43,6 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | <a href="/pages/nature/flora/pureroot/" class="internal-link">Pureroot</a> | 2026-10-11 | Nature, Flora |
 | <a href="/pages/nature/flora/treehome/" class="internal-link">Treehome</a> | 2026-10-11 | Nature, Flora |
 | <a href="/pages/nature/phenomena/soulrot/" class="internal-link">Soulrot</a> | 2026-10-11 | Nature, Phenomena |
-| <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-10-04 | Nature, Phenomena |
 | <a href="/pages/technology/seafarer/" class="internal-link">Seafarer</a> | 2026-10-04 | Technology |
 | <a href="/pages/technology/the_decanter/" class="internal-link">The Decanter</a> | 2026-10-04 | Technology |
 | <a href="/pages/technology/torchblade/" class="internal-link">Torchblade</a> | 2026-10-04 | Technology |

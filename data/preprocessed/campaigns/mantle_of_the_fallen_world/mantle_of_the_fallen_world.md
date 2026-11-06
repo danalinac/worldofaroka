@@ -44,7 +44,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 <!-- BEGIN STATIC TABLE:MOTFW-Sessions -->
 | <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
 | --- | --- | --- | --- |
-| [[MOTFW 25. The Lesser Evil]] | AOR 542-5-20 | Crab-Kin Temple, Palliums Core, [[VarYn]] Forward Lookout | Survivors of Pallium, [[VarYn]] |
+| [[MOTFW 25. The Lesser Evil]] | AOR 542-5-20 | Crab-Kin Temple, Palliums Core, VarYn Forward Lookout | Survivors of Pallium, VarYn |
 | [[MOTFW 24. The Final Fork]] | AOR 542-5-20 | Isle of Echoes, Crab-Kin Temple | Crab-Kin Cultist, The Secret Quill |
 | [[MOTFW 23. Revenge]] | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
 | [[MOTFW 22. Outnumbered and Out-Legged]] | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
