@@ -99,6 +99,8 @@
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
+      "locations/regions/sandsea",
+      "locations/seas/shadowed_sea",
       "nature/fauna/creatures/bloodbreath",
       "nature/fauna/creatures/great_serpents",
       "nature/fauna/creatures/lumberclaw",
@@ -280,6 +282,7 @@
     "out": [
       "3dx_dice_system/3dx_dice_system",
       "locations/islands/okanu",
+      "locations/regions/sandsea",
       "world_of_aroka"
     ],
     "in": [
@@ -363,6 +366,7 @@
       "history/ages/age_of_ice",
       "history/ages/age_of_reclamation",
       "locations/islands/okanu",
+      "locations/regions/sandsea",
       "nature/phenomena/gaunt",
       "technology/seafarer",
       "technology/skyfarer"
@@ -378,6 +382,7 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
+      "locations/regions/sandsea",
       "technology/the_decanter"
     ],
     "in": [
@@ -823,6 +828,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "history/ages/age_of_healing",
       "history/ages/age_of_ice",
+      "locations/seas/shadowed_sea",
       "nature/fauna/sapients/altyrs",
       "nature/phenomena/the_void",
       "technology/doom_knights",
@@ -854,6 +860,7 @@
       "history/ages/age_of_divinity",
       "history/ages/age_of_reclamation",
       "locations/regions/ruined_lands",
+      "locations/seas/shadowed_sea",
       "nature/fauna/sapients/var_yn",
       "technology/doom_knights"
     ]
@@ -938,6 +945,33 @@
       "nature/phenomena/gaunt"
     ]
   },
+  "locations/regions/sandsea": {
+    "out": [
+      "nature/fauna/creatures/great_serpents",
+      "nature/fauna/creatures/skimmer",
+      "technology/skyfarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/light_of_truth/light_of_truth",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "nature/fauna/creatures/skimmer",
+      "technology/ridgecloak",
+      "technology/skyfarer",
+      "technology/the_decanter"
+    ]
+  },
+  "locations/seas/shadowed_sea": {
+    "out": [
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_ice",
+      "technology/seafarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
+    ]
+  },
   "nature/fauna/creatures/bloodbreath": {
     "out": [],
     "in": [
@@ -947,7 +981,8 @@
   "nature/fauna/creatures/great_serpents": {
     "out": [],
     "in": [
-      "about_3dx_and_aroka/page_history"
+      "about_3dx_and_aroka/page_history",
+      "locations/regions/sandsea"
     ]
   },
   "nature/fauna/creatures/lumberclaw": {
@@ -972,9 +1007,12 @@
     ]
   },
   "nature/fauna/creatures/skimmer": {
-    "out": [],
+    "out": [
+      "locations/regions/sandsea"
+    ],
     "in": [
-      "about_3dx_and_aroka/page_history"
+      "about_3dx_and_aroka/page_history",
+      "locations/regions/sandsea"
     ]
   },
   "nature/fauna/creatures/skullhound": {
@@ -1186,7 +1224,9 @@
     ]
   },
   "technology/ridgecloak": {
-    "out": [],
+    "out": [
+      "locations/regions/sandsea"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history"
     ]
@@ -1210,6 +1250,7 @@
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "locations/islands/okanu",
+      "locations/seas/shadowed_sea",
       "technology/blastbow",
       "technology/oceanfarer",
       "technology/waveroot"
@@ -1217,15 +1258,19 @@
   },
   "technology/skyfarer": {
     "out": [
-      "history/ages/age_of_divinity"
+      "history/ages/age_of_divinity",
+      "locations/regions/sandsea"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
-      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city"
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "locations/regions/sandsea"
     ]
   },
   "technology/the_decanter": {
-    "out": [],
+    "out": [
+      "locations/regions/sandsea"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
@@ -1270,14 +1315,14 @@
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
+      "locations/regions/sandsea",
+      "locations/seas/shadowed_sea",
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
       "nature/phenomena/the_void",
       "technology/blastbow",
       "technology/bowsling",
-      "technology/landfarer",
-      "technology/oceanfarer",
-      "technology/ridgecloak"
+      "technology/landfarer"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",
