@@ -12,7 +12,7 @@
   </div>
   <div class=infobox-section>
     <h6>Key Players</h6>
-    <div class=infobox-row><span class=label>Factions:</span><span class=value>Children of Lex, Church of the Dying Light, Knights of the Scroll, the Last Hope, the Pallian Survivors, the Secret Quill, Sucker Outcasts, Reapers, the Var'Yn</span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Children of Lex, Church of the Dying Light, Knights of the Scroll, the Last Hope, the Pallian Survivors, the Secret Quill, Sucker Outcasts, Reapers, the <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a></span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Arch Vela, Arxst, Atalos, Cas Twyn, the Guide, the Hermit, Naloi, the Necromancer, O'Ard, Rasat, the Slayer, Ton</span></div>
     <div class=infobox-row><span class=label>PCs: </span><span class=value>Ahgytha, Athyna, Chapel, Jack, Perry, Serqet, Tyche</span></div>
   </div>
@@ -21,7 +21,7 @@
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Sona</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, Sunless Sea</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling City, the Crumbling Labyrinth, Lex-Gate Valley, the Lost Valley, Pallium, the Sea of Darkness, the Sea of Light, the Whispering Caverns</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Isle of Echoes, Kendathyl Warf, the Pillar, Sanctum, the Temple of the Dying Light</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>The Isle of Echoes, Kendathyl Wharf, the Pillar, Sanctum, the Temple of the Dying Light</span></div>
   </div>
 </div>
 
@@ -30,7 +30,7 @@ Mantle of the Fallen World was a 25‑session campaign centered on the search fo
 
 For centuries, the Lost Mountains remained too treacherous to traverse, preventing meaningful expeditions. Only in the 542nd year of the <a href="/pages/history/ages/age_of_reclamation/" class="internal-link">Age of Reclamation</a> did a new path open, triggering a surge of adventurers, scholars, and representatives from powerful organizations to the Ruined Sea region.
 
-Among them were three unlikely companions — Jack, Serqet, and Perry — whose simple expedition into the mountains quickly escalated into a chain of crises. They were hunted through collapsing ruins, entangled in the struggles of Sanctum, drawn into the politics of a hidden Nature/Fauna/Sapients/<a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> valley, and cast into the depths of the Sunless Sea where ancient powers stirred.
+Among them were three unlikely companions — Jack, Serqet, and Perry — whose simple expedition into the mountains quickly escalated into a chain of crises. They were hunted through collapsing ruins, entangled in the struggles of Sanctum, drawn into the politics of a hidden <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> valley, and cast into the depths of the Sunless Sea where ancient powers stirred.
 
 Their journey forced uneasy alliances, difficult sacrifices, and confrontations with forces far older than the <a href="/pages/history/ages/age_of_reclamation/" class="internal-link">Age of Reclamation</a>. From the horrors buried beneath the Crumbling Labyrinth to the metallic guardians of Pallium itself, the party uncovered truths that challenged everything they believed about the past — and the future.
 
@@ -44,7 +44,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 <!-- BEGIN STATIC TABLE:MOTFW-Sessions -->
 | <h6>title</h6> | <h6>Start</h6> | <h6>areas</h6> | <h6>factions</h6> |
 | --- | --- | --- | --- |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil/" class="internal-link">MOTFW 25. The Lesser Evil</a> | AOR 542-5-20 | Crab-Kin Temple, Palliums Core, VarYn Forward Lookout | Survivors of Pallium, VarYn |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil/" class="internal-link">MOTFW 25. The Lesser Evil</a> | AOR 542-5-20 | Crab-Kin Temple, Palliums Core, <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a> Forward Lookout | Survivors of Pallium, <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork/" class="internal-link">MOTFW 24. The Final Fork</a> | AOR 542-5-20 | Isle of Echoes, Crab-Kin Temple | Crab-Kin Cultist, The Secret Quill |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_23_revenge/" class="internal-link">MOTFW 23. Revenge</a> | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged/" class="internal-link">MOTFW 22. Outnumbered and Out-Legged</a> | AOR 542-5-16 | Isle of Echoes, Pincer Cavern | Pincers, The Secret Quill |
@@ -67,9 +67,9 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest/" class="internal-link">MOTFW 05. The Fungal Forest</a> | AOR 542-4-53 | The Fungal Forest, Sanctum, Scorpion-Kind Fortress | Fungal-Folk, The Last Hope, Scorpion-Kind |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope/" class="internal-link">MOTFW 04. Befriending the Last Hope</a> | AOR 542-4-50 | Beetle-Kind Fortress, the Crumbling Well, Sanctum | Beetle-Kind, The Last Hope |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Warf | Crevasse Merchants, Refugees |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a> | AOR 542-4-39 | Kendathyl Warf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard | <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Wharf | Crevasse Merchants, Refugees |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf/" class="internal-link">MOTFW 01. Welcome to the Wharf</a> | AOR 542-4-39 | Kendathyl Wharf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Wharf, Restrock Keep, Westguard | <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 
 

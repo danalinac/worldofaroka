@@ -112,12 +112,12 @@
       "isFolder": false,
       "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/"
     },
-    "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf": {
-      "title": "MOTFW 01. Welcome to the Warf",
-      "slug": "motfw_01_welcome_to_the_warf",
+    "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf": {
+      "title": "MOTFW 01. Welcome to the Wharf",
+      "slug": "motfw_01_welcome_to_the_wharf",
       "folderPath": "campaigns/mantle_of_the_fallen_world",
       "isFolder": false,
-      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/"
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf/"
     },
     "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains": {
       "title": "MOTFW 02. Into the Lost Mountains",
@@ -715,7 +715,7 @@
       "hubpage": "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "children": [
         "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-        "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+        "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
         "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
         "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
         "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",

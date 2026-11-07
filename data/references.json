@@ -60,7 +60,7 @@
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
@@ -294,7 +294,7 @@
     "out": [
       "3dx_dice_system/3dx_dice_system",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
@@ -325,13 +325,14 @@
       "nature/fauna/creatures/weaver",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/scourge",
+      "nature/fauna/sapients/var_yn",
       "nature/phenomena/gaunt",
       "world_of_aroka"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
@@ -362,7 +363,7 @@
   "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "history/ages/age_of_divinity",
       "history/ages/age_of_ice",
       "history/ages/age_of_reclamation",
@@ -375,10 +376,10 @@
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf"
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf"
     ]
   },
-  "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf": {
+  "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
@@ -396,14 +397,14 @@
   "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "technology/the_decanter"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth"
     ]
   },
@@ -428,7 +429,8 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_05_the_fungal_forest",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/var_yn"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -704,7 +706,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
-      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
+      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "nature/fauna/sapients/var_yn"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -717,7 +720,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/var_yn"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -732,6 +736,7 @@
       "locations/regions/ruined_lands",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/var_yn",
       "nature/phenomena/gaunt",
       "world_of_aroka"
     ],
@@ -870,7 +875,8 @@
   "history/ages/age_of_reclamation": {
     "out": [
       "history/ages/age_of_ice",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/var_yn"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -956,7 +962,7 @@
       "about_3dx_and_aroka/page_history",
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "nature/fauna/creatures/skimmer",
       "technology/ridgecloak",
       "technology/skyfarer",
@@ -1035,7 +1041,8 @@
       "history/ages/age_of_divinity",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
-      "nature/fauna/sapients/scourge"
+      "nature/fauna/sapients/scourge",
+      "nature/fauna/sapients/var_yn"
     ],
     "in": [
       "about_3dx_and_aroka/page_history"
@@ -1110,7 +1117,14 @@
       "nature/phenomena/shard"
     ],
     "in": [
-      "about_3dx_and_aroka/page_history"
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope",
+      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "campaigns/remnants_of_hope/remnants_of_hope",
+      "history/ages/age_of_reclamation",
+      "nature/fauna/sapients/altyrs"
     ]
   },
   "nature/flora/chokevine": {
@@ -1277,7 +1291,7 @@
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
-      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"

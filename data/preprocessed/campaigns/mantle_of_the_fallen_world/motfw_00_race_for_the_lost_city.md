@@ -20,7 +20,7 @@
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Duva, Ruined Sea, Sona, Tryvyum Sea</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, Morydal, <a href="obsidian://open?vault=Obsidian&file=Locations%2FIslands%2FOkanu">Okanu</a>, the <a href="obsidian://open?vault=Obsidian&file=Locations%2FRegions%2FSandsea">Sandsea</a>, Shattered Straight</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Yova Bay</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Amyhra, Gravestone, Kendathyl Warf, Restrock Keep, Westguard</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Amyhra, Gravestone, Kendathyl Wharf, Restrock Keep, Westguard</span></div>
     <div class=infobox-row><span class=label>Points:</span><span class=value></span></div>
   </div>
 </div>
@@ -33,7 +33,7 @@ Since the beginning of the [[Age of Ice]], the inhabitants of Aroka have kept al
 
 For the majority of the [[Age of Reclamation]], there was little hope of reaching Pallium and living to tell the tale is it is believed to be deep within the Lost Mountains near the northern end of the Shattered Straight. These mountains are infamous for their perilous peaks, aggressive wildlife, and near year-round ice and snow near its peaks. Whether attempting to fly over, travers through, or spelunk under, few have returned and those that have speak of great and terrible things dwelling within.
 
-Near the end of the 541st year of the [[Age of Reclamation]] when word of a comparatively safe and reliable path into the northern portion of the Lost Mountains began to spread. With the Dark Days and global winter of First Light rapidly appRoaching, few dared seek out this new route until after the new year, giving many lone adventures, guilds, and larger Organizations time to make plans and prepare. As soon as the first glimmer of light returned to Aroka following the Dark Days, the race was on.
+Near the end of the 541st year of the [[Age of Reclamation]] when word of a comparatively safe and reliable path into the northern portion of the Lost Mountains began to spread. With the Dark Days and global winter of First Light rapidly approaching, few dared seek out this new route until after the new year, giving many lone adventures, guilds, and larger Organizations time to make plans and prepare. As soon as the first glimmer of light returned to Aroka following the Dark Days, the race was on.
 
 Jack, a Hare-Kin from Ohedyn, had spent the Dark Days at Gravestone and immediately chartered a [[Skyfarer]] to explore a remote set of ruins on the eastern edge of the [[Sandsea]], so he was unaware of this news at first. He and his crew of independent adventurers and delvers hired Serqet, a Scorpion-Kin local and guide familiar with the ruins, to lead their expedition. What exactly transpired in the ruins is unclear, but only Jack and Serqet resurfaced and Jack was carrying a flail-like decanter emitting and strange blue glow. 
 
@@ -41,11 +41,11 @@ From there, the two took the [[Skyfarer]] across the [[Sandsea]], through Moryda
 
 Not wishing to linger in [[Gaunt]]-infested territory, the caravan hurried on. The following night, they were attacked by a particularly large [[Gaunt]] and were saved by a Platypus-Kin warrior named Perry, the lone survivor of Westguard. With no home to return to and the hope that Pallium may contain ancient weapons that could Destroy the [[Gaunt]] once and for all, he agreed to join Jack and Serqet on their quest. 
 
-The rest of the journey to Sol and then Kendathyl Warf at the northern end of the Lost Mountains was uneventful, arriving on the 39th day of the fourth month of the 542nd year of the [[Age of Reclamation]]. Here, they would make their final preparations before venturing into the treacherous Lost Mountains and brave whatever dangers it contained.
+The rest of the journey to Sol and then Kendathyl Wharf at the northern end of the Lost Mountains was uneventful, arriving on the 39th day of the fourth month of the 542nd year of the [[Age of Reclamation]]. Here, they would make their final preparations before venturing into the treacherous Lost Mountains and brave whatever dangers it contained.
 
 ---
 
-#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2001.%20Welcome%20to%20the%20Warf">MOTFW 01. Welcome to the Warf</a>
+#### Next Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2001.%20Welcome%20to%20the%20Wharf">MOTFW 01. Welcome to the Wharf</a>
 
 ---
 

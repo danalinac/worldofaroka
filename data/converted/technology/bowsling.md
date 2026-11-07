@@ -4,7 +4,7 @@
 
 
 
-This weapon looks like the handle of a bow that has had its arms replace by elastic strings or, in the case of more advanced Variants, spring-loaded pulleys. Initially developed as a stronger alternative to a slingshot developed in Morydal, it now serves as lightweight and more concealable alternative to a shortbow, possessing About the same power while being less effective over distance. It also fires bolts instead of arrows. Cogys engineering has create a composite Variant capable of dealing more, though the overall accuracy remains the same.
+This weapon looks like the handle of a bow that has had its arms replaced by elastic strings or, in the case of more advanced Variants, spring-loaded pulleys. Initially developed as a stronger alternative to a slingshot developed in Morydal, it now serves as lightweight and more concealable alternative to a shortbow, possessing About the same power while being less effective over distance. It also fires bolts instead of arrows. Cogys engineering has created a composite Variant capable of dealing more, though the overall accuracy remains the same.
 
 
 ---

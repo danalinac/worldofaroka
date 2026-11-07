@@ -4,7 +4,7 @@
 
 
 
-Though rare, some communities have either constructed or salvage land vehicles large enough to serve as mobile bunkers, homes, or shops. Few placed on Aroka have terrain that can accommodate vehicles of such size, but where it does, those with Landfarers dominate as long they maintain control of the rare resources needed to sustain them.
+Though rare, some communities have either constructed or salvaged land vehicles large enough to serve as mobile bunkers, homes, or shops. Few placed on Aroka have terrain that can accommodate vehicles of such size, but where it does, those with Landfarers dominate as long they maintain control of the rare resources needed to sustain them.
 
 
 ---

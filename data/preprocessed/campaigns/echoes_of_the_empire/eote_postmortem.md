@@ -15,7 +15,7 @@
 
 
 
-Unfortunately, the [[Echoes of the Empire]] has ended prematurely due to half of the players no longer being able to attend. I have continued to flush out the details of the [[Eastern Echoes]] and the strange elements that would have played a role in this campaign in hopes that I will be able to start up a a game in this setting again and bring this place and time of Aroka to life.
+Unfortunately, the [[Echoes of the Empire]] has ended prematurely due to half of the players no longer being able to attend. I have continued to flesh out the details of the [[Eastern Echoes]] and the strange elements that would have played a role in this campaign in hopes that I will be able to start up a game in this setting again and bring this place and time of Aroka to life.
 
 
 ---

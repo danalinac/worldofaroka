@@ -3,7 +3,7 @@
 
 ---
 
-#### Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a>
+#### Previous Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf/" class="internal-link">MOTFW 01. Welcome to the Wharf</a>
 
 
 ---
@@ -25,7 +25,7 @@
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
     <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains</span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Northern Slopes</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Destroyed Village, Frozen Cliffs, Kendathyl Warf</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Destroyed Village, Frozen Cliffs, Kendathyl Wharf</span></div>
     <div class=infobox-row><span class=label>Points:</span><span class=value>Ruined Cellar, Unmarked Grave</span></div>
   </div>
 </div>
@@ -34,15 +34,15 @@
 
 ##### AOR 542-4-43 
 
-Ready for whatever was ahead of them, the party set out in the company of two dozen other adventurers. While no animosity existed between the Various Parties, they all knew that they may come a time where they would need to prioritize their own success, so attempts were made a forging friendships or otherwise fostering familiarity. They traveled along in silence, keeping a respectable distance between each other.
+Ready for whatever was ahead of them, the party set out in the company of two dozen other adventurers. While no animosity existed between the various parties, they all knew that they may come a time where they would need to prioritize their own success, so attempts were made a forging friendships or otherwise fostering familiarity. They traveled along in silence, keeping a respectable distance between each other.
 
-The first day was uneventful as they followed a now well-worn path along the coast. The only obstacles were when runoff from the melting snow of the Lost Mountains washed out parts of the paths, requiring careful steps to avoid slipping and being swept away, likely down an embankment or over a cliff and into the sea. Fortunetly, no such incidents occurred. 
+The first day was uneventful as they followed a now well-worn path along the coast. The only obstacles were when runoff from the melting snow of the Lost Mountains washed out parts of the paths, requiring careful steps to avoid slipping and being swept away, likely down an embankment or over a cliff and into the sea. Fortunately, no such incidents occurred. 
 
 After setting up their respective camps, each party kept their own watch, not trusting the others to not try and sabotage them. During Perry's watch, he though he noticed a figure watching them from the treeline. He rose to investigate, but the figure hurried off. It seemed like they had good reason to not trust the others.
 
 ##### AOR 524-4-44
 
-The following day was only slightly more eventful. Halfway through the day, they came across a cart that had been caught up in one of the snow runoffs and had broken down. The flow was not strong enough to move it further, but the few individuals that had been riding in it, along with their pack animal, weren't going anywhere without assistant. Not wanting to be delayed, the party chose to push on, though one of the other Parties did stay behind to help the travelers.
+The following day was only slightly more eventful. Halfway through the day, they came across a cart that had been caught up in one of the snow runoffs and had broken down. The flow was not strong enough to move it further, but the few individuals that had been riding in it, along with their pack animal, weren't going anywhere without assistant. Not wanting to be delayed, the party chose to push on, though one of the other parties did stay behind to help the travelers.
 
 That night, Perry once again spotted detected something moving just out of sight, walking the perimeter of their camp. While not able to see the stalker, Perry did advance in the direction of the sounds, chasing off whatever it was.
 
@@ -54,7 +54,7 @@ Towards evening, they arrived at a Destroyed village. The Destruction suggested 
 
 Unable to alter that past, they searched for a suitable shelter among the ruined structures. Sleeping with a roof over their heads was an appreciated change of pace especially in light of the cold air blowing down from the mountains. They also wished to find a place that they could defend themselves from as it was clear someone was after them. Their thorough search of one of the more devastated buildings revealed a cellar hidden under a pile of ruble. Inside, they find a decayed body along with an assortment of supplies, including bandages and some food, though much of it had fouled from sharing such an enclosed space with a corpse. They removed the body and huddle in, even managing to fit their pack lizard in with them. They combined heat negated the need for warmth from a fire, so they slept as comfortably as they could in the cramped space.
 
-During the night, they head footsteps on the floor above. They deduced that three or four armored individuals were looking through the nearby buildings. Fortunetly, they did not spot the hatch to the cellar and moved on. The party was glad of their choice of resting place as whoever was stalking them had accomplices and, if the weight of their steps and rattling of their equipment was any indicator, well-armed. 
+During the night, they head footsteps on the floor above. They deduced that three or four armored individuals were looking through the nearby buildings. Fortunately, they did not spot the hatch to the cellar and moved on. The party was glad of their choice of resting place as whoever was stalking them had accomplices and, if the weight of their steps and rattling of their equipment was any indicator, well-armed. 
 
 ##### AOR 542-4-46
 
@@ -66,7 +66,7 @@ Still in need of rest, the party did their best to return to sleep, making sure 
 
 ##### AOR 542-4-47
 
-The commotion from the night before prompted the other Parties to wake up early and get a head start on the day, putting distance between themselves and the others. Appreciating the distance, the party was able to be more relaxed while traveling. This proved beneficial as snow now blanketed the ground. Gusts of thin cold air blew snow into their faces as they traveled, making the day a rather unpleasant one.
+The commotion from the night before prompted the other parties to wake up early and get a head start on the day, putting distance between themselves and the others. Appreciating the distance, the party was able to be more relaxed while traveling. This proved beneficial as snow now blanketed the ground. Gusts of thin cold air blew snow into their faces as they traveled, making the day a rather unpleasant one.
 
 Halfway through the day, they came across a lone tree standing atop a cliff. Beneath it appeared to be a grave. Believing their may be valuables buried with the body, Perry and Serqet dug up the grave while Jack seemed disinterested and somewhat bothered by their quickness to disturb the dead. As fate would have it, the body had been buried with most of its equipment, likely because whomever had laid their comrade to rest couldn't take on the additional weight of their equipment. The gear was still in decent condition, so the party added it to their inventory. Unbeknownst to the party, Serqet had contracted a disease from the body that would slowly begin to take its toll over the coming days.
 
@@ -74,9 +74,9 @@ As evening drew near, the party encountered a camp at the base of a tall cliff. 
 
 ##### AOR 542-4-48
 
- The party set out at dawn, trudging through the now fully winter landscape. It didn't take them long to reach a frozen cliff covered in carvings and scrapes from countless climbers. The dozens of former camp sites around its based suggested that the majority of those seeking Pallium had come this way. The voice of the Parties that had started out with reverberated against the wall of ice as they made their way up its face. Most utilized ropes and climbing gear to aide in their ascent while a few Ancestries more adept at climbing made their way unassisted.
+ The party set out at dawn, trudging through the now fully winter landscape. It didn't take them long to reach a frozen cliff covered in carvings and scrapes from countless climbers. The dozens of former camp sites around its based suggested that the majority of those seeking Pallium had come this way. The voice of the parties that had started out with reverberated against the wall of ice as they made their way up its face. Most utilized ropes and climbing gear to aid in their ascent while a few Ancestries more adept at climbing made their way unassisted.
  
-Just as the party was About to join the ascent, the mountain shook violently, shattering the wall of ice and bringing large chunks of earth, ice, snow, and stone onto those standing below. Several members of the party sustained some injuries, but nothing serious. The same could not be said for most members of the other Parties, especially those that were partway up the cliff face and had no opportunity to get clear of its collapse. The party helped who they could, but many were beyond saving. The survivors set up camp a short distance from the rubble, focusing their efforts on tending to the wounded and determining whether or not they could continue their quest. The party, not wishing to spend the night outside, especially in such close proximity to the dead and those trying to escape it, spotted openings now revealed in the cliff face and carefully climbed into them. To their surprise, it seemed that an ancient underground structure was concealed within the cliff, only now revealed after the ice and much of the surrounding stone had fallen away. Long dark passages of grey stone led deeper into the Lost Mountains, reeking of dust and decay from centuries of abandonment. The party found a room with a single entrance and barricaded themselves in, hoping that another quake wouldn't occur and, if it did, that these structures would fare as well as they had with the first one.
+Just as the party was About to join the ascent, the mountain shook violently, shattering the wall of ice and bringing large chunks of earth, ice, snow, and stone onto those standing below. Several members of the party sustained some injuries, but nothing serious. The same could not be said for most members of the otherpParties, especially those that were partway up the cliff face and had no opportunity to get clear of its collapse. The party helped who they could, but many were beyond saving. The survivors set up camp a short distance from the rubble, focusing their efforts on tending to the wounded and determining whether or not they could continue their quest. The party, not wishing to spend the night outside, especially in such close proximity to the dead and those trying to escape it, spotted openings now revealed in the cliff face and carefully climbed into them. To their surprise, it seemed that an ancient underground structure was concealed within the cliff, only now revealed after the ice and much of the surrounding stone had fallen away. Long dark passages of grey stone led deeper into the Lost Mountains, reeking of dust and decay from centuries of abandonment. The party found a room with a single entrance and barricaded themselves in, hoping that another quake wouldn't occur and, if it did, that these structures would fare as well as they had with the first one.
 
 ---
 

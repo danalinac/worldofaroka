@@ -8,7 +8,7 @@ While cultures throughout the ages have classified various aspects of the world 
 
 ### <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a>
 
-<a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> is typically defined as higher than any flying creature can reach. It is where the the Voidgate and the Three Suns dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the Three Suns and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, <a href="/pages/nature/phenomena/the_void/" class="internal-link">the Void</a> is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
+<a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> is typically defined as higher than any flying creature can reach. It is where the Voidgate and the Three Voidlights dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the Three Suns and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, <a href="/pages/nature/phenomena/the_void/" class="internal-link">the Void</a> is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
 
 ### The Peaks
 
@@ -30,7 +30,7 @@ For water, the Shallows is limited to how deep sunlight can reach on a sunny day
 
 ### The Depths
 
-The Depths of the Aroka are reached if it would take more than a day's travel to see sunlight again. The Depths of the sea are reached when one can no longer see any sunlight on a sunny day. In either case, there is often little interaction between what lives above and below the Depths, with those that live beneath it in the frigid darkness, called Deep Folk, being considered monstrous by those that live above. The creatures that dwell in this region are often lethal hunters and have inspired many a nightmarish tale, but the worst of which, by far, are the Reapers, which spend the majority of the year in the Depths, only venturing closer to the surface during times when sunlight is scare, particularly during the Dark Days.
+The Depths of the Aroka are reached if it would take more than a day's travel to see sunlight again. The Depths of the sea are reached when one can no longer see any sunlight on a sunny day. In either case, there is often little interaction between what lives above and below the Depths, with those that live beneath it in the frigid darkness, called Deep Folk, being considered monstrous by those that live above. The creatures that dwell in this region are often lethal hunters and have inspired many a nightmarish tale, but the worst of which, by far, are the Reapers, which spend the majority of the year in the Depths, only venturing closer to the surface during times when sunlight is scarce, particularly during the Dark Days.
 
 ### The Underworld
 
@@ -38,9 +38,9 @@ For those brave or foolish enough to venture well into the Depths and have the l
 
 ### The Hearth
 
-There are no accredited reports of anyone venturing any deeper than the Underworld and returning, but those that claim to have braved the Underworld and lived to tell the tale speak of passages that burrow even deeper into the earth. The temperatures are often unbearable at this depth and those that have dared to even peer into these tunnels believe that they are not devoid of life, though none have been able to imagine what monsters would call burning heart of the world its home.
+There are no accredited reports of anyone venturing any deeper than the Underworld and returning, but those that claim to have braved the Underworld and lived to tell the tale speak of passages that burrow even deeper into the earth. The temperatures are often unbearable at this depth and those that have dared to even peer into these tunnels believe that they are not devoid of life, though none have been able to imagine what monsters would call the burning heart of the world their home.
 
-Beliefs that hold <a href="/pages/nature/phenomena/the_void/" class="internal-link">the Void</a> is the realm of the evil and wicked also hold the Hearth as the home of the benevolent and kind. They often claim that it is from here that the waters and nutrients the sustain life on Aroka's surface is created here and sent upward to care for the living. Upon death, followers of these faiths belief that the deeper a body can be laid to rest, the sooner the soul can descend into the Hearth and join their ancestors in sustaining the lives of their descendants.
+Beliefs that hold <a href="/pages/nature/phenomena/the_void/" class="internal-link">the Void</a> is the realm of the evil and wicked also hold the Hearth as the home of the benevolent and kind. They often claim that it is from here that the waters and nutrients that sustain life on Aroka's surface are created here and sent upward to care for the living. Upon death, followers of these faiths belief that the deeper a body can be laid to rest, the sooner the soul can descend into the Hearth and join their ancestors in sustaining the lives of their descendants.
 
 
 ---

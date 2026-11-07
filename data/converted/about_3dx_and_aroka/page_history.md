@@ -5,7 +5,7 @@
 
 
 
-Of note, I will sometimes make minor changes to pages that have already been published. This can range from correct grammar errors, polishing the tone or verbiage, or adding a minor detail. However, if I make substantive changes to a page, I will delete the original and recreate it, generating a new Publish date. So if a page you think you have viewed before pops up as a recent addition, check it out and see what's new!
+Of note, I will sometimes make minor changes to pages that have already been published. This can range from correcting grammar errors, polishing the tone or verbiage, or adding a minor detail. However, if I make substantive changes to a page, I will delete the original and recreate it, generating a new Publish date. So if a page you think you have viewed before pops up as a recent addition, check it out and see what's new!
 
 
 <!-- BEGIN STATIC TABLE:All-Pages -->
@@ -86,7 +86,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_08_siege_on_the_pillar/" class="internal-link">MOTFW 08. Siege on the Pillar</a> | 2026-08-24 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | 2026-08-23 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | 2026-08-23 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_warf/" class="internal-link">MOTFW 01. Welcome to the Warf</a> | 2026-08-22 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf/" class="internal-link">MOTFW 01. Welcome to the Wharf</a> | 2026-08-22 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> | 2026-08-21 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | 2026-08-21 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends/" class="internal-link">EOTE 05. Strange Foes and Friends</a> | 2026-08-20 | Campaigns, <a href="/pages/campaigns/echoes_of_the_empire/echoes_of_the_empire/" class="internal-link">Echoes of the Empire</a> |

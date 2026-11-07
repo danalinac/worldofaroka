@@ -4,9 +4,9 @@
 
 
 
-One of the most prized exports of Ohedyn is Pureroot. This herb is often eaten, drank in the form of team, or even inhaled by those wishing to become more one with Nature. It facilitates communion with plants and wildlife. Over time, this can result in its users slowly losing the faculties that make them sentient and social. They don't lose their minds, but they begin to withdraw from society, preferring to resort themselves to the natural world. 
+One of the most prized exports of Ohedyn is Pureroot. This herb is often eaten, drank in the form of tea, or even inhaled by those wishing to become more one with Nature. It facilitates communion with plants and wildlife. Over time, this can result in its users slowly losing the faculties that make them sentient and social. They don't lose their minds, but they begin to withdraw from society, preferring to resort themselves to the natural world. 
  
-Cogys studies Pureroot for advanced chemical and medicinal properties while Morydal uses to enhance the abilities of their scouts when searching for prey, vegetation, or water.
+Cogys studies Pureroot for advanced chemical and medicinal properties while Morydal uses it to enhance the abilities of their scouts when searching for prey, vegetation, or water.
 
 
 ---

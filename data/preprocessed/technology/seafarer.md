@@ -8,8 +8,7 @@ The [[World of Aroka]] is a dangerous place on land, even more so at sea. Bravin
 
 All this changed when Cogys used the knowledge gained from the ancient ruins their nation is built upon to craft thick hulls capable of withstanding the dangers of the sea. Ovular tubes powered by Cogys engineering that slice through the waves and can even be momentarily submerged without taking on any water allowed Cogys explorers to brave the sea and explore beyond the confines of their nation. This invention led to the discovery of [[Okanu]] and the connection with both Morydal and Ohedyn, paving the way for the formation of the Consortium. Now, they serve as cargo vessels, exchanging their more mundane inventions for special resources from the Other nations such as fruits, gems, metals, and [[Shard]]. 
 
-Morydal, lacking the resources to construct their own vessels, have traded a large supply of their gems, metals, and [[Shard]] to acquire old or outdated versions of the Seafarer, giving them some capacity to control their own trade and transport, but they are still heavily dependent on Cogys for trade. 
-Ohedyn has not interest in these vessels, preferring to grown their own [[Waveroot]] vessels to travel across the sea.
+Morydal, lacking the resources to construct their own vessels, have traded a large supply of their gems, metals, and [[Shard]] to acquire old or outdated versions of the Seafarer, giving them some capacity to control their own trade and transport, but they are still heavily dependent on Cogys for trade. Ohedyn has no interest in these vessels, preferring to grow their own [[Waveroot]] vessels to travel across the sea.
 
 
 ---

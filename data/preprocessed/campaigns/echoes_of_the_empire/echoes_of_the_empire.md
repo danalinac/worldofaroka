@@ -14,7 +14,7 @@
     <h6>Key Players</h6>
     <div class=infobox-row><span class=label>Factions:</span><span class=value>Bandits</span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Falin, Graff, Ryna</span></div>
-    <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="obsidian://open?vault=Obsidian&file=Characters%2FBoris">Boris</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FIone">Ione</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FJonesie">Jonesie</a> & his 5 Racoon-Folk, <a href="obsidian://open?vault=Obsidian&file=Characters%2FKagbar">Kagbar</a></span></div>
+    <div class=infobox-row><span class=label>PCs:</span><span class=value><a href="obsidian://open?vault=Obsidian&file=Characters%2FBoris">Boris</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FIone">Ione</a>, <a href="obsidian://open?vault=Obsidian&file=Characters%2FJonesie">Jonesie</a> & his 5 Raccoon-Folk, <a href="obsidian://open?vault=Obsidian&file=Characters%2FKagbar">Kagbar</a></span></div>
   </div>
   <div class=infobox-section>
     <h6>Key Locations</h6>
@@ -26,11 +26,11 @@
 </div>
 
 
-The campaign began in desperation, not destiny. Four unlikely companions — [[Boris]] the Boar‑Kin bounty hunter, [[Ione]] the Fennec Fox‑Kin thief, [[Jonesie]] the Alpaca‑Folk cult leader accompanied by five Racoon‑Folk, and [[Kagbar]] the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the [[Eastern Echoes]]. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
+The campaign began in desperation, not destiny. Four unlikely companions — [[Boris]] the Boar‑Kin bounty hunter, [[Ione]] the Fennec Fox‑Kin thief, [[Jonesie]] the Alpaca‑Folk cult leader accompanied by five Raccoon‑Folk, and [[Kagbar]] the Lion‑Kin outcast — bound by poverty & necessity found themselves scraping out a living on the harsh frontier of the [[Eastern Echoes]]. Bandits, hostile wildlife, & scarce resources defined their earliest struggles, teaching them caution through blood & hunger rather than wisdom.
 
 As they ventured deeper into the Wild West, they encountered the strange phenomena the region was known for: Echoes, spectral remnants of the [[Age of Divinity]]. Multiple encounters at the Fishing Pit force the party to adapt, exposing both the danger of power & the cost of exhaustion.
 
-Their return to civilization offered no respite. Short Beginnings was teetering on collapse, its lifeline stolen along the Dynisin River by organized bandits. Investigation leaded to a dangerous entanglement with the very criminals they sought to stop, culminating in an uneasy alliance, brutal tests of worth, & a descent into ancient ruins swarmed in Echoes.
+Their return to civilization offered no respite. Short Beginnings was teetering on collapse, its lifeline stolen along the Dynisin River by organized bandits. Investigation lead to a dangerous entanglement with the very criminals they sought to stop, culminating in an uneasy alliance, brutal tests of worth, & a descent into ancient ruins swarmed in Echoes.
 
 At the heart of those ruins, something awakened. A mysterious sword hilt, accompanied by a strange voice speaking only to [[Kagbar]], told of a great quest he must accomplish, but refused to elaborate until its trust had been earned. In claiming the artifact, the party silenced the Echoes within the ruins, but ignited pursuit, betrayal, & something far older.
 

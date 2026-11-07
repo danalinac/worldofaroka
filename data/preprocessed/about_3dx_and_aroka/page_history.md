@@ -5,7 +5,7 @@
 
 
 
-Of note, I will sometimes make minor changes to pages that have already been published. This can range from correct grammar errors, polishing the tone or verbiage, or adding a minor detail. However, if I make substantive changes to a page, I will delete the original and recreate it, generating a new Publish date. So if a page you think you have viewed before pops up as a recent addition, check it out and see what's new!
+Of note, I will sometimes make minor changes to pages that have already been published. This can range from correcting grammar errors, polishing the tone or verbiage, or adding a minor detail. However, if I make substantive changes to a page, I will delete the original and recreate it, generating a new Publish date. So if a page you think you have viewed before pops up as a recent addition, check it out and see what's new!
 
 
 <!-- BEGIN STATIC TABLE:All-Pages -->
@@ -86,7 +86,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | [[MOTFW 08. Siege on the Pillar]] | 2026-08-24 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 02. Into the Lost Mountains]] | 2026-08-23 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 03. The Crumbling Labyrinth]] | 2026-08-23 | Campaigns, [[Mantle of the Fallen World]] |
-| [[MOTFW 01. Welcome to the Warf]] | 2026-08-22 | Campaigns, [[Mantle of the Fallen World]] |
+| [[MOTFW 01. Welcome to the Wharf]] | 2026-08-22 | Campaigns, [[Mantle of the Fallen World]] |
 | [[Mantle of the Fallen World]] | 2026-08-21 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 00. Race for the Lost City]] | 2026-08-21 | Campaigns, [[Mantle of the Fallen World]] |
 | [[EOTE 05. Strange Foes and Friends]] | 2026-08-20 | Campaigns, [[Echoes of the Empire]] |

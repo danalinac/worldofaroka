@@ -16,7 +16,7 @@
   <div class=infobox-section>
     <h6>Participants</h6>
     <div class=infobox-row><span class=label>Factions:</span><span class=value>Crab-Kin Cultist, The Secret Quill</span></div>
-    <div class=infobox-row><span class=label>NPCs:</span><span class=value>The Guide, Var'Yn Scout</span></div>
+    <div class=infobox-row><span class=label>NPCs:</span><span class=value>The Guide, <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FVar-Yn">Var-Yn</a> Scout</span></div>
     <div class=infobox-row><span class=label>PCs:</span><span class=value>Ahgythah, Athyna, Chapel, Jack, Perry, Tyche</span></div>
   </div>
   <div class=infobox-section>
@@ -34,9 +34,9 @@
 
 The party awoke with the cavern shaking around them. It had been a long time since they had felt earthquakes and they weren't thrilled at the thought of experiencing more of them while underground. However, the cavern remained intact. Looking around, they noticed that the Guide and their boat was nowhere to be seen. The Secret Quill guards that had been watching over them reported that the Guide had left while the party slept, but assured the guards that he would return later in the morning.
 
-As promised, the Guide returned after a few hours. They began by removing their hood to reveal a robotic head. They informed the party that members of Pallium's elite had transferred their spirits into robotic hosts, allowing them to survive the cold, drought, and famine that followed the War of Ashes. They also informed them that Pallium was in danger. The army of Var'Yn that had preceded the party was attempting to unthaw a colossal Var'Yn from beneath a frozen lake in the valley beyond Pallium so that they could breach the city's defenses and claim its technologies for themselves. In response, the Pallians were collecting whatever energy they could to awaken their own titan: a robotic monster designed during the War of Ashes but was never completed. 
+As promised, the Guide returned after a few hours. They began by removing their hood to reveal a robotic head. They informed the party that members of Pallium's elite had transferred their spirits into robotic hosts, allowing them to survive the cold, drought, and famine that followed the War of Ashes. They also informed them that Pallium was in danger. The army of [[Var-Yn]] that had preceded the party was attempting to unthaw a colossal [[Var-Yn]] from beneath a frozen lake in the valley beyond Pallium so that they could breach the city's defenses and claim its technologies for themselves. In response, the Pallians were collecting whatever energy they could to awaken their own titan: a robotic monster designed during the War of Ashes but was never completed. 
 
-The Guide implored the party to help the people of Pallium defeat the Var'Yn. They feared that a new war was coming and they needed to go on the offense and convert as many life forms as they could to robotic forms to survive the coming conflict. To do so, the party would need to defeat one of Pallium's robotic war machines that had been captured by a colony of Crab-Kin and retrieve its power core. 
+The Guide implored the party to help the people of Pallium defeat the [[Var-Yn]]. They feared that a new war was coming and they needed to go on the offense and convert as many life forms as they could to robotic forms to survive the coming conflict. To do so, the party would need to defeat one of Pallium's robotic war machines that had been captured by a colony of Crab-Kin and retrieve its power core. 
 
 While unsure of the Pallians' plan to convert all organic life to mechanical life, they felt they didn't have Other options, so they agreed to help. They took the Guide's boat through the Whispering Caverns until they reached a cavern with a strange structure rising from the water. Faint candlelight emanated from numerous holes in its exterior, allowing the party to make out the silhouette of several Crab-Kin guards standing watch. Since the Guide did not need light to see, they brought the boat in close as silently as possible, giving the party the opportunity to eliminate the guard with ranged attacks.
 
@@ -44,11 +44,11 @@ Once inside the structure, the Guide left them in order to plead their case to t
 
 The battle was tough, but the party prevailed, though not without significant injury. The giant crab war machine was especially difficult as its armor made it very difficult to damage. However, they prevailed, bringing down the giant with only a handful of very close brushes with death. Ahgythah, especially, had taken the brunt of its attacks and was barely clinging to life.
 
-As the party extracted the power core from the robotic crab and salvaged whatever else they could from the structure, they suddenly realized they were not alone. A dark figure was perched in the rafters above, barely detectable by the magic users in the party. The figure was not aggressive and, after some coaxing, was convinced to drop down to a lower set of rafters, allowing the party to see it in the dim light. It was a Var'Yn.
+As the party extracted the power core from the robotic crab and salvaged whatever else they could from the structure, they suddenly realized they were not alone. A dark figure was perched in the rafters above, barely detectable by the magic users in the party. The figure was not aggressive and, after some coaxing, was convinced to drop down to a lower set of rafters, allowing the party to see it in the dim light. It was a [[Var-Yn]].
 
-The Var'Yn explained that it was there to retrieve the power core as its essence could be used to free its ancient brother frozen beneath a lake above. It also explained that the Var'Yn wished to protect the world from forces that would want to conquer it. In order to do so, they would need to claim the Technologies of Pallium for themselves. 
+The [[Var-Yn]] explained that it was there to retrieve the power core as its essence could be used to free its ancient brother frozen beneath a lake above. It also explained that the [[Var-Yn]] wished to protect the world from forces that would want to conquer it. In order to do so, they would need to claim the Technologies of Pallium for themselves. 
 
-Though the party was still unsure of the Var'Yn' true intentions, their goals didn't involve turning everyone into robots, so the party decided to side with the Var'Yn and agreed to either delay or incapacitate the Guide so that they could maintain the element of surprise. They had reached the final fork in the Road and had made their choice.
+Though the party was still unsure of the [[Var-Yn|Var-Yn's]] true intentions, their goals didn't involve turning everyone into robots, so the party decided to side with the [[Var-Yn]] and agreed to either delay or incapacitate the Guide so that they could maintain the element of surprise. They had reached the final fork in the Road and had made their choice.
 
 ---
 
