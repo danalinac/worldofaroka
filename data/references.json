@@ -1314,8 +1314,6 @@
       "history/ages/age_of_healing",
       "history/ages/age_of_ice",
       "history/ages/age_of_reclamation",
-      "history/ages/age_of_tribulation",
-      "history/ages/age_of_war",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -1325,9 +1323,7 @@
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
       "nature/phenomena/shard",
-      "nature/phenomena/the_void",
-      "technology/blastbow",
-      "technology/bowsling"
+      "nature/phenomena/the_void"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",

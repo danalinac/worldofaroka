@@ -39,10 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Age of Healing]] | 2026-10-31 | History, Ages |
 | [[Age of Ice]] | 2026-10-31 | History, Ages |
 | [[Age of Reclamation]] | 2026-10-31 | History, Ages |
-| [[Age of Tribulation]] | 2026-10-31 | History, Ages |
-| [[Age of War]] | 2026-10-31 | History, Ages |
-| [[Blastbow]] | 2026-10-19 | Technology |
-| [[Bowsling]] | 2026-10-19 | Technology |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 
