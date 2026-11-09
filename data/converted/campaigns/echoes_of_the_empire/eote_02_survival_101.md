@@ -38,7 +38,7 @@ The party trudged through the hilly forests of the Wild West, using the towering
 
 ##### AOR 542-5-83
 
-Around noon of the third day, with the three suns high overhead, the party found themselves standing atop a cliff overlooking a ten-meter-deep pit dominated by murky water. A steep staircase that had been carved from the cliff-face led down to a beach below. Even from this height, the party could see abandoned lines and nets as well as tents in disrepair. Faded bloodstains dotted the shore in what appeared to be drag-marks that disappeared into the water.
+Around noon of the third day, with the three Voidlights high overhead, the party found themselves standing atop a cliff overlooking a ten-meter-deep pit dominated by murky water. A steep staircase that had been carved from the cliff-face led down to a beach below. Even from this height, the party could see abandoned lines and nets as well as tents in disrepair. Faded bloodstains dotted the shore in what appeared to be drag-marks that disappeared into the water.
 
 <a href="/pages/characters/boris/" class="internal-link">Boris</a> and <a href="/pages/characters/kagbar/" class="internal-link">Kagbar</a> found a moderately large boulder and pushed it over the edge of the cliff. The shattering of rock reverberated throughout the pit as it bounced off of several lips in the cliff-face before splashing into the water. Through the debris and ripples, the party could see a large dark shape emerge from the depths to inspect  the disturbance. They were unable to identify what it was, but determined they didn't want to deal with it unless they could coax it onto shore.
 

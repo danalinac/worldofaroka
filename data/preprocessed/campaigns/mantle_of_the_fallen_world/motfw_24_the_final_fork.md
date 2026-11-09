@@ -22,7 +22,7 @@
   <div class=infobox-section>
     <h6>Locations</h6>
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Whispering Caverns</span></div>
     <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Echoes, Crab-Kin Temple</span></div>
   </div>

@@ -224,12 +224,12 @@
       "isFolder": false,
       "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/"
     },
-    "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea": {
-      "title": "MOTFW 17. The Sunless Sea",
-      "slug": "motfw_17_the_sunless_sea",
+    "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea": {
+      "title": "MOTFW 17. The Shadowed Sea",
+      "slug": "motfw_17_the_shadowed_sea",
       "folderPath": "campaigns/mantle_of_the_fallen_world",
       "isFolder": false,
-      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea/"
+      "url": "/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea/"
     },
     "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights": {
       "title": "MOTFW 18. The Isle of Lights",
@@ -511,6 +511,13 @@
       "isFolder": false,
       "url": "/pages/nature/flora/treehome/"
     },
+    "nature/phenomena/dark_days": {
+      "title": "Dark Days",
+      "slug": "dark_days",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/dark_days/"
+    },
     "nature/phenomena/gaunt": {
       "title": "Gaunt",
       "slug": "gaunt",
@@ -731,7 +738,7 @@
         "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
         "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
         "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-        "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+        "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
         "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
         "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
         "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
@@ -863,6 +870,7 @@
       "title": "Phenomena",
       "hubpage": null,
       "children": [
+        "nature/phenomena/dark_days",
         "nature/phenomena/gaunt",
         "nature/phenomena/layers_of_aroka",
         "nature/phenomena/shadows_of_the_ancients",

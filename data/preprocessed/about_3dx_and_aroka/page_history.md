@@ -11,6 +11,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Dark Days]] | 2026-11-09 | Nature, Phenomena |
 | [[Shard]] | 2026-11-06 | Nature, Phenomena |
 | [[Shadowed Sea]] | 2026-11-05 | Locations, Seas |
 | [[Ruined Lands]] | 2026-11-04 | Locations, Regions |
@@ -68,7 +69,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | [[MOTFW 24. The Final Fork]] | 2026-09-06 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 25. The Lesser Evil]] | 2026-09-06 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 16. Nobody Expects the Inquisition]] | 2026-09-04 | Campaigns, [[Mantle of the Fallen World]] |
-| [[MOTFW 17. The Sunless Sea]] | 2026-09-04 | Campaigns, [[Mantle of the Fallen World]] |
+| [[MOTFW 17. The [[Shadowed Sea]]]] | 2026-09-04 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 18. The Isle of Lights]] | 2026-09-04 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 19. The Temple of the Dying Light]] | 2026-09-04 | Campaigns, [[Mantle of the Fallen World]] |
 | [[MOTFW 20. On the Edge of Darkness]] | 2026-09-04 | Campaigns, [[Mantle of the Fallen World]] |

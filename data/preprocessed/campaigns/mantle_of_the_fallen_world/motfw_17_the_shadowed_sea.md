@@ -1,4 +1,4 @@
-# The Sunless Sea
+# The <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a>
 ### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 17
 ---
 
@@ -22,9 +22,9 @@
   <div class=infobox-section>
     <h6>Locations</h6>
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Lex-Gate Caverns, Lex-Gate Valley, Sea of Light</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Sunless Shores</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Shadowed Shores</span></div>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ During their first day in the caverns, the party traveled to the room where they
 
 After fully recovering, the party made their way through the caverns to the passage that led to the underground sea. In the distance, a bright light atop a tower shown across the region, illuminating the Sea of Light. Many of the islands had lights flickering on them and several vessels could be spotted traveling between them.
 
-Unsure of the path forward, the party made their way along the clifftops looking for a way down to the shore. They eventually did and soon found themselves walking along a dark and frigid beach. After traveling along it for a couple hours, they spotted a small fire at the base of a cliff. Cautiously, they approached, identifying a lone Honeybadger-Kin warming himself by the fire. They called out to him, stating that they did not wish to fight. The stranger was wary, but allowed the party to approach. He introduced himself as Tyche and inquired as to how the party had found their way into the Sunless Sea and why. They informed him that they were seeking the Lost City of Pallium. Intrigued, Tyche informed them that he had lived in Pallium prior to the First Firefall and could guide them to it. He had spotted a run-aground boat on the beach nearby but was unable to claim it as some giant crabs had made it their home. If the party served as his muscle, we would help them reach Pallium and beyond.
+Unsure of the path forward, the party made their way along the clifftops looking for a way down to the shore. They eventually did and soon found themselves walking along a dark and frigid beach. After traveling along it for a couple hours, they spotted a small fire at the base of a cliff. Cautiously, they approached, identifying a lone Honeybadger-Kin warming himself by the fire. They called out to him, stating that they did not wish to fight. The stranger was wary, but allowed the party to approach. He introduced himself as Tyche and inquired as to how the party had found their way into the [[Shadowed Sea]] and why. They informed him that they were seeking the Lost City of Pallium. Intrigued, Tyche informed them that he had lived in Pallium prior to the First Firefall and could guide them to it. He had spotted a run-aground boat on the beach nearby but was unable to claim it as some giant crabs had made it their home. If the party served as his muscle, we would help them reach Pallium and beyond.
 
 With an uneasy alliance established, the party shared their food with Tyche. Shortly after a horn sounded from the main island of the region, the bright light went out, plunging them into darkness. Huddling close to each Other and their campfire, they drifted off to sleep in preparation for the next leg of their adventure.
 

@@ -11,6 +11,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> | 2026-11-09 | Nature, Phenomena |
 | <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-11-06 | Nature, Phenomena |
 | <a href="/pages/locations/seas/shadowed_sea/" class="internal-link">Shadowed Sea</a> | 2026-11-05 | Locations, Seas |
 | <a href="/pages/locations/regions/ruined_lands/" class="internal-link">Ruined Lands</a> | 2026-11-04 | Locations, Regions |
@@ -68,7 +69,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork/" class="internal-link">MOTFW 24. The Final Fork</a> | 2026-09-06 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil/" class="internal-link">MOTFW 25. The Lesser Evil</a> | 2026-09-06 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/" class="internal-link">MOTFW 16. Nobody Expects the Inquisition</a> | 2026-09-04 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea/" class="internal-link">MOTFW 17. The Sunless Sea</a> | 2026-09-04 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea/" class="internal-link">MOTFW 17. The Shadowed Sea</a>]] | 2026-09-04 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/" class="internal-link">MOTFW 18. The Isle of Lights</a> | 2026-09-04 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light/" class="internal-link">MOTFW 19. The Temple of the Dying Light</a> | 2026-09-04 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness/" class="internal-link">MOTFW 20. On the Edge of Darkness</a> | 2026-09-04 | Campaigns, <a href="/pages/campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world/" class="internal-link">Mantle of the Fallen World</a> |

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Days — WORLD OF AROKA</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Site CSS (your Obsidian CSS will be merged here) -->
+    <link rel="stylesheet" href="/assets/css/site.css">
+
+    <!-- Resize handles -->
+    <script type="module" src="/assets/js/resizeHandles.js"></script>
+</head>
+
+<body>
+
+    <!-- ⭐ LOAD FAILURE WARNING (initially hidden) -->
+    <div id="load-error" style="
+        display:none;
+        background:#300;
+        color:#fff;
+        padding:1rem;
+        border:2px solid #900;
+        margin:1rem;
+        font-size:1.1rem;
+        max-width:800px;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius:6px;
+    ">
+        <strong>Something didn’t load correctly.</strong><br>
+        If the page looks broken or incomplete, please email me at
+        <a href="mailto:daniel@yourdomain.com" style="color:#ffb;">daniel@yourdomain.com</a>
+        so I can fix it.
+    </div>
+    <!-- ⭐ END WARNING BLOCK -->
+
+    <div id="arcane-sparks"></div>
+    <div id="bottom-glow"></div>
+
+    <!-- HEADER -->
+    <header id="site-header">
+        <div id="header-left">
+            <button id="toggle-index" class="header-icon" aria-label="Toggle Index Pane">🔍</button>
+        </div>
+
+        <nav id="header-links">
+            <button id="toggle-references" class="header-icon" aria-label="Toggle Reference Pane">📜</button>
+        </nav>
+    </header>
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="left-sidebar">
+        <div id="index-pane"></div>
+    </aside>
+
+    <!-- RIGHT SIDEBAR -->
+    <aside id="right-sidebar">
+        <div id="reference-pane">
+            <div id="reference-header">References</div>
+            <div id="reference-list"></div>
+        </div>
+    </aside>
+
+    <!-- MAP PANE -->
+    <section id="map-pane">
+        <div id="map-container"></div>
+    </section>
+    <div id="map-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- WEB PANE -->
+    <section id="web-pane">
+        <div id="graph-container"></div>
+    </section>
+    <div id="web-resize-handle" class="resize-handle-horizontal"></div>
+
+    <!-- FOOTER -->
+    <footer id="bottom-bar">
+        <button id="map-toggle" class="pane-toggle" aria-label="Toggle Map Pane">🧭</button>
+
+        <div id="bottom-copyright">
+            © 2026 Daniel J. Leitch. All rights reserved.
+            The 3dX Dice System and the World of Aroka are original creations
+            protected under U.S. and international copyright law.
+        </div>
+
+        <button id="web-toggle" class="pane-toggle" aria-label="Toggle Web Pane">🕸️</button>
+    </footer>
+
+    <!-- MAIN CONTENT -->
+    <main id="content-pane">
+        <div id="title-block">
+            <a id="site-title" data-text="WOrlD Of ArOkA" href="/">WOrlD Of ArOkA</a>
+        </div>
+
+        <div id="scroll-region">
+            <div id="scroll-wrapper" class="markdown-preview-view">
+                <div class="markdown-preview-sizer">
+                    <h1>Dark Days</h1>
+<hr>
+<p>The peoples of Aroka that had spent the <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a> huddled in cramped caverns and vaults breathed a collective sigh of relief when the world began to thaw and they could return to the surface. Years of darkness and fending off the monsters that called it their home were at an end. At least, that is what they believed. When night fell, some of these monsters would continue to harass those formerly trapped with them beneath the earth. However, when the Voidlights rose, they would be forced to retreat, allowing their prey to move to more protected areas or set up defenses. Eventually, the effort was no longer worth it and the denizens of the shallows and depths remained in their natural domains. Then, the Dark Days began.</p>
+<p>It started as a brief period of darkness when it normally would have been day. Little thought was given to it as these events were brief and only occurred once a year. However, the duration slowly grew. Sometimes, it was merely an extended period of night while at others it was a period of darkness in the middle of the day. Eventually, the duration grew to where a whole day would pass in which there was little Voidlight visible. When this occurred, the monsters of the depths took note and returned to the surface. Each year, the duration of the Dark Days increased and the creatures from beneath the earth had more time to ravage the world above. Entire settlements were torn apart beneath the lightless sky and many floundering civilizations shifted their focus from agriculture and industry to defense, crafting mighty walls and thick bunkers to try and outlast the onslaught. Some chose to craft <a href="/pages/technology/skyfarer/" class="internal-link">Skyfarers</a> to wait out the devastation, hoping that no flying predators took notice of them. The increased darkness also brought with it sudden temperature drops, complicating defense and survival strategies even further. The people of Aroka had hoped to forget the cold and darkness they endured beneath the earth and the creatures that called it home, but that nightmare had not forgotten them and eagerly awaited its next annual opportunity to remind them that they never truly escaped it.</p>
+<hr>
+<p>© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law.&quot;</p>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Injected JSON blobs -->
+    
+<script id="page-reference-data" type="application/json">
+[{"slug":"history/ages/age_of_ice","title":"Age of Ice"},{"slug":"history/ages/age_of_reclamation","title":"Age of Reclamation"},{"slug":"nature/phenomena/layers_of_aroka","title":"Layers of Aroka"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city","title":"MOTFW 00. Race for the Lost City"},{"slug":"campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar","title":"MOTFW 12. Beneath the Pillar"},{"slug":"about_3dx_and_aroka/page_history","title":"Page History"},{"slug":"technology/skyfarer","title":"Skyfarer"}]
+</script>
+
+<script id="page-meta" type="application/json">
+{"slug":"nature/phenomena/dark_days"}
+</script>
+
+
+    <!-- Effects -->
+    <script src="/assets/js/effects.js"></script>
+
+    <!-- Unified frontend -->
+    <script type="module" src="/assets/js/site.js"></script>
+    <link rel="stylesheet" href="/assets/css/obsidian.css">
+
+    <!-- ⭐ FAILURE DETECTION SCRIPT -->
+    <script>
+    window.addEventListener("DOMContentLoaded", () => {
+        // Check for a known element that should always exist if JS + data loaded correctly
+        const referenceData = document.getElementById("page-reference-data");
+
+        if (!referenceData) {
+            // Something failed: show the warning
+            const warn = document.getElementById("load-error");
+            if (warn) warn.style.display = "block";
+        }
+    });
+    </script>
+    <!-- ⭐ END FAILURE DETECTION SCRIPT -->
+
+</body>
+</html>

@@ -19,7 +19,7 @@
   <div class=infobox-section>
     <h6>Key Locations</h6>
     <div class=infobox-row><span class=label>Continent:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, <a href="/pages/locations/seas/shadowed_sea/" class="internal-link">Shadowed Sea</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>The Crumbling City, the Crumbling Labyrinth, Lex-Gate Valley, the Lost Valley, Pallium, the Sea of Darkness, the Sea of Light, the Whispering Caverns</span></div>
     <div class=infobox-row><span class=label>Areas:</span><span class=value>The Isle of Echoes, Kendathyl Wharf, the Pillar, Sanctum, the Temple of the Dying Light</span></div>
   </div>
@@ -30,7 +30,7 @@ Mantle of the Fallen World was a 25‑session campaign centered on the search fo
 
 For centuries, the Lost Mountains remained too treacherous to traverse, preventing meaningful expeditions. Only in the 542nd year of the <a href="/pages/history/ages/age_of_reclamation/" class="internal-link">Age of Reclamation</a> did a new path open, triggering a surge of adventurers, scholars, and representatives from powerful organizations to the Ruined Sea region.
 
-Among them were three unlikely companions — Jack, Serqet, and Perry — whose simple expedition into the mountains quickly escalated into a chain of crises. They were hunted through collapsing ruins, entangled in the struggles of Sanctum, drawn into the politics of a hidden <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> valley, and cast into the depths of the Sunless Sea where ancient powers stirred.
+Among them were three unlikely companions — Jack, Serqet, and Perry — whose simple expedition into the mountains quickly escalated into a chain of crises. They were hunted through collapsing ruins, entangled in the struggles of Sanctum, drawn into the politics of a hidden <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> valley, and cast into the depths of the <a href="/pages/locations/seas/shadowed_sea/" class="internal-link">Shadowed Sea</a> where ancient powers stirred.
 
 Their journey forced uneasy alliances, difficult sacrifices, and confrontations with forces far older than the <a href="/pages/history/ages/age_of_reclamation/" class="internal-link">Age of Reclamation</a>. From the horrors buried beneath the Crumbling Labyrinth to the metallic guardians of Pallium itself, the party uncovered truths that challenged everything they believed about the past — and the future.
 
@@ -51,8 +51,8 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns/" class="internal-link">MOTFW 21. The Whispering Caverns</a> | AOR 542-5-15 | Isle of Echoes | <a href="/pages/nature/fauna/creatures/ripper/" class="internal-link">Rippers</a>, The Secret Quill |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness/" class="internal-link">MOTFW 20. On the Edge of Darkness</a> | AOR 542-5-13 | Edge of Light, Temple of the Dying Lights | Church of the Dying Light, Lightguard |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light/" class="internal-link">MOTFW 19. The Temple of the Dying Light</a> | AOR 542-5-11 | Isle of Lights, Temple of the Dying Lights | Church of the Dying Light, Fortune Pursuit |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/" class="internal-link">MOTFW 18. The Isle of Lights</a> | AOR 542-5-09 | Isle of Lights, Sunless Shores | Fortune Pursuit, Gruffwind Raiders |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea/" class="internal-link">MOTFW 17. The Sunless Sea</a> | AOR 542-5-03 | Sunless Shores | The Children of Lex, the Last Hope |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/" class="internal-link">MOTFW 18. The Isle of Lights</a> | AOR 542-5-09 | Isle of Lights, Shadowed Shores | Fortune Pursuit, Gruffwind Raiders |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea/" class="internal-link">MOTFW 17. The Shadowed Sea</a>]] | AOR 542-5-03 | Shadowed Shores | The Children of Lex, the Last Hope |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/" class="internal-link">MOTFW 16. Nobody Expects the Inquisition</a> | AOR 542-5-01 | Lex-Gate Valley Gate | The Children of Lex, the Knights of the Scroll Inquisitors, the Last Hope, Mercenaries |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns/" class="internal-link">MOTFW 15. The Lex-Gate Caverns</a> | AOR 542-4-97 | <a href="/pages/nature/fauna/sapients/scourge/" class="internal-link">Scourge</a> Camp | The Children of Lex |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley/" class="internal-link">MOTFW 14. Return to Lex-Gate Valley</a> | AOR 542-4-89 | The Pillar | The Children of Lex, the Last Hope |

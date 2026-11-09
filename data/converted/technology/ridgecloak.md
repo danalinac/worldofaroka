@@ -4,7 +4,7 @@
 
 
 
-A Ridgecloak is a common item for those venturing into the <a href="/pages/locations/regions/sandsea/" class="internal-link">Sandsea</a> or Other inhospitable environment. It is specially designed to shield the wearer from the elements such as unrelenting sunlight, strong winds, and Other environmental hazards.
+A Ridgecloak is a common item for those venturing into the <a href="/pages/locations/regions/sandsea/" class="internal-link">Sandsea</a> or Other inhospitable environment. It is specially designed to shield the wearer from the elements such as unrelenting Voidlight, strong winds, and Other environmental hazards.
  
 By stretching the cloth of the Ridgecloak, it can be hardened and molded into a Variety of shapes. It is often used to cover up the openings to small caves and ruins or catching rain water, though its true potential is limited only by the creativity of the user.
  

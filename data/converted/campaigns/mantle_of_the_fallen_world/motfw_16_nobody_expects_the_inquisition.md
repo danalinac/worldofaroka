@@ -32,7 +32,7 @@
 
 ##### AOR 542-5-01 
 
-After brief deliberation, the party elected to return to Lex-Gate Valley to bring back the news of the passing of the two Seekers. They encountered no more difficulties and made it back to the valley just before sunset.
+After brief deliberation, the party elected to return to Lex-Gate Valley to bring back the news of the passing of the two Seekers. They encountered no more difficulties and made it back to the valley just before lightset.
 
 ##### AOR 542-5-02
 
@@ -48,7 +48,7 @@ The battle that followed was challenging as the party's opponents were well-equi
 
 ---
 
-#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea/" class="internal-link">MOTFW  17. The Sunless Sea</a>
+#### Next Session: <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea/" class="internal-link">MOTFW  17. The <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></a>
 
 
 ---

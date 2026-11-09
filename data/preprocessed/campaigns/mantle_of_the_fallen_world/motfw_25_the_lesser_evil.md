@@ -22,7 +22,7 @@
   <div class=infobox-section>
     <h6>Locations</h6>
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Lost Valye, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Lost Valye, the <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Pallium, <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FVar-Yn">Var-Yn</a> Volcanic Base, Whispering Caverns</span></div>
     <div class=infobox-row><span class=label>Areas:</span><span class=value>Crab-Kin Temple, Pallium's Core, <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FVar-Yn">Var-Yn</a> Forward Lookout</span></div>
   </div>
@@ -36,7 +36,7 @@ As promised, the party set a trap for the Guide, hurling rocks and chunks of rub
 
 After walking through the tunnel for several hours and somehow managing not to irritate the [[Var-Yn]] enough to start a fight, they emerged into the evening light of day. Before them lay a vast forested valley surrounded by snowy mountains. To the east, a partially collapsed volcano trickled streams of lava, scorching the surrounding land and filling the sky with ash and smoke. To the west, they saw a mountain dotted with metallic spired rising into the sky; the Lost City of Pallium.
 
-The party continued to follow the [[Var-Yn]], reaching the volcano just before the last of the suns' light disappeared over the horizon. The glow of lava provided sufficient light to see as the party ventured inside, Roasting in the heat. Fortunately, they didn't need to go very far as they were left to wait for the leader of the [[Var-Yn]] to see them. 
+The party continued to follow the [[Var-Yn]], reaching the volcano just before the last of the Voidlights disappeared over the horizon. The glow of lava provided sufficient light to see as the party ventured inside, Roasting in the heat. Fortunately, they didn't need to go very far as they were left to wait for the leader of the [[Var-Yn]] to see them. 
 
 Before long, a golden [[Var-Yn]] riding atop a significantly larger crimson [[Var-Yn]] landed before them and dismounted. Kal'Rah, leader of this expedition, informed the party that time was short and that they needed to act quickly. They informed the party that the [[Var-Yn]] were descendants of a void-faring ancestry that strived to preserve all forms of life. They had come to Aroka to do the same, but were defeated by several mysterious forces with comparable technologies, resulting in the War of Ashes. They believe these forces are still present on the world and that they are also trying to rebuild their armies and rise up again. To counter this, the [[Var-Yn]] need the technologies hidden within Pallium and they want the party to help them claim it.
 

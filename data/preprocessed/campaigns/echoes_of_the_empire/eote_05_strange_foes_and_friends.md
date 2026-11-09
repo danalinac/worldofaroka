@@ -47,7 +47,7 @@ Impressed, the Bandits agreed to work with them, though the party assumed they w
 
 Over the next two days, the party accompanied nine of the Bandits towards the ruins, doing their best to not irritate their new allies, though [[Kagbar]] seemed to be trying to deliberately irritate them.
 
-Towards the evening of the second day of travel, they arrived at an area where the ruble of what looked like some sort of academic or political structure from the [[Age of Divinity]] stood. In the fading sunlight, they could just start to see the Echoes walking amongst the ruins, being far more visible than any Echoes they had encountered before. They spent the night watching the movements of the Echoes, trying to identify loops or patterns they could exploit to get towards the center of the ruins.
+Towards the evening of the second day of travel, they arrived at an area where the ruble of what looked like some sort of academic or political structure from the [[Age of Divinity]] stood. In the fading Voidlight, they could just start to see the Echoes walking amongst the ruins, being far more visible than any Echoes they had encountered before. They spent the night watching the movements of the Echoes, trying to identify loops or patterns they could exploit to get towards the center of the ruins.
 
 ###### AOR 542-6-04
 

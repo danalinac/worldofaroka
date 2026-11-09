@@ -76,7 +76,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
@@ -117,6 +117,7 @@
       "nature/flora/chokevine",
       "nature/flora/pureroot",
       "nature/flora/treehome",
+      "nature/phenomena/dark_days",
       "nature/phenomena/gaunt",
       "nature/phenomena/layers_of_aroka",
       "nature/phenomena/shadows_of_the_ancients",
@@ -310,7 +311,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
@@ -321,6 +322,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
       "history/ages/age_of_divinity",
       "history/ages/age_of_reclamation",
+      "locations/seas/shadowed_sea",
       "nature/fauna/creatures/ripper",
       "nature/fauna/creatures/weaver",
       "nature/fauna/sapients/dryn",
@@ -348,7 +350,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
@@ -369,6 +371,7 @@
       "history/ages/age_of_reclamation",
       "locations/islands/okanu",
       "locations/regions/sandsea",
+      "nature/phenomena/dark_days",
       "nature/phenomena/gaunt",
       "technology/seafarer",
       "technology/skyfarer"
@@ -539,7 +542,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
-      "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers"
+      "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers",
+      "nature/phenomena/dark_days"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -596,21 +600,23 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
+      "locations/seas/shadowed_sea",
       "technology/the_decanter"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea"
     ]
   },
-  "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea": {
+  "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
+      "locations/seas/shadowed_sea",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
       "technology/the_decanter"
@@ -625,13 +631,14 @@
   "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights": {
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
-      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light"
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
+      "locations/seas/shadowed_sea"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light"
     ]
   },
@@ -639,7 +646,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
-      "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness"
+      "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
+      "locations/seas/shadowed_sea"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -652,7 +660,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
-      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns"
+      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
+      "locations/seas/shadowed_sea"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -667,6 +676,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
+      "locations/seas/shadowed_sea",
       "nature/fauna/creatures/ripper"
     ],
     "in": [
@@ -680,7 +690,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge"
+      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
+      "locations/seas/shadowed_sea"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -693,7 +704,8 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
-      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork"
+      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+      "locations/seas/shadowed_sea"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -707,6 +719,7 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
+      "locations/seas/shadowed_sea",
       "nature/fauna/sapients/var_yn"
     ],
     "in": [
@@ -720,6 +733,7 @@
     "out": [
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+      "locations/seas/shadowed_sea",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn"
     ],
@@ -868,6 +882,7 @@
       "locations/regions/ruined_lands",
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/var_yn",
+      "nature/phenomena/dark_days",
       "nature/phenomena/shard",
       "technology/doom_knights"
     ]
@@ -876,7 +891,8 @@
     "out": [
       "history/ages/age_of_ice",
       "nature/fauna/sapients/dryn",
-      "nature/fauna/sapients/var_yn"
+      "nature/fauna/sapients/var_yn",
+      "nature/phenomena/dark_days"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -976,7 +992,18 @@
       "technology/seafarer"
     ],
     "in": [
-      "about_3dx_and_aroka/page_history"
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights",
+      "campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light",
+      "campaigns/mantle_of_the_fallen_world/motfw_20_on_the_edge_of_darkness",
+      "campaigns/mantle_of_the_fallen_world/motfw_21_the_whispering_caverns",
+      "campaigns/mantle_of_the_fallen_world/motfw_22_outnumbered_and_out_legged",
+      "campaigns/mantle_of_the_fallen_world/motfw_23_revenge",
+      "campaigns/mantle_of_the_fallen_world/motfw_24_the_final_fork",
+      "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil"
     ]
   },
   "nature/fauna/creatures/bloodbreath": {
@@ -1055,7 +1082,7 @@
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "campaigns/remnants_of_hope/remnants_of_hope",
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
@@ -1078,7 +1105,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers",
       "campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley",
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "campaigns/mantle_of_the_fallen_world/motfw_25_the_lesser_evil",
       "campaigns/remnants_of_hope/remnants_of_hope",
       "history/ages/age_of_reclamation",
@@ -1147,6 +1174,19 @@
       "about_3dx_and_aroka/page_history"
     ]
   },
+  "nature/phenomena/dark_days": {
+    "out": [
+      "history/ages/age_of_ice",
+      "technology/skyfarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
+      "history/ages/age_of_reclamation",
+      "nature/phenomena/layers_of_aroka"
+    ]
+  },
   "nature/phenomena/gaunt": {
     "out": [
       "locations/regions/ruined_lands",
@@ -1162,6 +1202,7 @@
   },
   "nature/phenomena/layers_of_aroka": {
     "out": [
+      "nature/phenomena/dark_days",
       "nature/phenomena/the_void"
     ],
     "in": [
@@ -1282,7 +1323,8 @@
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "locations/regions/sandsea"
+      "locations/regions/sandsea",
+      "nature/phenomena/dark_days"
     ]
   },
   "technology/the_decanter": {
@@ -1294,7 +1336,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
-      "campaigns/mantle_of_the_fallen_world/motfw_17_the_sunless_sea"
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea"
     ]
   },
   "technology/torchblade": {
@@ -1327,7 +1369,6 @@
       "history/ages/age_of_divinity",
       "history/ages/age_of_healing",
       "history/ages/age_of_ice",
-      "history/ages/age_of_reclamation",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -1336,6 +1377,7 @@
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
+      "nature/phenomena/dark_days",
       "nature/phenomena/shard",
       "nature/phenomena/the_void"
     ],

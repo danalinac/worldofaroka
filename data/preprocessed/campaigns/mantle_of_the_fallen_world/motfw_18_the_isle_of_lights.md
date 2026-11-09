@@ -2,7 +2,7 @@
 ### <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMantle%20of%20the%20Fallen%20World">Mantle of the Fallen World</a> Session 18
 ---
 
-#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2017.%20The%20Sunless%20Sea">MOTFW 17. The Sunless Sea</a>
+#### Previous Session: <a href="obsidian://open?vault=Obsidian&file=Campaigns%2FMantle%20of%20the%20Fallen%20World%2FMOTFW%2017.%20The%20Shadowed%20Sea">MOTFW 17. The <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></a>
 
 
 ---
@@ -22,9 +22,9 @@
   <div class=infobox-section>
     <h6>Locations</h6>
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Sea of Light</span></div>
-    <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Lights, Sunless Shores</span></div>
+    <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Lights, Shadowed Shores</span></div>
   </div>
 </div>
 
@@ -32,11 +32,11 @@
 
 ##### AOR 542-5-09
 
-With the boat repaired, their rations replenished, and rested enough to continue on their journey, the party prepared to set to sea. However, they had singing echoing off of the cliffs. After several minutes, an odd figure could be seen skipping down the beach. It looked like a Horse-Kin with faded pink hair. Once she spotted the party, she shouted out in greeting asking if they had found any cool rocks or shells. She introduced herself as Chappel and explained that she had found herself in the Sunless Sea by following a trail of flowers, then mushrooms, then rocks, and then sea shells. Now, she was in search of something to redye her hair as her normally vibrant pink was now almost all washed out and returned to her natural white. She looked like she be good to have by your side in a fight, so the party offered to share their rations and help her look for a way to dye for hair in exchange for her accompanying them. She very eagerly agreed and the party was soon underway towards the Isle of Lights.
+With the boat repaired, their rations replenished, and rested enough to continue on their journey, the party prepared to set to sea. However, they had singing echoing off of the cliffs. After several minutes, an odd figure could be seen skipping down the beach. It looked like a Horse-Kin with faded pink hair. Once she spotted the party, she shouted out in greeting asking if they had found any cool rocks or shells. She introduced herself as Chappel and explained that she had found herself in the [[Shadowed Sea]] by following a trail of flowers, then mushrooms, then rocks, and then sea shells. Now, she was in search of something to redye her hair as her normally vibrant pink was now almost all washed out and returned to her natural white. She looked like she be good to have by your side in a fight, so the party offered to share their rations and help her look for a way to dye for hair in exchange for her accompanying them. She very eagerly agreed and the party was soon underway towards the Isle of Lights.
 
 As they neared the shore, a storm rolled in from the south. Their vessel was old and still damaged despite their efforts to repair it, so it began taking on water and came dangerously close to capsizing on several occasions. Just as they were About to make it aground, a massive wave caught them and through them into the sea. Fortunately, most of them could swim and those that couldn't clung to those that could and they all made it ashore and found shelter in a nearby cave. They immediately set to making a fire as the chilling water had soaked through their fur or hair and threatened so drain them of all warmth. With some effort as all their gear was also soaked, they were able to get a fire going using relatively dry debris and they began to dry themselves.
 
-When the storm passed, the party climbed up the hills along the shore and found themselves looking down upon a port city. The great artificial sun illuminated the streets and countless candles, lanterns, and torches could be seen lighting everywhere the sun couldn't reach. The party, still recovering from their battle with the storm, asked Tyche where they could find a place to rest. He led them to a small home that looked like it had been constructed from various slabs of metal, stone, and wood. This was just one of many in a long line that sat on the edge of the city with their backs to the lone mountain of the island. Inside, they encountered a Bird-Kin that initially tried to fight them off until he realized just how outnumbered he was and then fled. The space was small, but the party was able to squeeze themselves in and promptly went to sleep.
+When the storm passed, the party climbed up the hills along the shore and found themselves looking down upon a port city. The great artificial Voidlight illuminated the streets and countless candles, lanterns, and torches could be seen lighting everywhere the Voidlight couldn't reach. The party, still recovering from their battle with the storm, asked Tyche where they could find a place to rest. He led them to a small home that looked like it had been constructed from various slabs of metal, stone, and wood. This was just one of many in a long line that sat on the edge of the city with their backs to the lone mountain of the island. Inside, they encountered a Bird-Kin that initially tried to fight them off until he realized just how outnumbered he was and then fled. The space was small, but the party was able to squeeze themselves in and promptly went to sleep.
 
 ##### AOR 542-5-10
 

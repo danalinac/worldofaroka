@@ -22,7 +22,7 @@
   <div class=infobox-section>
     <h6>Locations</h6>
     <div class=infobox-row><span class=label>Continents & Seas:</span><span class=value>Sona</span></div>
-    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the Sunless Sea</span></div>
+    <div class=infobox-row><span class=label>Region:</span><span class=value>Lost Mountains, the <a href="obsidian://open?vault=Obsidian&file=Locations%2FSeas%2FShadowed%20Sea">Shadowed Sea</a></span></div>
     <div class=infobox-row><span class=label>Territory:</span><span class=value>Sea of Light</span></div>
     <div class=infobox-row><span class=label>Areas:</span><span class=value>Isle of Lights, Temple of the Dying Lights</span></div>
   </div>
@@ -32,11 +32,11 @@
 
 ##### AOR 542-5-11
 
-As soon as the artificial sun lit up, the party made their way down to the docks and boarded the Fortune Pursuit, one of the larger vessels of the Sea of Lights crewed exclusively by Cat-Kin. Due to Jack's injuries from the past few days, he elected remain at Tyche's home to recover along with Augustus and Helianth. The journey was uneventful. The party spent the time helping crew the vessel, watching out for potential threats, dredging for useful Flora or Fauna, and gambling. Ahgythah actually made a significant profit by gambling with the crew and using Tyche's loaded dice. Fortunately, Ahgythah was too intimidating for the crew to question her luck.
+As soon as the artificial Voidlight lit up, the party made their way down to the docks and boarded the Fortune Pursuit, one of the larger vessels of the Sea of Lights crewed exclusively by Cat-Kin. Due to Jack's injuries from the past few days, he elected remain at Tyche's home to recover along with Augustus and Helianth. The journey was uneventful. The party spent the time helping crew the vessel, watching out for potential threats, dredging for useful Flora or Fauna, and gambling. Ahgythah actually made a significant profit by gambling with the crew and using Tyche's loaded dice. Fortunately, Ahgythah was too intimidating for the crew to question her luck.
 
 After a few hours, they arrived at the Temple of the Dying Light. The tiered cathedral sat atop a small island with many caves that had been repurposed into bunkhouses and storage room along with an extensive dock that had additional structures built on it. Once they were docked, they were approached by a representative of the Church of the Dying Light. As promised, Tyche was able to negotiate a better price for the Fortune Pursuit. True to their word, the Fortune Pursuit gave him one-hundred gold for his assistance. The catch was that the party would need to spend the rest of that day and half of the next offering their sweat to the Church. 
 
-The Church was responsible for keeping the artificial sun of the Sea of Lights shining. They kept it's mechanisms secret, but it was common knowledge that it was powered by technological power cells charged at the Temple, shipped to the Tower of Light, then returned to the Temple when depleted. To charge the power cells, they had created machines that allowed individuals to bike, lift, pull, push, or run to generate power. Many had come to the Temple to pay tribute to The Light, spending days, months, even years toiling for the Church. In return, the Church would provide them food, shelter, and water for as long as they toiled. The party would pay their debt to the Church with a day's worth of toil each.
+The Church was responsible for keeping the artificial Voidlight of the Sea of Lights shining. They kept it's mechanisms secret, but it was common knowledge that it was powered by technological power cells charged at the Temple, shipped to the Tower of Light, then returned to the Temple when depleted. To charge the power cells, they had created machines that allowed individuals to bike, lift, pull, push, or run to generate power. Many had come to the Temple to pay tribute to The Light, spending days, months, even years toiling for the Church. In return, the Church would provide them food, shelter, and water for as long as they toiled. The party would pay their debt to the Church with a day's worth of toil each.
 
 Ahgythah, Chappel, and Perry did well toiling for the Church while Athyna, Devyn, and Tyche tried, but didn't actually end up contributing much. Fortunately, the Church only considered effort instead of results.
 
