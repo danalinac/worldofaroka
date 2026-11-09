@@ -27,6 +27,7 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
 | [[Dark Days]] | 2026-11-09 | Nature, Phenomena |
+| [[Consortium]] | 2026-11-09 | Organizations |
 | [[Shard]] | 2026-11-06 | Nature, Phenomena |
 | [[Shadowed Sea]] | 2026-11-05 | Locations, Seas |
 | [[Ruined Lands]] | 2026-11-04 | Locations, Regions |
@@ -38,7 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[The Void]] | 2026-11-01 | Nature, Phenomena |
 | [[Age of Divinity]] | 2026-10-31 | History, Ages |
 | [[Age of Healing]] | 2026-10-31 | History, Ages |
-| [[Age of Ice]] | 2026-10-31 | History, Ages |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

@@ -12,6 +12,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
 | <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> | 2026-11-09 | Nature, Phenomena |
+| <a href="/pages/organizations/consortium/" class="internal-link">Consortium</a> | 2026-11-09 | Organizations |
 | <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-11-06 | Nature, Phenomena |
 | <a href="/pages/locations/seas/shadowed_sea/" class="internal-link">Shadowed Sea</a> | 2026-11-05 | Locations, Seas |
 | <a href="/pages/locations/regions/ruined_lands/" class="internal-link">Ruined Lands</a> | 2026-11-04 | Locations, Regions |

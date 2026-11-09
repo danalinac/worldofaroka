@@ -124,6 +124,7 @@
       "nature/phenomena/shard",
       "nature/phenomena/soulrot",
       "nature/phenomena/the_void",
+      "organizations/consortium",
       "technology/blastbow",
       "technology/bowsling",
       "technology/doom_knights",
@@ -285,6 +286,7 @@
       "3dx_dice_system/3dx_dice_system",
       "locations/islands/okanu",
       "locations/regions/sandsea",
+      "organizations/consortium",
       "world_of_aroka"
     ],
     "in": [
@@ -902,6 +904,7 @@
       "locations/islands/okanu",
       "locations/regions/ruined_lands",
       "nature/fauna/sapients/var_yn",
+      "organizations/consortium",
       "technology/doom_knights"
     ]
   },
@@ -930,6 +933,7 @@
   "locations/islands/okanu": {
     "out": [
       "history/ages/age_of_reclamation",
+      "organizations/consortium",
       "technology/seafarer",
       "technology/waveroot"
     ],
@@ -938,6 +942,7 @@
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "nature/flora/treehome",
+      "organizations/consortium",
       "technology/seafarer"
     ]
   },
@@ -1210,7 +1215,9 @@
     ]
   },
   "nature/phenomena/shadows_of_the_ancients": {
-    "out": [],
+    "out": [
+      "organizations/consortium"
+    ],
     "in": [
       "about_3dx_and_aroka/page_history"
     ]
@@ -1222,6 +1229,7 @@
     "in": [
       "about_3dx_and_aroka/page_history",
       "nature/fauna/sapients/var_yn",
+      "organizations/consortium",
       "technology/seafarer"
     ]
   },
@@ -1241,6 +1249,21 @@
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "history/ages/age_of_healing",
       "nature/phenomena/layers_of_aroka"
+    ]
+  },
+  "organizations/consortium": {
+    "out": [
+      "history/ages/age_of_reclamation",
+      "locations/islands/okanu",
+      "nature/phenomena/shard",
+      "technology/seafarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/light_of_truth/light_of_truth",
+      "locations/islands/okanu",
+      "nature/phenomena/shadows_of_the_ancients",
+      "technology/seafarer"
     ]
   },
   "technology/blastbow": {
@@ -1302,6 +1325,7 @@
     "out": [
       "locations/islands/okanu",
       "nature/phenomena/shard",
+      "organizations/consortium",
       "technology/waveroot",
       "world_of_aroka"
     ],
@@ -1310,6 +1334,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "locations/islands/okanu",
       "locations/seas/shadowed_sea",
+      "organizations/consortium",
       "technology/blastbow",
       "technology/oceanfarer",
       "technology/waveroot"
@@ -1368,7 +1393,6 @@
       "3dx_dice_system/3dx_dice_system",
       "history/ages/age_of_divinity",
       "history/ages/age_of_healing",
-      "history/ages/age_of_ice",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -1379,7 +1403,8 @@
       "nature/fauna/sapients/var_yn",
       "nature/phenomena/dark_days",
       "nature/phenomena/shard",
-      "nature/phenomena/the_void"
+      "nature/phenomena/the_void",
+      "organizations/consortium"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",

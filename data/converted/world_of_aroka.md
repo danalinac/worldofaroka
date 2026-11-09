@@ -27,6 +27,7 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
 | <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> | 2026-11-09 | Nature, Phenomena |
+| <a href="/pages/organizations/consortium/" class="internal-link">Consortium</a> | 2026-11-09 | Organizations |
 | <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-11-06 | Nature, Phenomena |
 | <a href="/pages/locations/seas/shadowed_sea/" class="internal-link">Shadowed Sea</a> | 2026-11-05 | Locations, Seas |
 | <a href="/pages/locations/regions/ruined_lands/" class="internal-link">Ruined Lands</a> | 2026-11-04 | Locations, Regions |
@@ -38,7 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> | 2026-11-01 | Nature, Phenomena |
 | <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> | 2026-10-31 | History, Ages |
 | <a href="/pages/history/ages/age_of_healing/" class="internal-link">Age of Healing</a> | 2026-10-31 | History, Ages |
-| <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a> | 2026-10-31 | History, Ages |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

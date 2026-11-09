@@ -4,7 +4,7 @@
 
 
 
-In the center of the tumultuous Tryvyum Sea sits the jungle island of Okanu. Accredited as the only thing that allowed the nations of Cogys, Morydal, and Ohedyn to discover each other, it seemed only right to found the capital city of the Tryvyum Trade Consortium at its heart. While multiple other settlements and strongholds have been set along its shores, Amyhra stands as a testament of cooperation and prosperity against the unrelenting wilderness and sea.
+In the center of the tumultuous Tryvyum Sea sits the jungle island of Okanu. Accredited as the only thing that allowed the nations of Cogys, Morydal, and Ohedyn to discover each other, it seemed only right to found the capital city of the Tryvyum Trade <a href="/pages/organizations/consortium/" class="internal-link">Consortium</a> at its heart. While multiple other settlements and strongholds have been set along its shores, Amyhra stands as a testament of cooperation and prosperity against the unrelenting wilderness and sea.
 
 While the security of Amyhra and the other populated footholds on the island is rarely contested, the same cannot be said for the perilous wilds beyond the walls of civilization. The jungles are home to countless beasts and Feral Tribes that frequently inform outsiders that they are not welcome. Even on the cliffs and mountains the dense vegetation struggles to claim are prone to avalanches, rockslides, and hide their own flavor of creatures and beings hostile to newcomers. 
 

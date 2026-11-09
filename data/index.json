@@ -560,6 +560,13 @@
       "isFolder": false,
       "url": "/pages/nature/phenomena/the_void/"
     },
+    "organizations/consortium": {
+      "title": "Consortium",
+      "slug": "consortium",
+      "folderPath": "organizations",
+      "isFolder": false,
+      "url": "/pages/organizations/consortium/"
+    },
     "technology/blastbow": {
       "title": "Blastbow",
       "slug": "blastbow",
@@ -671,6 +678,7 @@
         "history",
         "locations",
         "nature",
+        "organizations",
         "technology",
         "world_of_aroka"
       ]
@@ -877,6 +885,13 @@
         "nature/phenomena/shard",
         "nature/phenomena/soulrot",
         "nature/phenomena/the_void"
+      ]
+    },
+    "organizations": {
+      "title": "Organizations",
+      "hubpage": null,
+      "children": [
+        "organizations/consortium"
       ]
     },
     "technology": {

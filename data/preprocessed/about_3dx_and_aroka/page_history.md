@@ -12,6 +12,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
 | [[Dark Days]] | 2026-11-09 | Nature, Phenomena |
+| [[Consortium]] | 2026-11-09 | Organizations |
 | [[Shard]] | 2026-11-06 | Nature, Phenomena |
 | [[Shadowed Sea]] | 2026-11-05 | Locations, Seas |
 | [[Ruined Lands]] | 2026-11-04 | Locations, Regions |
