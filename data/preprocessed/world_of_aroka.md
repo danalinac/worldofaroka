@@ -26,6 +26,7 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Scyonic Imperium]] | 2026-11-11 | Organizations |
 | [[Dark Days]] | 2026-11-09 | Nature, Phenomena |
 | [[Consortium]] | 2026-11-09 | Organizations |
 | [[Shard]] | 2026-11-06 | Nature, Phenomena |
@@ -38,7 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Var-Yn]] | 2026-11-01 | Nature, Fauna, Sapients |
 | [[The Void]] | 2026-11-01 | Nature, Phenomena |
 | [[Age of Divinity]] | 2026-10-31 | History, Ages |
-| [[Age of Healing]] | 2026-10-31 | History, Ages |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

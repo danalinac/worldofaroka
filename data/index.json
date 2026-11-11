@@ -567,6 +567,13 @@
       "isFolder": false,
       "url": "/pages/organizations/consortium/"
     },
+    "organizations/scyonic_imperium": {
+      "title": "Scyonic Imperium",
+      "slug": "scyonic_imperium",
+      "folderPath": "organizations",
+      "isFolder": false,
+      "url": "/pages/organizations/scyonic_imperium/"
+    },
     "technology/blastbow": {
       "title": "Blastbow",
       "slug": "blastbow",
@@ -891,7 +898,8 @@
       "title": "Organizations",
       "hubpage": null,
       "children": [
-        "organizations/consortium"
+        "organizations/consortium",
+        "organizations/scyonic_imperium"
       ]
     },
     "technology": {

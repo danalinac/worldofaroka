@@ -1,0 +1,18 @@
+# Scyonic Imperium
+
+---
+
+
+
+From the ashes of the Ryan Empire rises a new order that aims to surpass the glory of its predecessor. Led by the Scyon of Rya, this civilization of mages and scholars strives to reclaim their former glory and build the empire anew, free of the faults of their ancestors. Within the towering cities along the Hallowed Coast, they delve into the secrets lost during the First Firefall and [[Age of Ice]] and make plans to tame the Savage East and reclaim the whole of the [[Eastern Echoes]] as their birthright. Expeditions to beyond the Burning Sea and to the Western Wastes are occasionally launched in hopes of yielding artifacts and knowledge that will usher in a new and unending [[Age of Divinity]].
+
+Amongst even the common folk of the Imperium, magic is a manifestation of divine heritage and practiced with sacred reverence. Those that dare to wield it not in alignment with the will of the Scyon are branded heretics. However, unlike the savages to the east, the Imperium does not resort to execution or imprisonment for all that do not heed the call of the divine. Instead, they merely banish the heretics from the Hallowed Coast, offering them citizenship should they repent and prove themselves worthy of bearing the mantle of Rya once again. All have a role to play in the new world, even if that part is beyond the grace of the divine. Even in this civilized justice, they are not fools, swiftly executing those beyond hope of redemption.
+
+This enlightened view of civilization is not without its inconvenient elements. The grace of the gods was clearly granted to those that had grown beyond their animalistic roots, blessing only true [[Anthropes]] with their gifts. The Anthrope-Folk, having strived valiantly for this ideal yet fallen short, are still worthy of respect, though their role is less grand than the fully blessed. Mages among the Anthrope-Folk are not tolerated within the domain of the Imperium as such acts are blasphemous, though there are few severe penalties except in the case of defiance or repeat offenses. 
+
+No such patience is shown towards those that lost all that made them [[Anthropes]] yet still mascaraed as sapient beings. [[Dryn]] and [[Scourge]] are abominations whose existence is blasphemy to the legacy of Rya. Mages among these peoples are given the grave label of Blasphemers and are prioritized for eradication, even at moderate loss to the Imperium. Many among the Imperium believe that the [[Dryn]] and [[Scourge]] are the descendants of those whose transgressions brought about the end of the [[Age of Divinity]]. The gods would show now leniency to those responsible for the loss of such grace and prosperity, so neither does their Scyon.
+
+
+---
+
+© 2026 Daniel J. Leitch. All rights reserved. The 3dX Dice System and the World of Aroka are original creations protected under U.S. and international copyright law."

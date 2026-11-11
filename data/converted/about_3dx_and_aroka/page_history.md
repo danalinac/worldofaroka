@@ -11,6 +11,7 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/organizations/scyonic_imperium/" class="internal-link">Scyonic Imperium</a> | 2026-11-11 | Organizations |
 | <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> | 2026-11-09 | Nature, Phenomena |
 | <a href="/pages/organizations/consortium/" class="internal-link">Consortium</a> | 2026-11-09 | Organizations |
 | <a href="/pages/nature/phenomena/shard/" class="internal-link">Shard</a> | 2026-11-06 | Nature, Phenomena |

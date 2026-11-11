@@ -125,6 +125,7 @@
       "nature/phenomena/soulrot",
       "nature/phenomena/the_void",
       "organizations/consortium",
+      "organizations/scyonic_imperium",
       "technology/blastbow",
       "technology/bowsling",
       "technology/doom_knights",
@@ -822,7 +823,8 @@
       "characters/boris",
       "characters/ione",
       "characters/jonesie",
-      "locations/regions/eastern_echoes"
+      "locations/regions/eastern_echoes",
+      "organizations/scyonic_imperium"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -853,6 +855,7 @@
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/altyrs",
       "nature/phenomena/the_void",
+      "organizations/scyonic_imperium",
       "technology/doom_knights",
       "technology/skyfarer",
       "technology/torchblade"
@@ -886,6 +889,7 @@
       "nature/fauna/sapients/var_yn",
       "nature/phenomena/dark_days",
       "nature/phenomena/shard",
+      "organizations/scyonic_imperium",
       "technology/doom_knights"
     ]
   },
@@ -948,7 +952,8 @@
   },
   "locations/regions/eastern_echoes": {
     "out": [
-      "nature/fauna/sapients/scourge"
+      "nature/fauna/sapients/scourge",
+      "organizations/scyonic_imperium"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -959,7 +964,8 @@
       "campaigns/echoes_of_the_empire/eote_04_down_the_river",
       "campaigns/echoes_of_the_empire/eote_05_strange_foes_and_friends",
       "campaigns/echoes_of_the_empire/eote_postmortem",
-      "characters/kagbar"
+      "characters/kagbar",
+      "organizations/scyonic_imperium"
     ]
   },
   "locations/regions/ruined_lands": {
@@ -1091,7 +1097,8 @@
       "campaigns/remnants_of_hope/remnants_of_hope",
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
-      "nature/fauna/sapients/scourge"
+      "nature/fauna/sapients/scourge",
+      "organizations/scyonic_imperium"
     ]
   },
   "nature/fauna/sapients/dryn": {
@@ -1117,7 +1124,8 @@
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/scourge",
-      "nature/fauna/sapients/var_yn"
+      "nature/fauna/sapients/var_yn",
+      "organizations/scyonic_imperium"
     ]
   },
   "nature/fauna/sapients/scourge": {
@@ -1137,6 +1145,7 @@
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
+      "organizations/scyonic_imperium",
       "technology/scoutskin"
     ]
   },
@@ -1266,6 +1275,21 @@
       "technology/seafarer"
     ]
   },
+  "organizations/scyonic_imperium": {
+    "out": [
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_ice",
+      "locations/regions/eastern_echoes",
+      "nature/fauna/sapients/anthropes",
+      "nature/fauna/sapients/dryn",
+      "nature/fauna/sapients/scourge"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "characters/kagbar",
+      "locations/regions/eastern_echoes"
+    ]
+  },
   "technology/blastbow": {
     "out": [
       "technology/seafarer"
@@ -1392,7 +1416,6 @@
     "out": [
       "3dx_dice_system/3dx_dice_system",
       "history/ages/age_of_divinity",
-      "history/ages/age_of_healing",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -1404,7 +1427,8 @@
       "nature/phenomena/dark_days",
       "nature/phenomena/shard",
       "nature/phenomena/the_void",
-      "organizations/consortium"
+      "organizations/consortium",
+      "organizations/scyonic_imperium"
     ],
     "in": [
       "3dx_dice_system/3dx_dice_system",
