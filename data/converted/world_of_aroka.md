@@ -4,7 +4,7 @@
 
 ### Welcome to the World of Aroka
 
-Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving Voidlights lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
+Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
 Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface, mysterious beings like the <a href="/pages/nature/fauna/sapients/dryn/" class="internal-link">Dryn</a> and <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a>, secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a>. The world’s past is not dead; it is just waiting for the right time to return.
 
@@ -26,6 +26,7 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/organizations/knights_of_the_scroll/" class="internal-link">Knights of the Scroll</a> | 2026-11-14 | Organizations |
 | <a href="/pages/organizations/scyonic_imperium/" class="internal-link">Scyonic Imperium</a> | 2026-11-11 | Organizations |
 | <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> | 2026-11-09 | Nature, Phenomena |
 | <a href="/pages/organizations/consortium/" class="internal-link">Consortium</a> | 2026-11-09 | Organizations |
@@ -38,7 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
 | <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a> | 2026-11-01 | Nature, Fauna, Sapients |
 | <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> | 2026-11-01 | Nature, Phenomena |
-| <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> | 2026-10-31 | History, Ages |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

@@ -12,7 +12,7 @@ From the ashes rose multiple armies with technologies far in advance of anything
 
 A handful of the splintered organizations of Arokan survivors attempted to at least protect themselves from the war, but they rarely succeeded, not even gaining the attention of the armies as they leveled already crumbling cities that just happened to be caught between two or more of the armies. Tales of weapons that may have stood a chance circulated among the survivors, but it seems that none of these were ever deployed, leading many in the modern age to seek them out in hopes that they are still functional after hundreds of years of lying dormant.
 
-Just as quickly as the War of Ashes began, it ended. The armies disappeared and the world fell silent. Not long after, the ash and smoke blotted out the Voidlights. Snow began to dominate landscapes and most bodies of water froze solid. The War of Ashes was over, but the world was no less safe. Those that were still alive retreated beneath the earth or inside what little infrastructure remained to escape the cold, beginning the <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a>.
+Just as quickly as the War of Ashes began, it ended. The armies disappeared and the world fell silent. Not long after, the ash and smoke blotted out the suns. Snow began to dominate landscapes and most bodies of water froze solid. The War of Ashes was over, but the world was no less safe. Those that were still alive retreated beneath the earth or inside what little infrastructure remained to escape the cold, beginning the <a href="/pages/history/ages/age_of_ice/" class="internal-link">Age of Ice</a>.
 
 
 ---

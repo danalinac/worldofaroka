@@ -6,7 +6,7 @@
 
 The end of the [[Age of Ice]] is marked by an event called the Second Firefall, where masses of flame once again rained down on the planet, though in significantly reduced volume and causing minimal damage. Shortly afterwards, it was obvious that the global temperatures were rising and Arokans began returning to the surface. To their surprise, they discovered two undiscovered peoples, the [[Dryn]] and the [[Var-Yn]] along with a host of new Fauna and Flora also emerging onto the thawing world.
 
-While no longer frozen, the world was not any less perilous and survival was hard-earned. Shortly into the Age of Reclamation, a strange event began to occur near the beginning of winter. For a brief moment, the three Voidlights disappeared behind the Voidgate, blanketing the world in darkness. Initially, this was a mere peculiarity, but, year over year, the duration of this event grew longer. 
+While no longer frozen, the world was not any less perilous and survival was hard-earned. Shortly into the Age of Reclamation, a strange event began to occur near the beginning of winter. For a brief moment, the three suns disappeared behind the Voidgate, blanketing the world in darkness. Initially, this was a mere peculiarity, but, year over year, the duration of this event grew longer. 
 
 These [[Dark Days]] soon revealed a much more terrifying threat beyond the darkness and lack of warmth. When they grew long enough to last longer than half a day, monsters usually confined to the depths and had been the bane of the peoples that had sought refuge beneath the earth, emerged, ravaging the surface and bringing about the end of many fledgling communities.
 

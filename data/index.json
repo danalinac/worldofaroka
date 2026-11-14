@@ -567,6 +567,13 @@
       "isFolder": false,
       "url": "/pages/organizations/consortium/"
     },
+    "organizations/knights_of_the_scroll": {
+      "title": "Knights of the Scroll",
+      "slug": "knights_of_the_scroll",
+      "folderPath": "organizations",
+      "isFolder": false,
+      "url": "/pages/organizations/knights_of_the_scroll/"
+    },
     "organizations/scyonic_imperium": {
       "title": "Scyonic Imperium",
       "slug": "scyonic_imperium",
@@ -899,6 +906,7 @@
       "hubpage": null,
       "children": [
         "organizations/consortium",
+        "organizations/knights_of_the_scroll",
         "organizations/scyonic_imperium"
       ]
     },

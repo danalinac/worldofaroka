@@ -125,6 +125,7 @@
       "nature/phenomena/soulrot",
       "nature/phenomena/the_void",
       "organizations/consortium",
+      "organizations/knights_of_the_scroll",
       "organizations/scyonic_imperium",
       "technology/blastbow",
       "technology/bowsling",
@@ -332,6 +333,7 @@
       "nature/fauna/sapients/scourge",
       "nature/fauna/sapients/var_yn",
       "nature/phenomena/gaunt",
+      "organizations/knights_of_the_scroll",
       "world_of_aroka"
     ],
     "in": [
@@ -391,6 +393,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains",
       "locations/regions/sandsea",
+      "organizations/knights_of_the_scroll",
       "technology/the_decanter"
     ],
     "in": [
@@ -605,6 +608,7 @@
       "campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns",
       "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea",
       "locations/seas/shadowed_sea",
+      "organizations/knights_of_the_scroll",
       "technology/the_decanter"
     ],
     "in": [
@@ -622,6 +626,7 @@
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/anthropes",
       "nature/fauna/sapients/dryn",
+      "organizations/knights_of_the_scroll",
       "technology/the_decanter"
     ],
     "in": [
@@ -855,6 +860,7 @@
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/altyrs",
       "nature/phenomena/the_void",
+      "organizations/knights_of_the_scroll",
       "organizations/scyonic_imperium",
       "technology/doom_knights",
       "technology/skyfarer",
@@ -909,6 +915,7 @@
       "locations/regions/ruined_lands",
       "nature/fauna/sapients/var_yn",
       "organizations/consortium",
+      "organizations/knights_of_the_scroll",
       "technology/doom_knights"
     ]
   },
@@ -1275,6 +1282,19 @@
       "technology/seafarer"
     ]
   },
+  "organizations/knights_of_the_scroll": {
+    "out": [
+      "history/ages/age_of_divinity",
+      "history/ages/age_of_reclamation"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
+      "campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf",
+      "campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition",
+      "campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea"
+    ]
+  },
   "organizations/scyonic_imperium": {
     "out": [
       "history/ages/age_of_divinity",
@@ -1415,7 +1435,6 @@
   "world_of_aroka": {
     "out": [
       "3dx_dice_system/3dx_dice_system",
-      "history/ages/age_of_divinity",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -1428,6 +1447,7 @@
       "nature/phenomena/shard",
       "nature/phenomena/the_void",
       "organizations/consortium",
+      "organizations/knights_of_the_scroll",
       "organizations/scyonic_imperium"
     ],
     "in": [

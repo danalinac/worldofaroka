@@ -12,7 +12,7 @@
   </div>
   <div class=infobox-section>
     <h6>Key Players</h6>
-    <div class=infobox-row><span class=label>Factions:</span><span class=value>Children of Lex, Church of the Dying Light, Knights of the Scroll, the Last Hope, the Pallian Survivors, the Secret Quill, Sucker Outcasts, Reapers, the <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a></span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Children of Lex, Church of the Dying Light, <a href="/pages/organizations/knights_of_the_scroll/" class="internal-link">Knights of the Scroll</a>, the Last Hope, the Pallian Survivors, the Secret Quill, Sucker Outcasts, Reapers, the <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a></span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Arch Vela, Arxst, Atalos, Cas Twyn, the Guide, the Hermit, Naloi, the Necromancer, O'Ard, Rasat, the Slayer, Ton</span></div>
     <div class=infobox-row><span class=label>PCs: </span><span class=value>Ahgytha, Athyna, Chapel, Jack, Perry, Serqet, Tyche</span></div>
   </div>
@@ -53,7 +53,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_19_the_temple_of_the_dying_light/" class="internal-link">MOTFW 19. The Temple of the Dying Light</a> | AOR 542-5-11 | Isle of Lights, Temple of the Dying Lights | Church of the Dying Light, Fortune Pursuit |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_18_the_isle_of_lights/" class="internal-link">MOTFW 18. The Isle of Lights</a> | AOR 542-5-09 | Isle of Lights, Shadowed Shores | Fortune Pursuit, Gruffwind Raiders |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_17_the_shadowed_sea/" class="internal-link">MOTFW 17. The Shadowed Sea</a>]] | AOR 542-5-03 | Shadowed Shores | The Children of Lex, the Last Hope |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/" class="internal-link">MOTFW 16. Nobody Expects the Inquisition</a> | AOR 542-5-01 | Lex-Gate Valley Gate | The Children of Lex, the Knights of the Scroll Inquisitors, the Last Hope, Mercenaries |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_16_nobody_expects_the_inquisition/" class="internal-link">MOTFW 16. Nobody Expects the Inquisition</a> | AOR 542-5-01 | Lex-Gate Valley Gate | The Children of Lex, the <a href="/pages/organizations/knights_of_the_scroll/" class="internal-link">Knights of the Scroll</a> Inquisitors, the Last Hope, Mercenaries |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_15_the_lex_gate_caverns/" class="internal-link">MOTFW 15. The Lex-Gate Caverns</a> | AOR 542-4-97 | <a href="/pages/nature/fauna/sapients/scourge/" class="internal-link">Scourge</a> Camp | The Children of Lex |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_14_return_to_lex_gate_valley/" class="internal-link">MOTFW 14. Return to Lex-Gate Valley</a> | AOR 542-4-89 | The Pillar | The Children of Lex, the Last Hope |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers/" class="internal-link">MOTFW 13. The Reapers</a> | AOR 542-4-86 | The Pillar | The Last Hope |
@@ -68,7 +68,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_04_befriending_the_last_hope/" class="internal-link">MOTFW 04. Befriending the Last Hope</a> | AOR 542-4-50 | Beetle-Kind Fortress, the Crumbling Well, Sanctum | Beetle-Kind, The Last Hope |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth/" class="internal-link">MOTFW 03. The Crumbling Labyrinth</a> | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_02_into_the_lost_mountains/" class="internal-link">MOTFW 02. Into the Lost Mountains</a> | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Wharf | Crevasse Merchants, Refugees |
-| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf/" class="internal-link">MOTFW 01. Welcome to the Wharf</a> | AOR 542-4-39 | Kendathyl Wharf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
+| <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_01_welcome_to_the_wharf/" class="internal-link">MOTFW 01. Welcome to the Wharf</a> | AOR 542-4-39 | Kendathyl Wharf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, <a href="/pages/organizations/knights_of_the_scroll/" class="internal-link">Knights of the Scroll</a> |
 | <a href="/pages/campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city/" class="internal-link">MOTFW 00. Race for the Lost City</a> | Prior | Amyhra, Gravestone, Kendathyl Wharf, Restrock Keep, Westguard | <a href="/pages/nature/phenomena/gaunt/" class="internal-link">Gaunt</a> |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 

@@ -12,7 +12,7 @@
   </div>
   <div class=infobox-section>
     <h6>Key Players</h6>
-    <div class=infobox-row><span class=label>Factions:</span><span class=value>Children of Lex, Church of the Dying Light, Knights of the Scroll, the Last Hope, the Pallian Survivors, the Secret Quill, Sucker Outcasts, Reapers, the <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FVar-Yn">Var-Yn</a></span></div>
+    <div class=infobox-row><span class=label>Factions:</span><span class=value>Children of Lex, Church of the Dying Light, <a href="obsidian://open?vault=Obsidian&file=Organizations%2FKnights%20of%20the%20Scroll">Knights of the Scroll</a>, the Last Hope, the Pallian Survivors, the Secret Quill, Sucker Outcasts, Reapers, the <a href="obsidian://open?vault=Obsidian&file=Nature%2FFauna%2FSapients%2FVar-Yn">Var-Yn</a></span></div>
     <div class=infobox-row><span class=label>NPCs:</span><span class=value>Arch Vela, Arxst, Atalos, Cas Twyn, the Guide, the Hermit, Naloi, the Necromancer, O'Ard, Rasat, the Slayer, Ton</span></div>
     <div class=infobox-row><span class=label>PCs: </span><span class=value>Ahgytha, Athyna, Chapel, Jack, Perry, Serqet, Tyche</span></div>
   </div>
@@ -53,7 +53,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | [[MOTFW 19. The Temple of the Dying Light]] | AOR 542-5-11 | Isle of Lights, Temple of the Dying Lights | Church of the Dying Light, Fortune Pursuit |
 | [[MOTFW 18. The Isle of Lights]] | AOR 542-5-09 | Isle of Lights, Shadowed Shores | Fortune Pursuit, Gruffwind Raiders |
 | [[MOTFW 17. The [[Shadowed Sea]]]] | AOR 542-5-03 | Shadowed Shores | The Children of Lex, the Last Hope |
-| [[MOTFW 16. Nobody Expects the Inquisition]] | AOR 542-5-01 | Lex-Gate Valley Gate | The Children of Lex, the Knights of the Scroll Inquisitors, the Last Hope, Mercenaries |
+| [[MOTFW 16. Nobody Expects the Inquisition]] | AOR 542-5-01 | Lex-Gate Valley Gate | The Children of Lex, the [[Knights of the Scroll]] Inquisitors, the Last Hope, Mercenaries |
 | [[MOTFW 15. The Lex-Gate Caverns]] | AOR 542-4-97 | [[Scourge]] Camp | The Children of Lex |
 | [[MOTFW 14. Return to Lex-Gate Valley]] | AOR 542-4-89 | The Pillar | The Children of Lex, the Last Hope |
 | [[MOTFW 13. The Reapers]] | AOR 542-4-86 | The Pillar | The Last Hope |
@@ -68,7 +68,7 @@ As factions clashed and long‑dormant powers awakened, the group faced choices 
 | [[MOTFW 04. Befriending the Last Hope]] | AOR 542-4-50 | Beetle-Kind Fortress, the Crumbling Well, Sanctum | Beetle-Kind, The Last Hope |
 | [[MOTFW 03. The Crumbling Labyrinth]] | AOR 542-4-29 | Ruined Village, Underground Ruins | Labyrinth Bandits |
 | [[MOTFW 02. Into the Lost Mountains]] | AOR 542-4-43 | Destroyed Village, Frozen Cliffs, Kendathyl Wharf | Crevasse Merchants, Refugees |
-| [[MOTFW 01. Welcome to the Wharf]] | AOR 542-4-39 | Kendathyl Wharf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, Knights of the Scroll |
+| [[MOTFW 01. Welcome to the Wharf]] | AOR 542-4-39 | Kendathyl Wharf, the Lower Swamps | Kendathyl Guards, Kendathyl Nobles, [[Knights of the Scroll]] |
 | [[MOTFW 00. Race for the Lost City]] | Prior | Amyhra, Gravestone, Kendathyl Wharf, Restrock Keep, Westguard | [[Gaunt]] |
 <!-- END STATIC TABLE:MOTFW-Sessions -->
 

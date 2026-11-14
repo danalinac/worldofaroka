@@ -32,7 +32,7 @@
 
 ##### AOR 542-4-70
 
-When the first rays of Voidlight graced the Crumbling City, the Last Hope launched their attack on the central pillar. The Hermit used its Magic to protect the army from the air, allowing them to focus on battling only on foot. With the siege underway, the party rushed to the blocked entrance they had selected the previous day, quickly cleared away enough rubble to gain entry, and slipped inside.
+When the first rays of sunlight graced the Crumbling City, the Last Hope launched their attack on the central pillar. The Hermit used its Magic to protect the army from the air, allowing them to focus on battling only on foot. With the siege underway, the party rushed to the blocked entrance they had selected the previous day, quickly cleared away enough rubble to gain entry, and slipped inside.
 
 Cautiously, the party explored the maze-like interior of the pillar, encountering long-abandoned chambers and ancient traps. Eventually, they located a spiral staircase leading up to the second level. This new level was much more open, seeming to have been a gathering hall with a stagnant stone fountain at its center and the remains of long deteriorated wooden furniture. The staircase to the third level was easy to find, but the party detected Suckers descending it, so they hid and waited to ambush the patrol. The fight was over nearly as quickly as it had started and the party hurried up the stairs.
 

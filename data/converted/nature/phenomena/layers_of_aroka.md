@@ -8,7 +8,7 @@ While cultures throughout the ages have classified various aspects of the world 
 
 ### <a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a>
 
-<a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> is typically defined as higher than any flying creature can reach. It is where the Voidgate and the Three Voidlights dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the three Voidlights and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, <a href="/pages/nature/phenomena/the_void/" class="internal-link">the Void</a> is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
+<a href="/pages/nature/phenomena/the_void/" class="internal-link">The Void</a> is typically defined as higher than any flying creature can reach. It is where the Voidgate and the Three suns dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the three suns and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, <a href="/pages/nature/phenomena/the_void/" class="internal-link">the Void</a> is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
 
 ### The Peaks
 
@@ -24,13 +24,13 @@ The Level is whatever is considered the baseline elevation for the region. If ne
 
 ### The Shallows
 
-The Shallows refers to both underground and underwater regions. For the former, there isn't an official depth that separates the Shallows from the Depths, but if it would take less than a day's worth of travel before encountering Voidlight again, one is considered to be in the Shallows.
+The Shallows refers to both underground and underwater regions. For the former, there isn't an official depth that separates the Shallows from the Depths, but if it would take less than a day's worth of travel before encountering sunlight again, one is considered to be in the Shallows.
 
-For water, the Shallows is limited to how deep Voidlight can reach on a bright day and with normal visibility for that body of water.
+For water, the Shallows is limited to how deep sunlight can reach on a bright day and with normal visibility for that body of water.
 
 ### The Depths
 
-The Depths of the Aroka are reached if it would take more than a day's travel to see Voidlight again. The Depths of the sea are reached when one can no longer see any Voidlight on a bright day. In either case, there is often little interaction between what lives above and below the Depths, with those that live beneath it in the frigid darkness, called Deep Folk, being considered monstrous by those that live above. The creatures that dwell in this region are often lethal hunters and have inspired many a nightmarish tale, but the worst of which, by far, are the Reapers, which spend the majority of the year in the Depths, only venturing closer to the surface during times when Voidlight is scarce, particularly during the <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a>.
+The Depths of the Aroka are reached if it would take more than a day's travel to see sunlight again. The Depths of the sea are reached when one can no longer see any sunlight on a bright day. In either case, there is often little interaction between what lives above and below the Depths, with those that live beneath it in the frigid darkness, called Deep Folk, being considered monstrous by those that live above. The creatures that dwell in this region are often lethal hunters and have inspired many a nightmarish tale, but the worst of which, by far, are the Reapers, which spend the majority of the year in the Depths, only venturing closer to the surface during times when sunlight is scarce, particularly during the <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a>.
 
 ### The Underworld
 

@@ -4,7 +4,7 @@
 
 ### Welcome to the World of Aroka
 
-Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving Voidlights lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
+Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
 Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface, mysterious beings like the [[Dryn]] and [[Var-Yn]], secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded [[Dark Days]]. The world’s past is not dead; it is just waiting for the right time to return.
 
@@ -26,6 +26,7 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Knights of the Scroll]] | 2026-11-14 | Organizations |
 | [[Scyonic Imperium]] | 2026-11-11 | Organizations |
 | [[Dark Days]] | 2026-11-09 | Nature, Phenomena |
 | [[Consortium]] | 2026-11-09 | Organizations |
@@ -38,7 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Altyrs]] | 2026-11-01 | Nature, Fauna, Sapients |
 | [[Var-Yn]] | 2026-11-01 | Nature, Fauna, Sapients |
 | [[The Void]] | 2026-11-01 | Nature, Phenomena |
-| [[Age of Divinity]] | 2026-10-31 | History, Ages |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

@@ -4,7 +4,7 @@
 
 
 
-Whether fending off a fiend or braving places unknown to the Voidlights, a Torchblade is one of the rarer tools carried by adventurers. Despite its advanced design, it doesn't originate from Cogys, which has led many to believe it is a relic from the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> .
+Whether fending off a fiend or braving places unknown to the suns, a Torchblade is one of the rarer tools carried by adventurers. Despite its advanced design, it doesn't originate from Cogys, which has led many to believe it is a relic from the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a> .
  
 At first glance, a Torchblade appears to be a small, decorative torch with a slot in its hilt. Modern tinkerers have managed to bridge the technology gap, using various batteries or power sources to power the Torchblade, though many speculate this solution is far from sufficient to use its full potential.
  

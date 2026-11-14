@@ -46,7 +46,7 @@ As they waited for the toxin to ware off of Perry, the party spotted several win
 
 ##### AOR 542-4-68
 
-To their surprise, the night passed without incident, but the moment the Voidlight entered the Labyrinth, a dozen mosquito-like Sect descend upon them and attack. They were small but quick, jabbing at the party with claws and blades while dancing just out of reach of their attacks. The fight proved challenging, but the party was able to cut most of them down, forcing the rest to turn in retreat.
+To their surprise, the night passed without incident, but the moment the sunlight entered the Labyrinth, a dozen mosquito-like Sect descend upon them and attack. They were small but quick, jabbing at the party with claws and blades while dancing just out of reach of their attacks. The fight proved challenging, but the party was able to cut most of them down, forcing the rest to turn in retreat.
 
 As the remainder of the Sect fled, they were caught up in a magical blaze that burnt them to ash in seconds. A strange hooded figure slowly approached the group, scanning them with Magic so potent even the members of the party with no magical inclination could feel it. Unsure of whether this new being was a friend or foe, the party remained on guard.
  

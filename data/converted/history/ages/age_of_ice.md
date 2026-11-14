@@ -4,7 +4,7 @@
 
 
 
-Following the Firefall and the War of Ashes the ended the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a>, Aroka was plunged into the Age of Ice. Ash and smoke blotted out the three Voidlights, snow dominated the globe, and the surface froze solid. The survivors of the beginning of the apocalypse weathered this new era by retreating beneath the earth, huddling inside what little infrastructure remained standing, or consolidated around the rare pockets of warmth, often in close proximity to geothermically active regions.
+Following the Firefall and the War of Ashes the ended the <a href="/pages/history/ages/age_of_divinity/" class="internal-link">Age of Divinity</a>, Aroka was plunged into the Age of Ice. Ash and smoke blotted out the three suns, snow dominated the globe, and the surface froze solid. The survivors of the beginning of the apocalypse weathered this new era by retreating beneath the earth, huddling inside what little infrastructure remained standing, or consolidated around the rare pockets of warmth, often in close proximity to geothermically active regions.
 
 Apart from the cold, the lack of resources and space also posed a significant threat as both creatures and people fought for what little remained. Even underground, where space was less of a concern, the creatures and peoples that already called the Depths their home did not take kindly to the refugees from the surface. 
 
