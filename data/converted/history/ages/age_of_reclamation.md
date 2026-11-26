@@ -8,7 +8,7 @@ The end of the <a href="/pages/history/ages/age_of_ice/" class="internal-link">A
 
 While no longer frozen, the world was not any less perilous and survival was hard-earned. Shortly into the Age of Reclamation, a strange event began to occur near the beginning of winter. For a brief moment, the three suns disappeared behind the Voidgate, blanketing the world in darkness. Initially, this was a mere peculiarity, but, year over year, the duration of this event grew longer. 
 
-These <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> soon revealed a much more terrifying threat beyond the darkness and lack of warmth. When they grew long enough to last longer than half a day, monsters usually confined to the depths and had been the bane of the peoples that had sought refuge beneath the earth, emerged, ravaging the surface and bringing about the end of many fledgling communities.
+These <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfalls</a> soon revealed a much more terrifying threat beyond the darkness and lack of warmth. When they grew long enough to last longer than half a day, monsters usually confined to the depths and had been the bane of the peoples that had sought refuge beneath the earth, emerged, ravaging the surface and bringing about the end of many fledgling communities.
 
 
 ---

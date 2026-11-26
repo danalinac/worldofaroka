@@ -6,7 +6,7 @@
 
 Shaped by cycles of creation and destruction, light and darkness, hope and ruin, the World of Aroka is one that survived countless cataclysms. Beneath three ever-moving suns lies a land scarred by ancient wars, shattered civilizations, and the lingering echoes of forgotten gods. Across continents of jungle, desert, ruin, and ice, people struggle not just to survive, but to reclaim what was lost and define what comes next.
 
-Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface, mysterious beings like the [[Dryn]] and [[Var-Yn]], secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded [[Dark Days]]. The world’s past is not dead; it is just waiting for the right time to return.
+Aroka is a world of dangerous discovery and fragile hope. Great powers stir beneath the surface, mysterious beings like the [[Dryn]] and [[Var-Yn]], secretive factions hoarding knowledge, and unseen horrors emerging during cycles like the dreaded [[Voidfall]]. The world’s past is not dead; it is just waiting for the right time to return.
 
 To explore Aroka is to stand at the edge of the unknown. Every expedition uncovers forgotten truths. Every alliance carries risk. Every choice has the potential to reshape the future. Whether you seek ancient secrets, survival in hostile lands, or stories forged through collaboration, Aroka invites you to leave your mark on a story still being written.
 
@@ -26,9 +26,10 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Calendars]] | 2026-11-26 | History |
 | [[Knights of the Scroll]] | 2026-11-14 | Organizations |
 | [[Scyonic Imperium]] | 2026-11-11 | Organizations |
-| [[Dark Days]] | 2026-11-09 | Nature, Phenomena |
+| [[Voidfall]] | 2026-11-09 | Nature, Phenomena |
 | [[Consortium]] | 2026-11-09 | Organizations |
 | [[Shard]] | 2026-11-06 | Nature, Phenomena |
 | [[Shadowed Sea]] | 2026-11-05 | Locations, Seas |
@@ -38,7 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Okanu]] | 2026-11-02 | Locations, Islands |
 | [[Altyrs]] | 2026-11-01 | Nature, Fauna, Sapients |
 | [[Var-Yn]] | 2026-11-01 | Nature, Fauna, Sapients |
-| [[The Void]] | 2026-11-01 | Nature, Phenomena |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

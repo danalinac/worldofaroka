@@ -96,6 +96,7 @@
       "history/ages/age_of_reclamation",
       "history/ages/age_of_tribulation",
       "history/ages/age_of_war",
+      "history/calendars",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -117,13 +118,13 @@
       "nature/flora/chokevine",
       "nature/flora/pureroot",
       "nature/flora/treehome",
-      "nature/phenomena/dark_days",
       "nature/phenomena/gaunt",
       "nature/phenomena/layers_of_aroka",
       "nature/phenomena/shadows_of_the_ancients",
       "nature/phenomena/shard",
       "nature/phenomena/soulrot",
       "nature/phenomena/the_void",
+      "nature/phenomena/voidfall",
       "organizations/consortium",
       "organizations/knights_of_the_scroll",
       "organizations/scyonic_imperium",
@@ -376,8 +377,8 @@
       "history/ages/age_of_reclamation",
       "locations/islands/okanu",
       "locations/regions/sandsea",
-      "nature/phenomena/dark_days",
       "nature/phenomena/gaunt",
+      "nature/phenomena/voidfall",
       "technology/seafarer",
       "technology/skyfarer"
     ],
@@ -549,7 +550,7 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
       "campaigns/mantle_of_the_fallen_world/motfw_13_the_reapers",
-      "nature/phenomena/dark_days"
+      "nature/phenomena/voidfall"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -890,11 +891,12 @@
       "campaigns/mantle_of_the_fallen_world/motfw_03_the_crumbling_labyrinth",
       "history/ages/age_of_divinity",
       "history/ages/age_of_reclamation",
+      "history/calendars",
       "locations/regions/ruined_lands",
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/var_yn",
-      "nature/phenomena/dark_days",
       "nature/phenomena/shard",
+      "nature/phenomena/voidfall",
       "organizations/scyonic_imperium",
       "technology/doom_knights"
     ]
@@ -904,13 +906,14 @@
       "history/ages/age_of_ice",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
-      "nature/phenomena/dark_days"
+      "nature/phenomena/voidfall"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "history/ages/age_of_ice",
+      "history/calendars",
       "locations/islands/okanu",
       "locations/regions/ruined_lands",
       "nature/fauna/sapients/var_yn",
@@ -939,6 +942,18 @@
       "history/ages/age_of_tribulation",
       "nature/phenomena/the_void",
       "technology/doom_knights"
+    ]
+  },
+  "history/calendars": {
+    "out": [
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
+      "nature/phenomena/the_void",
+      "nature/phenomena/voidfall",
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history"
     ]
   },
   "locations/islands/okanu": {
@@ -1195,19 +1210,6 @@
       "about_3dx_and_aroka/page_history"
     ]
   },
-  "nature/phenomena/dark_days": {
-    "out": [
-      "history/ages/age_of_ice",
-      "technology/skyfarer"
-    ],
-    "in": [
-      "about_3dx_and_aroka/page_history",
-      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
-      "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
-      "history/ages/age_of_reclamation",
-      "nature/phenomena/layers_of_aroka"
-    ]
-  },
   "nature/phenomena/gaunt": {
     "out": [
       "locations/regions/ruined_lands",
@@ -1223,8 +1225,8 @@
   },
   "nature/phenomena/layers_of_aroka": {
     "out": [
-      "nature/phenomena/dark_days",
-      "nature/phenomena/the_void"
+      "nature/phenomena/the_void",
+      "nature/phenomena/voidfall"
     ],
     "in": [
       "about_3dx_and_aroka/page_history"
@@ -1264,6 +1266,21 @@
       "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "history/ages/age_of_healing",
+      "history/calendars",
+      "nature/phenomena/layers_of_aroka"
+    ]
+  },
+  "nature/phenomena/voidfall": {
+    "out": [
+      "history/ages/age_of_ice",
+      "technology/skyfarer"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
+      "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
+      "history/ages/age_of_reclamation",
+      "history/calendars",
       "nature/phenomena/layers_of_aroka"
     ]
   },
@@ -1393,7 +1410,7 @@
       "about_3dx_and_aroka/page_history",
       "campaigns/mantle_of_the_fallen_world/motfw_00_race_for_the_lost_city",
       "locations/regions/sandsea",
-      "nature/phenomena/dark_days"
+      "nature/phenomena/voidfall"
     ]
   },
   "technology/the_decanter": {
@@ -1435,6 +1452,7 @@
   "world_of_aroka": {
     "out": [
       "3dx_dice_system/3dx_dice_system",
+      "history/calendars",
       "locations/islands/okanu",
       "locations/regions/eastern_echoes",
       "locations/regions/ruined_lands",
@@ -1443,9 +1461,8 @@
       "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
-      "nature/phenomena/dark_days",
       "nature/phenomena/shard",
-      "nature/phenomena/the_void",
+      "nature/phenomena/voidfall",
       "organizations/consortium",
       "organizations/knights_of_the_scroll",
       "organizations/scyonic_imperium"
@@ -1461,6 +1478,7 @@
       "campaigns/light_of_truth/light_of_truth",
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/remnants_of_hope/remnants_of_hope",
+      "history/calendars",
       "nature/phenomena/gaunt",
       "technology/seafarer"
     ]

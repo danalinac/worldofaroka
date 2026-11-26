@@ -364,6 +364,13 @@
       "isFolder": false,
       "url": "/pages/history/ages/age_of_war/"
     },
+    "history/calendars": {
+      "title": "Calendars",
+      "slug": "calendars",
+      "folderPath": "history",
+      "isFolder": false,
+      "url": "/pages/history/calendars/"
+    },
     "locations/islands/okanu": {
       "title": "Okanu",
       "slug": "okanu",
@@ -511,13 +518,6 @@
       "isFolder": false,
       "url": "/pages/nature/flora/treehome/"
     },
-    "nature/phenomena/dark_days": {
-      "title": "Dark Days",
-      "slug": "dark_days",
-      "folderPath": "nature/phenomena",
-      "isFolder": false,
-      "url": "/pages/nature/phenomena/dark_days/"
-    },
     "nature/phenomena/gaunt": {
       "title": "Gaunt",
       "slug": "gaunt",
@@ -559,6 +559,13 @@
       "folderPath": "nature/phenomena",
       "isFolder": false,
       "url": "/pages/nature/phenomena/the_void/"
+    },
+    "nature/phenomena/voidfall": {
+      "title": "Voidfall",
+      "slug": "voidfall",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/voidfall/"
     },
     "organizations/consortium": {
       "title": "Consortium",
@@ -790,7 +797,8 @@
       "title": "History",
       "hubpage": null,
       "children": [
-        "history/ages"
+        "history/ages",
+        "history/calendars"
       ]
     },
     "history/ages": {
@@ -892,13 +900,13 @@
       "title": "Phenomena",
       "hubpage": null,
       "children": [
-        "nature/phenomena/dark_days",
         "nature/phenomena/gaunt",
         "nature/phenomena/layers_of_aroka",
         "nature/phenomena/shadows_of_the_ancients",
         "nature/phenomena/shard",
         "nature/phenomena/soulrot",
-        "nature/phenomena/the_void"
+        "nature/phenomena/the_void",
+        "nature/phenomena/voidfall"
       ]
     },
     "organizations": {

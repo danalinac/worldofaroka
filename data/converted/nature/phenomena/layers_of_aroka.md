@@ -12,7 +12,7 @@ While cultures throughout the ages have classified various aspects of the world 
 
 ### The Peaks
 
-The Peaks are the highest mountains in the region, most often relegated to mountain tops that have year-round snow. However, in areas that don't experience much snowfall apart from during and immediately after the <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a> even on their tallest mountains, they may lower the requirement to simply high enough in elevation to cause breathing difficulties to those unacclimated.
+The Peaks are the highest mountains in the region, most often relegated to mountain tops that have year-round snow. However, in areas that don't experience much snowfall apart from during and immediately after the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a> even on their tallest mountains, they may lower the requirement to simply high enough in elevation to cause breathing difficulties to those unacclimated.
 
 The Heights
 
@@ -30,7 +30,7 @@ For water, the Shallows is limited to how deep sunlight can reach on a bright da
 
 ### The Depths
 
-The Depths of the Aroka are reached if it would take more than a day's travel to see sunlight again. The Depths of the sea are reached when one can no longer see any sunlight on a bright day. In either case, there is often little interaction between what lives above and below the Depths, with those that live beneath it in the frigid darkness, called Deep Folk, being considered monstrous by those that live above. The creatures that dwell in this region are often lethal hunters and have inspired many a nightmarish tale, but the worst of which, by far, are the Reapers, which spend the majority of the year in the Depths, only venturing closer to the surface during times when sunlight is scarce, particularly during the <a href="/pages/nature/phenomena/dark_days/" class="internal-link">Dark Days</a>.
+The Depths of the Aroka are reached if it would take more than a day's travel to see sunlight again. The Depths of the sea are reached when one can no longer see any sunlight on a bright day. In either case, there is often little interaction between what lives above and below the Depths, with those that live beneath it in the frigid darkness, called Deep Folk, being considered monstrous by those that live above. The creatures that dwell in this region are often lethal hunters and have inspired many a nightmarish tale, but the worst of which, by far, are the Reapers, which spend the majority of the year in the Depths, only venturing closer to the surface during times when sunlight is scarce, particularly during the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a>.
 
 ### The Underworld
 
