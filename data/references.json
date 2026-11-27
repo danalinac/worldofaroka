@@ -864,7 +864,6 @@
       "history/ages/age_of_ice",
       "locations/seas/shadowed_sea",
       "nature/fauna/sapients/altyrs",
-      "nature/phenomena/the_void",
       "organizations/knights_of_the_scroll",
       "organizations/scyonic_imperium",
       "technology/doom_knights",
@@ -946,7 +945,6 @@
       "about_3dx_and_aroka/page_history",
       "history/ages/age_of_healing",
       "history/ages/age_of_tribulation",
-      "nature/phenomena/the_void",
       "technology/doom_knights"
     ]
   },
@@ -1278,8 +1276,6 @@
   },
   "nature/phenomena/the_void": {
     "out": [
-      "history/ages/age_of_divinity",
-      "history/ages/age_of_war",
       "nature/phenomena/three_suns"
     ],
     "in": [
@@ -1306,12 +1302,14 @@
       "history/calendars",
       "nature/phenomena/layers_of_aroka",
       "nature/phenomena/seasons",
-      "nature/phenomena/the_void"
+      "nature/phenomena/the_void",
+      "nature/phenomena/voidfall"
     ]
   },
   "nature/phenomena/voidfall": {
     "out": [
       "history/ages/age_of_ice",
+      "nature/phenomena/three_suns",
       "technology/skyfarer"
     ],
     "in": [

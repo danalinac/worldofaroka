@@ -22,7 +22,7 @@ Day 52: Valkena and Xaraka appear as one in the sky.
 
 Day 97: Syrga and Xaraka appear as one in the sky.
 
-Day 126: Valkena passes through the Voidgate, cooling and dimming Aroka slightly until it reemerges two days later.
+Day 126: Valkena flickers out, cooling and dimming Aroka slightly until it reemerges two days later.
 
 ##### First Blaze
 
@@ -34,11 +34,11 @@ Day 224: This is the first of the two hottest days of the year, marking the end 
 
 ##### Frostfall
 
-Day 251: Syrga passes through the Voidgate, returning four days later.
+Day 251: Syrga flickers out, returning four days later.
 
-Day 253: Valkena also passes through the Voidgate, emerging two days later with Syrga. The loss of light and warmth from both Valkena and Syrga result in the steepest drop in temperature outside of the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a>. 
+Day 253: Valkena flickers out, emerging two days later with Syrga. The loss of light and warmth from both Valkena and Syrga result in the steepest drop in temperature outside of the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a>. 
 
-Day 255: With Xaraka centered in the sky and both Valkena and Syrga returning from the Voidgate, all light sources are in the same position in the sky, resulting in the shortest day of the year.
+Day 255: With Xaraka centered in the sky and both Valkena and Syrga return to the sky, all light sources are in the same position in the sky, resulting in the shortest day of the year.
 
 ##### Deepfrost
 
@@ -48,7 +48,7 @@ Day 297: Valkena and Syrga appear as one in the sky.
 
 ##### Second Bloom
 
-Day 380: Valkena again passes through the Voidgate, returning two days later. This results in a similar dimming and temperature drop to the one experienced on day 126.
+Day 380: Valkena again flickers out, returning two days later. This results in a similar dimming and temperature drop to the one experienced on day 126.
 
 Day 405: Syrga and Xaraka appear as one in the sky.
 
@@ -62,11 +62,11 @@ Day 475: This is the second of the hottest days of the year, carrying the same w
 
 ##### Voidhark
 
-Day 502: Xaraka passes through the Voidgate, warning that the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a> is approaching.
+Day 502: Xaraka flickers out, warning that the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a> is approaching.
 
-Day 505: Syrga passes through the Voidgate, warning that the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a> is imminent. 
+Day 505: Syrga flickers out, warning that the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a> is imminent. 
 
-Day 507: Valkena passes through the Voidgate, beginning the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a>. 
+Day 507: Valkena flickers out, beginning the <a href="/pages/nature/phenomena/voidfall/" class="internal-link">Voidfall</a>. 
 
 
 ---
