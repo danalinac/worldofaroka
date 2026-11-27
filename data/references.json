@@ -120,10 +120,12 @@
       "nature/flora/treehome",
       "nature/phenomena/gaunt",
       "nature/phenomena/layers_of_aroka",
+      "nature/phenomena/seasons",
       "nature/phenomena/shadows_of_the_ancients",
       "nature/phenomena/shard",
       "nature/phenomena/soulrot",
       "nature/phenomena/the_void",
+      "nature/phenomena/three_suns",
       "nature/phenomena/voidfall",
       "organizations/consortium",
       "organizations/knights_of_the_scroll",
@@ -212,7 +214,8 @@
       "characters/kagbar",
       "locations/regions/eastern_echoes",
       "nature/fauna/sapients/scourge",
-      "nature/phenomena/the_void"
+      "nature/phenomena/the_void",
+      "nature/phenomena/three_suns"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -522,7 +525,8 @@
       "campaigns/mantle_of_the_fallen_world/mantle_of_the_fallen_world",
       "campaigns/mantle_of_the_fallen_world/motfw_09_the_battle_of_blood",
       "campaigns/mantle_of_the_fallen_world/motfw_11_return_to_the_labyrinth",
-      "nature/fauna/sapients/dryn"
+      "nature/fauna/sapients/dryn",
+      "nature/phenomena/three_suns"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -883,7 +887,8 @@
   "history/ages/age_of_ice": {
     "out": [
       "history/ages/age_of_divinity",
-      "history/ages/age_of_reclamation"
+      "history/ages/age_of_reclamation",
+      "nature/phenomena/three_suns"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
@@ -906,6 +911,7 @@
       "history/ages/age_of_ice",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
+      "nature/phenomena/three_suns",
       "nature/phenomena/voidfall"
     ],
     "in": [
@@ -948,7 +954,9 @@
     "out": [
       "history/ages/age_of_ice",
       "history/ages/age_of_reclamation",
+      "nature/phenomena/seasons",
       "nature/phenomena/the_void",
+      "nature/phenomena/three_suns",
       "nature/phenomena/voidfall",
       "world_of_aroka"
     ],
@@ -1226,10 +1234,21 @@
   "nature/phenomena/layers_of_aroka": {
     "out": [
       "nature/phenomena/the_void",
+      "nature/phenomena/three_suns",
       "nature/phenomena/voidfall"
     ],
     "in": [
       "about_3dx_and_aroka/page_history"
+    ]
+  },
+  "nature/phenomena/seasons": {
+    "out": [
+      "nature/phenomena/three_suns",
+      "nature/phenomena/voidfall"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "history/calendars"
     ]
   },
   "nature/phenomena/shadows_of_the_ancients": {
@@ -1260,14 +1279,34 @@
   "nature/phenomena/the_void": {
     "out": [
       "history/ages/age_of_divinity",
-      "history/ages/age_of_war"
+      "history/ages/age_of_war",
+      "nature/phenomena/three_suns"
     ],
     "in": [
       "about_3dx_and_aroka/page_history",
       "campaigns/echoes_of_the_empire/eote_02_survival_101",
       "history/ages/age_of_healing",
       "history/calendars",
-      "nature/phenomena/layers_of_aroka"
+      "nature/phenomena/layers_of_aroka",
+      "nature/phenomena/three_suns"
+    ]
+  },
+  "nature/phenomena/three_suns": {
+    "out": [
+      "nature/phenomena/the_void",
+      "nature/phenomena/voidfall",
+      "world_of_aroka"
+    ],
+    "in": [
+      "about_3dx_and_aroka/page_history",
+      "campaigns/echoes_of_the_empire/eote_02_survival_101",
+      "campaigns/mantle_of_the_fallen_world/motfw_10_lex_gate_valley",
+      "history/ages/age_of_ice",
+      "history/ages/age_of_reclamation",
+      "history/calendars",
+      "nature/phenomena/layers_of_aroka",
+      "nature/phenomena/seasons",
+      "nature/phenomena/the_void"
     ]
   },
   "nature/phenomena/voidfall": {
@@ -1281,7 +1320,9 @@
       "campaigns/mantle_of_the_fallen_world/motfw_12_beneath_the_pillar",
       "history/ages/age_of_reclamation",
       "history/calendars",
-      "nature/phenomena/layers_of_aroka"
+      "nature/phenomena/layers_of_aroka",
+      "nature/phenomena/seasons",
+      "nature/phenomena/three_suns"
     ]
   },
   "organizations/consortium": {
@@ -1458,10 +1499,11 @@
       "locations/regions/ruined_lands",
       "locations/regions/sandsea",
       "locations/seas/shadowed_sea",
-      "nature/fauna/sapients/altyrs",
       "nature/fauna/sapients/dryn",
       "nature/fauna/sapients/var_yn",
+      "nature/phenomena/seasons",
       "nature/phenomena/shard",
+      "nature/phenomena/three_suns",
       "nature/phenomena/voidfall",
       "organizations/consortium",
       "organizations/knights_of_the_scroll",
@@ -1480,6 +1522,7 @@
       "campaigns/remnants_of_hope/remnants_of_hope",
       "history/calendars",
       "nature/phenomena/gaunt",
+      "nature/phenomena/three_suns",
       "technology/seafarer"
     ]
   }

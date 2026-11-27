@@ -52,7 +52,7 @@ The night was uneventful for the most part, but Perry, who stood the last watch,
 
 ##### AOR 542-4-79
 
-As the first of the three suns rose, the party packed up their gear and made their way back to the gate. Though the rain had ceased, the ground was still muddy and slippery. Upon reaching the gate, the party was able to see that the guards consisted entirely of [[Dryn]]. They were allowed inside on the condition that they surrendered their weapons while meeting with their captain. Helianth and Augustus wished to maintain their weapons, so they remained outside the gate.
+As the first of the [[Three Suns|three suns]] rose, the party packed up their gear and made their way back to the gate. Though the rain had ceased, the ground was still muddy and slippery. Upon reaching the gate, the party was able to see that the guards consisted entirely of [[Dryn]]. They were allowed inside on the condition that they surrendered their weapons while meeting with their captain. Helianth and Augustus wished to maintain their weapons, so they remained outside the gate.
 
 Those that surrendered their weapons were ushered into a stone structure. Inside was a circular table( We( With a fierce looking warrioress sitting across from them. All the furniture was uniformly sized for [[Dryn]], so Ahgythah, Jack, and Perry all sat on the floor while Devyn and Je'Olt sat on their shoulders. Only Athyna was the appropriate size for the chairs.
 

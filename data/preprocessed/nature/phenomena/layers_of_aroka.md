@@ -8,7 +8,7 @@ While cultures throughout the ages have classified various aspects of the world 
 
 ### <a href="obsidian://open?vault=Obsidian&file=Nature%2FPhenomena%2FThe%20Void">The Void</a>
 
-[[The Void]] is typically defined as higher than any flying creature can reach. It is where the Voidgate and the Three suns dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the three suns and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, [[The Void|the Void]] is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
+[[The Void]] is typically defined as higher than any flying creature can reach. It is where the Voidgate and the [[Three Suns|Three suns]] dwell. Of note, there are no stars in the night sky of Aroka. The only lights are the [[Three Suns|three suns]] and Aroka's moon prior to the First Firefall. This is the realm of the unknown forces of existence and the mysteries of the cosmos. In most beliefs, [[The Void|the Void]] is where the dark and evil creatures descend from to plague Aroka and where the souls of those that live lives of evil and harm go after death.
 
 ### The Peaks
 

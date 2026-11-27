@@ -11,6 +11,8 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/phenomena/seasons/" class="internal-link">Seasons</a> | 2026-11-27 | Nature, Phenomena |
+| <a href="/pages/nature/phenomena/three_suns/" class="internal-link">Three Suns</a> | 2026-11-27 | Nature, Phenomena |
 | <a href="/pages/history/calendars/" class="internal-link">Calendars</a> | 2026-11-26 | History |
 | <a href="/pages/organizations/knights_of_the_scroll/" class="internal-link">Knights of the Scroll</a> | 2026-11-14 | Organizations |
 | <a href="/pages/organizations/scyonic_imperium/" class="internal-link">Scyonic Imperium</a> | 2026-11-11 | Organizations |

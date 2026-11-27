@@ -26,6 +26,8 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| <a href="/pages/nature/phenomena/seasons/" class="internal-link">Seasons</a> | 2026-11-27 | Nature, Phenomena |
+| <a href="/pages/nature/phenomena/three_suns/" class="internal-link">Three Suns</a> | 2026-11-27 | Nature, Phenomena |
 | <a href="/pages/history/calendars/" class="internal-link">Calendars</a> | 2026-11-26 | History |
 | <a href="/pages/organizations/knights_of_the_scroll/" class="internal-link">Knights of the Scroll</a> | 2026-11-14 | Organizations |
 | <a href="/pages/organizations/scyonic_imperium/" class="internal-link">Scyonic Imperium</a> | 2026-11-11 | Organizations |
@@ -37,8 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | <a href="/pages/locations/regions/sandsea/" class="internal-link">Sandsea</a> | 2026-11-04 | Locations, Regions |
 | <a href="/pages/locations/regions/eastern_echoes/" class="internal-link">Eastern Echoes</a> | 2026-11-03 | Locations, Regions |
 | <a href="/pages/locations/islands/okanu/" class="internal-link">Okanu</a> | 2026-11-02 | Locations, Islands |
-| <a href="/pages/nature/fauna/sapients/altyrs/" class="internal-link">Altyrs</a> | 2026-11-01 | Nature, Fauna, Sapients |
-| <a href="/pages/nature/fauna/sapients/var_yn/" class="internal-link">Var-Yn</a> | 2026-11-01 | Nature, Fauna, Sapients |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 

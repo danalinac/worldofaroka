@@ -11,6 +11,8 @@ Of note, I will sometimes make minor changes to pages that have already been pub
 <!-- BEGIN STATIC TABLE:All-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Seasons]] | 2026-11-27 | Nature, Phenomena |
+| [[Three Suns]] | 2026-11-27 | Nature, Phenomena |
 | [[Calendars]] | 2026-11-26 | History |
 | [[Knights of the Scroll]] | 2026-11-14 | Organizations |
 | [[Scyonic Imperium]] | 2026-11-11 | Organizations |

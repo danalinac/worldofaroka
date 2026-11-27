@@ -532,6 +532,13 @@
       "isFolder": false,
       "url": "/pages/nature/phenomena/layers_of_aroka/"
     },
+    "nature/phenomena/seasons": {
+      "title": "Seasons",
+      "slug": "seasons",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/seasons/"
+    },
     "nature/phenomena/shadows_of_the_ancients": {
       "title": "Shadows of the Ancients",
       "slug": "shadows_of_the_ancients",
@@ -559,6 +566,13 @@
       "folderPath": "nature/phenomena",
       "isFolder": false,
       "url": "/pages/nature/phenomena/the_void/"
+    },
+    "nature/phenomena/three_suns": {
+      "title": "Three Suns",
+      "slug": "three_suns",
+      "folderPath": "nature/phenomena",
+      "isFolder": false,
+      "url": "/pages/nature/phenomena/three_suns/"
     },
     "nature/phenomena/voidfall": {
       "title": "Voidfall",
@@ -902,10 +916,12 @@
       "children": [
         "nature/phenomena/gaunt",
         "nature/phenomena/layers_of_aroka",
+        "nature/phenomena/seasons",
         "nature/phenomena/shadows_of_the_ancients",
         "nature/phenomena/shard",
         "nature/phenomena/soulrot",
         "nature/phenomena/the_void",
+        "nature/phenomena/three_suns",
         "nature/phenomena/voidfall"
       ]
     },

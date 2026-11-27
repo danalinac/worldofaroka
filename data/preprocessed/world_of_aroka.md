@@ -26,6 +26,8 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 <!-- BEGIN STATIC TABLE:Recent-Pages -->
 | <h6>Page</h6> | <h6>Published</h6> | <h6>Categories</h6> |
 | --- | --- | --- |
+| [[Seasons]] | 2026-11-27 | Nature, Phenomena |
+| [[Three Suns]] | 2026-11-27 | Nature, Phenomena |
 | [[Calendars]] | 2026-11-26 | History |
 | [[Knights of the Scroll]] | 2026-11-14 | Organizations |
 | [[Scyonic Imperium]] | 2026-11-11 | Organizations |
@@ -37,8 +39,6 @@ If you have any comments or questions, please don't hesitate to contact me at 3d
 | [[Sandsea]] | 2026-11-04 | Locations, Regions |
 | [[Eastern Echoes]] | 2026-11-03 | Locations, Regions |
 | [[Okanu]] | 2026-11-02 | Locations, Islands |
-| [[Altyrs]] | 2026-11-01 | Nature, Fauna, Sapients |
-| [[Var-Yn]] | 2026-11-01 | Nature, Fauna, Sapients |
 <!-- END STATIC TABLE:Recent-Pages -->
 ---
 
